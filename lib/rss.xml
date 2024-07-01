@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obisidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://obsidian.nasubi.dev/</link><image><url>https://obsidian.nasubi.dev/lib/media/favicon.png</url><title>obisidian</title><link>https://obsidian.nasubi.dev/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 01 Jul 2024 00:21:32 GMT</lastBuildDate><atom:link href="https://obsidian.nasubi.dev/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 01 Jul 2024 00:21:27 GMT</pubDate><copyright><![CDATA[nasubi]]></copyright><ttl>60</ttl><dc:creator>nasubi</dc:creator><item><title><![CDATA[MaturibaTech vol.4に参加してきた]]></title><description><![CDATA[ 
+ <br><br>東海地方の学生団体が参加するエンジニア志望の学生同士の交流会｡<br>今回は総勢70名が参加しており､今回は新1年生も多かったが､普段はやはり就職前の2~3年生が多い｡技術について話すだけでなく､ハッカソンやイベント､長期インターンシップの情報交換の場としての役割もある｡<br>つまり､､､<br>す ご い ひ と た ち ば っ か り<br><br>開催場所が大名古屋ビルヂングの32Fという超都心でA-TEAMのオフィスを借りている｡(Qiitaの運営会社!!!)これは本当に学生団体の集まる場所なのかと､想像より遥かにすごいところで入る前からワクワクしていた｡<br>TechTrainやサポーターズなどのエンジニア御用達サービスの話題が当たり前のように話されていて驚いた｡大学の同級生からはまず耳にしない単語ばかりでここでしかできない体験だと振り返って改めて感じる｡<br>正直こういう交流の場が苦手なタイプでめちゃくちゃ緊張して序盤は誰にも話しかけれない｡一緒に参加した友達について行って友達が話しかけた人と話すぐらいしかできなかった｡でも､終盤は一度だけ私から話しかけることができた｡そしたら緊張も解けて沢山の人と話すことができた｡やはりここにいる人達は共通の話題があるので仲良くなれる｡あっちから話しかけてくれることもあっていい雰囲気だった｡<br>技育ハッカソンvol.7に出場予定で､知り合った専門学生3年の方も出場予定らしくライバルが見つかった｡こういう相手がいると余計にやる気が出てくるぜ｡<br>でも相手さんはNextjsのコントリビューターとGoogleの採用を蹴った人など化け物ばかりを連れて出場するらしい｡ :yabasugi: 胸を借りるつもりで挑む｡<br>途中で挟まる盛り上げLTも本当に面白くて､機械学習 × フーリエ変換という門外漢ながらに興味深い内容で聴いてて楽しかった｡<br>ここで知り合った人と交換したSNSがTwitterとDiscord｡安心する｡]]></description><link>https://obsidian.nasubi.dev/blogs/maturibatech-vol.4に参加してきた/qiita.html</link><guid isPermaLink="false">blogs/MaturibaTech vol.4に参加してきた/Qiita.md</guid><dc:creator><![CDATA[nasubl]]></dc:creator><pubDate>Thu, 23 May 2024 00:18:45 GMT</pubDate></item><item><title><![CDATA[Obsidian]]></title><description><![CDATA[ 
+ <br><br><br>東海地方の学生団体が参加するエンジニア志望の学生同士の交流会｡<br>今回は総勢70名が参加しており､今回は新1年生も多かったが､普段はやはり就職前の2~3年生が多い｡技術について話すだけでなく､ハッカソンやイベント､長期インターンシップの情報交換の場としての役割もある｡<br>つまり､､､<br>す ご い ひ と た ち ば っ か り<br><br><br>開催場所が大名古屋ビルヂングの32Fという超都心でA-TEAMのオフィスを借りている｡(Qiitaの運営会社!!!)これは本当に学生団体の集まる場所なのかと､想像より遥かにすごいところで入る前からワクワクしていた｡<br>TechTrainやサポーターズなどのエンジニア御用達サービスの話題が当たり前のように話されていて驚いた｡大学の同級生からはまず耳にしない単語ばかりでここでしかできない体験だと振り返って改めて感じる｡<br>正直こういう交流の場が苦手なタイプでめちゃくちゃ緊張して序盤は誰にも話しかけれない｡一緒に参加した友達について行って友達が話しかけた人と話すぐらいしかできなかった｡でも､終盤は一度だけ私から話しかけることができた｡そしたら緊張も解けて沢山の人と話すことができた｡やはりここにいる人達は共通の話題があるので仲良くなれる｡あっちから話しかけてくれることもあっていい雰囲気だった｡<br>技育ハッカソンvol.7に出場予定で､知り合った専門学生3年の方も出場予定らしくライバルが見つかった｡こういう相手がいると余計にやる気が出てくるぜ｡<br>でも相手さんはNextjsのコントリビューターとGoogleの採用を蹴った人など化け物ばかりを連れて出場するらしい｡ :yabasugi: 胸を借りるつもりで挑む｡<br>途中で挟まる盛り上げLTも本当に面白くて､機械学習 × フーリエ変換という門外漢ながらに興味深い内容で聴いてて楽しかった｡<br>ここで知り合った人と交換したSNSがTwitterとDiscord｡安心する｡]]></description><link>https://obsidian.nasubi.dev/blogs/maturibatech-vol.4に参加してきた/obsidian.html</link><guid isPermaLink="false">blogs/MaturibaTech vol.4に参加してきた/Obsidian.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 18 May 2024 04:53:59 GMT</pubDate></item><item><title><![CDATA[Zenn]]></title><description><![CDATA[ 
+ <br><br>東海地方の学生団体が参加するエンジニア志望の学生同士の交流会｡<br>今回は総勢70名が参加しており､今回は新1年生も多かったが､普段はやはり就職前の2~3年生が多い｡技術について話すだけでなく､ハッカソンやイベント､長期インターンシップの情報交換の場としての役割もある｡<br>つまり､､､<br>す ご い ひ と た ち ば っ か り<br><br>開催場所が大名古屋ビルヂングの32Fという超都心でA-TEAMのオフィスを借りている｡(Qiitaの運営会社!!!)これは本当に学生団体の集まる場所なのかと､想像より遥かにすごいところで入る前からワクワクしていた｡<br>TechTrainやサポーターズなどのエンジニア御用達サービスの話題が当たり前のように話されていて驚いた｡大学の同級生からはまず耳にしない単語ばかりでここでしかできない体験だと振り返って改めて感じる｡<br>正直こういう交流の場が苦手なタイプでめちゃくちゃ緊張して序盤は誰にも話しかけれない｡一緒に参加した友達について行って友達が話しかけた人と話すぐらいしかできなかった｡でも､終盤は一度だけ私から話しかけることができた｡そしたら緊張も解けて沢山の人と話すことができた｡やはりここにいる人達は共通の話題があるので仲良くなれる｡あっちから話しかけてくれることもあっていい雰囲気だった｡<br>技育ハッカソンvol.7に出場予定で､知り合った専門学生3年の方も出場予定らしくライバルが見つかった｡こういう相手がいると余計にやる気が出てくるぜ｡<br>でも相手さんはNextjsのコントリビューターとGoogleの採用を蹴った人など化け物ばかりを連れて出場するらしい｡ :yabasugi: 胸を借りるつもりで挑む｡<br>途中で挟まる盛り上げLTも本当に面白くて､機械学習 × フーリエ変換という門外漢ながらに興味深い内容で聴いてて楽しかった｡<br>ここで知り合った人と交換したSNSがTwitterとDiscord｡安心する｡]]></description><link>https://obsidian.nasubi.dev/blogs/maturibatech-vol.4に参加してきた/zenn.html</link><guid isPermaLink="false">blogs/MaturibaTech vol.4に参加してきた/Zenn.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 18 May 2024 06:40:56 GMT</pubDate></item><item><title><![CDATA[memo]]></title><description><![CDATA[ 
+ <br> 新たに追加した<br>
+<br>Gitの導入
+
+<br>バックアップとしてほしくなった
+<br>これで草が枯れることはない
+
+
+<br>Templaterの自動置き換え
+
+<br>Calendar Pluginと互換性あり
+<br>Daily noteのファイルを勝手にTemplaterとして読み込んで変換してくれる
+
+
+<br>Google Calenderとの連携
+
+<br>GCPでGoogle カレンダーAPIを作成してObsidianとの自動同期を実現
+<br>Checkboxでタスクの管理も可能
+<br>でもThinoとの相性は良くない
+
+
+<br>Quickshare
+
+<br>一発で共有用のページ作成&amp;リンク共有
+<br>ガチで有用
+
+
+<br>Cloudinary
+
+<br>導入したらQuickshareとの相性が良さげかも
+<br>できてない
+
+<br>Image Converterと機能がかぶる
+
+
+
+
+<br>Markdown Table checkbox
+
+<br>不便なObsidianのTable改造第一弾
+<br>これはHTMLのCheckboxだからクリックしようとするとソースコードになる
+<br>Quickshareで表示しようとするとHTMLだからクリックできてしまう
+<br>まだプルダウンはないし､一発で出せるTemplateを作らないとな
+
+
+<br>TableのTemplater追加
+
+<br>意外と作成がだるい
+
+
+<br>Reminder
+
+<br>CardBoardの設定がKanbanに沿っているので､Reminderの設定をKanbanにした
+<br>Reminder上でDoneをしてもほかと遜色なし
+
+
+<br>Thino
+
+<br>Thino上で時間設定するときにTabでもEnterも矢印移動できないのがヤバい
+<br>TODOの先頭にいつもHH:mm:ssを付けてるけどいらなくね?
+<br>Daily noteの順序を決めるためだっけ?
+<br>TODO一行が長くなってきたから減らしたい
+
+
+<br>Task Timeline
+
+<br>すごくいいUIしてるけど相性が悪い
+<br>TODOの追加もサイドバーでできるのが良さげ
+<br>Thinoは下に追加されてくのに対してこっちは上
+
+
+<br>Shortcut<br>
+<br>Thino起動 option + t
+<br>CardBoard起動 option + c
+<br>Remotely Save option + s
+<br>ユニークノート作成 option + u
+<br>コマンド起動 cmd + shift + p
+<br>ノート検索&amp;作成 cmd + o
+<br>outline順序変換 cmd + ↑↓
+<br>ソースモード切り替え cmd + e
+
+<br>defaultのリーディングモードを使わなさ過ぎるので置き換え
+
+
+<br>quickshareの作成 option + q
+<br>PDF出力 cmd + p
+<br>現在開いているページの削除 cmd + shift + delete
+<br>
+]]></description><link>https://obsidian.nasubi.dev/blogs/obsidian-v2/memo.html</link><guid isPermaLink="false">blogs/Obsidian v2/memo.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 29 Jun 2024 11:08:50 GMT</pubDate></item><item><title><![CDATA[アウトライン]]></title><description><![CDATA[ 
+ <br>3分LT発表<br>
+<br>Obsidianとは
+
+<br>NotionやScrapboxやesaやKeepメモと何が違うのか
+<br>拡張機能の豊富さ
+<br>.md形式なのでサ終しても閲覧可能
+
+<br>CanvaとかNotionへの批判とかではないです
+
+
+<br>GitHubのコメントとかエンジニアには必須技術?
+
+
+<br>エンジニア向けの使い方
+
+<br>アイデアまとめ編
+
+<br>Zettelkasten
+<br>Canvaに広げてみたり
+<br>Excalidrawで書き込んでみたり
+
+
+<br>タスク管理
+
+<br>ThinoとCardBoardとReminderでゴールしている
+
+
+
+
+<br>5s拡張機能紹介
+
+<br>
+
+
+]]></description><link>https://obsidian.nasubi.dev/blogs/obsidian-v2/アウトライン.html</link><guid isPermaLink="false">blogs/Obsidian v2/アウトライン.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 29 Jun 2024 13:08:39 GMT</pubDate></item><item><title><![CDATA[Draft]]></title><description><![CDATA[ 
+ <br>構成メモ<br>
+ターゲット<br>
+<br>大学生のプログラマー､情報系学生<br>
+キーワード
+<br>大学生活
+<br>活用術
+<br>プラグイン
+<br>手軽に記録したいことだけ記録する
+
+<br>人生をObisidianで管理するとかはハードルが高すぎるし､正直引く
+<br><a data-tooltip-position="top" aria-label="https://note.com/masuipeo/n/n7ea1b414db6e" rel="noopener" class="external-link" href="https://note.com/masuipeo/n/n7ea1b414db6e" target="_blank">Obsidianで人生を管理する｜masuipeo</a>
+
+
+<br>テーマ<br>
+<br>
+Pluginsの紹介ではなく､あくまで使い方｡使い方のためにPluginsをいれる｡
+
+<br>
+大学生向けにレポート提出などにも使えるとアピールする
+
+<br>
+日常的にこれを使っていたら.mdに慣れて､esaの記事を書く心理的ハードルが下がる
+
+<br>
+Obsidianとは
+
+<br>最高な点
+
+<br>基本的にローカル上に.mdファイルが存在するので出先でもWi-Fiの有無を気にせずに使える(これも今外出先で書いている
+
+<br>SIMを無制限にしていてもテザリングは50GBまでみたいなこともあり､ここは重要
+
+
+<br>形式や構文に独自のものがない(内部リンクを除く)のでObsidianがサ終しても永久に閲覧可能な状態
+<br>拡張機能たくさん!!!
+
+<br>大学生活で役に立つObisidianの使い方と共に便利なプラグインを紹介していきます｡
+
+
+
+
+
+
+<br>
+大学のレポート提出
+
+<br>知識の体系化
+
+<br>京大生は全学年でPythonを履修しますし､工業系大学の学生であればC言語を学びます(うちの学校のことですね)｡使い方を自分の中で体系化させることは大切です｡Githubでもいいので自分がわかるようにやったことには履歴を残しましょう｡
+
+
+<br>Better Comment Count
+<br>Editor Syntax Highlight
+<br>Quick LateX
+<br>発展
+
+<br>typstとの連携
+
+<br>pandocを使って.typに変換
+<br>Shell Command
+
+
+
+
+
+
+<br>
+Task管理
+
+<br>Thino
+
+<br>スマホだとDaily noteとリンクしていない→詳しいひと教えて下さい｡
+
+
+<br>CartBoard
+<br>Checklist
+
+<br>Tasks
+<br>Kanban
+
+
+<br>タグは適当に使い始めると後々煩雑になって困りそうなので現状はTODOにしか使っていない｡アイデアとかにタグを使い始めたらもっとよくなりそうだけどあとが怖い｡
+<br>予定管理は私も困っている
+
+<br>Day Plannerがあるが､Google Calendarでええやんと思ってしまう｡
+<br>リマインダー系がない
+<br>通知はほぼ不可能
+<br>予定を立てることは一応できるが､まだ良い解決案が見つかっていない｡募集中です｡
+
+
+
+
+<br>
+日記
+
+<br>帰りの電車内で一日を振り返りつつ日記をつける｡
+<br>Daily noteを使いこなす
+<br>templateを使いこなす
+<br>Calendar
+<br>Templater
+
+
+<br>
+Obisidianの同期について
+
+<br>Obisidianはその理論上ローカル上で完結する仕組みではあるが､やっぱりSyncさせたい｡自分の場合は大学から支給されたMacbookと家のWindowsで同期させたい｡
+<br>だからといってGoogle DriveやOneDriveやiCloudやDropboxを使うのはナンセンス｡Wi-Fiがない環境でも使う事ができない｡(できはするが､したくない
+<br>選択としてはGitかRemotely Sync(S3)の二択｡
+<br>今はRemotely Syncでゴールしている｡
+
+
+<br>
+ほかにも
+
+<br>defaultでほしい
+
+<br>Outliner
+<br>Emoji Shortcodes
+<br>Setting Search
+<br>Keyboard Analyzer
+
+
+<br>リンク系
+
+<br>ReadItLater
+<br>Auto Link Title
+<br>Auto Embed
+<br>Auto Card Link
+
+
+<br>画像系
+
+<br>Image Converter
+<br>Image Toolkit
+<br>Local Images Plus
+
+
+
+
+<br>未解決課題<br>
+<br>リマインダー
+<br>Day Planner
+<br>予定を立てることは一応できるが､まだ良い解決案が見つかっていない｡募集中です｡
+<br>ファイルごとの並び替えを変更
+<br>thinoをスマホでも使いたい
+<br>ガントチャートを導入したい
+]]></description><link>https://obsidian.nasubi.dev/blogs/obsidianが大学生活を変える!-学生必見の活用術/draft.html</link><guid isPermaLink="false">blogs/Obsidianが大学生活を変える! 学生必見の活用術/Draft.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 14 Apr 2024 12:42:47 GMT</pubDate></item><item><title><![CDATA[obsidian]]></title><description><![CDATA[ 
+ <br><br><br>はじめましてnasubi (<a data-tooltip-position="top" aria-label="https://twitter.com/nasubl_" rel="noopener" class="external-link" href="https://twitter.com/nasubl_" target="_blank">@nasubl_</a>)と申します｡今年大学に入学しました｡<br>
+大学のノートやTODOリストなどなど今までバラバラに管理していたものをすべてObsidianで管理する方法についてまとめています｡<br>釣りタイトルとして｢Obsidianが大学生活を変える!｣と題しましたが､実際にはObsidianを使いこなすのはあなたです｡<br>今年の目標は大学内で先輩がReactを広めたように私はObsidianを同学年に広めることが目標｡<br>おもしろそうと思って頂けたならご覧ください｡<br><br><br>現在大学生の方｡特に情報系の学生さん｡<br>今年入学して今まで余裕だったスマホのデータ量がもうカツカツになっている方向け｡<br><br><br>Obsidianとはマークダウン記法で書けるメモアプリであり､Notionやesaとなにが違うかわからないとお思いでしょう｡全然違います｡<br>Obsidianと他アプリの相違点<br><br>ナレッジベース共有ではなく､自分のためだけのクローズドなローカル環境で動作する点において差別化がされている｡何かを発信するのではなく自分自身のためにテキストをまとめるのです｡<br>このテキストも外出先で書いています｡<br>金欠学生はもちろん格安を売りにしたプロバイダーと契約しているので3GB程度しか余裕がないはずです(私は月の半ばでなくなりました)｡しかしローカルで動作するので速度制限を恐れることなく使うことができるのです｡<br>
+Obsidianは単なるノートアプリではなくアイデアを書き溜め､思考をまとめ上げ､一つの思想を創り上げる､最強のセカンド･ブレインである｡<br>
+—私
+<br><br>
+<br>日常的に使えばマークダウン記法に慣れて､サークルや研究室のesaの記事を書く心理的ハードルが下がる
+<br>QiitaやZennなどの記事を公開するハードルも下がる
+<br>有名な使い方としてはドイツの社会学者が考案したツェッテルカステンがあります｡有名なビジネス書といえば､<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" rel="noopener" class="external-link" href="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" target="_blank">Amazon.co.jp: TAKE NOTES!</a>や<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" target="_blank">Amazon.co.jp: ＳＥＣＯＮＤ　ＢＲＡＩＮ（セカンドブレイン）　時間に追われない「知的生産術｣</a>などがありますが､それだけにとどまらずObsidianの有用な使い方はまだまだあります｡<br>本題である私の大学生活を有意義にするObsidianの使い方をご紹介したいと思います｡<br>インストール方法やプラグインの導入方法は､こちらの記事が大変わかりやすいので参考にしてください｡<br><a data-tooltip-position="top" aria-label="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" rel="noopener" class="external-link" href="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" target="_blank">Obsidianを使って生産性を高める  - Qiita</a><br><br><br>最近Aの大学はMoodleなどのアプリを用いて課題の提出を行っているところが多くなっていると思います｡ならば紙のノートでメモや課題を解いて､写真を撮って､送信するというのは馬鹿らしいですよね｡ObsidianにはデフォルトでExport to PDFがあるのでそれを使いましょう｡<br><br><br>レポートの中には何文字以上というような条件があったりします｡バニラのComment Countでも良いのですが､選択した範囲の文字数を表示してくれるBetter Comment Countをおすすめします｡<br><br>京大生は全学部でPythonが必修科目となっていたり､工業系の大学生であればC言語を勉強したりします(うちの学校のことですね)｡勉強した内容を忘れないためにもナレッジとしてまとめます｡ならSyntax Highlightされてるとうれしいですね｡これも入れましょう｡<br># ゼロサム問題
+playerNum = int(input())
+
+eachPlayerScore: list[int] = list(map(int, input().split()))
+
+totalScore = 0
+
+for i in range(0, playerNum - 1, 1):
+	totalScore += eachPlayerScore[i]
+
+print(totalScore * -1)
+Copy<br>↑前回のAtcoderのContestで唯一解けたA問題(クソきたないコード)<br>int main(int argc, char *argv[]) {
+	printf("hello,world!!\n");
+	return 0;
+}
+Copy<br><br>数学科目があればQuick LaTeXも導入してみると数式がかけます｡楽しい｡<br><br><br>Export to PDFじゃ物足りないよ!! CSSで見た目を変えたいよ!!という方向け｡<br>現状最高の論文記述ソフトはTypstなので(友人談)､ページングや変数が使える最強のTypstへの変換もObsidian上で可能です｡これにより論文を書くときもいつも通りObsidianで書くことができます｡あらやだ素敵｡LaTeXもTypstに変換してくれる｡すごすぎて意味わかんない｡<br>Obisidan PandocというプラグインはTypstに対応していないのでShell Commandを使用してObsidian外のフォルダに出力しています(友人にやってもらったのでShell Commandは理解できていない)｡<br>この記事を見るとTypstの良さがすべてわかる｡<br><a data-tooltip-position="top" aria-label="https://zenn.dev/chantakan/articles/ed80950004d145" rel="noopener" class="external-link" href="https://zenn.dev/chantakan/articles/ed80950004d145" target="_blank">Typstで書く卒論・修論テンプレート</a><br>米 まだv0.1だけどTypst Rendererという拡張機能も気になる｡正式リリースされたら使ってみます｡<br><br><br>基本機能であるDaily notesの別の使い方をご紹介します｡<br><br><br>タスク管理の方法は一旦Daily notes + Calendar + Thino + CardBoard (+ Checklist)でゴールしています(理想の書斎づくり風)｡<br>ThinoでTwitterのようにタスクを追加すると､Daily notesにチェックボックスが追加されているはずです｡<br>“画面収録-2024-04-18-10.02.46.gif” could not be found.<br>CardBoardではDaily notesに追加されたチェックボックスをレンダリングしており､Thinoと直接連携しているわけではないのですが､一度Daily notesを噛ませることで擬似的に連携させています｡<br>“画面収録-2024-04-18-10.05.53.gif” could not be found.<br>いつもの確認はCardBoardですが､日付ごとに見たい場合､Checklistにしています｡Calendarという拡張機能でサイドバーにDaily notesの一覧が表示される｡<br>“画面収録-2024-04-18-10.12.32.gif” could not be found.<br>米 大学生活のタスク管理はこれでいいんですが､長期的な予定管理はこれでは厳しい｡直感的に使えるガントチャートのような拡張機能をご存じの有識者の方は教えていただきたいです｡<br><br><br>基本機能であるDaily notesとして普通に使うだけでもいいのですが､日記にはまだまだ可能性が眠っているのです｡<br><br><br>Daily notesを使っているなら一々ディレクトリからファイルを選択せずにCalendarプラグイン機能を使うとQuality of Obsidianが上がる｡←??<br><br>関数を使用することができ､私の場合は昨日の日付を表示くらいにしか使ってない<br>[[&lt;% tp.date.now("YYYY-MM-DD",-1) %&gt;の日記]]
+Copy<br>↑これをテンプレート保存して､使用すれば前日の日記に自動でリンクされる｡最高｡<br>自分は大学からの帰りの電車が1h30mくらいあるのでその時間に今日あった出来事をまとめたり､関心を持ったことを書き連ねたりしています｡<br><br><br>これは単純にツェッテルカステンをしているだけ /ideasというディレクトリ内に思いついたことや気になることをメモして､溜まってきたらアイデアとして固める｡詳しくはツェッテルカステンで検索｡<br><br><br>パソコンが一台しかない方には関係ない話ですが､複数台使うとなるとObsidianのポリシーには反しますがやはり同期させたくなります｡なりますよね｡<br>
+公式の有料のObsidian Sync以外にも拡張機能で同期する方法は主に3つあります｡<br><br>GitHubにObsidianをすべてバックアップを取ることで異なる端末上で同期させる｡デメリットとしては､レポジトリのデータ量制限が100MBなので無制限に/assets内に画像や動画を保存できない｡つまりObsidianの良さを一つ潰してしまう｡(Git LFSというのがあるらしいが､詳しくは知らない｡)<br><br>せっかくObsidianのポリシーであるローカルにすべてが存在するというメリットがすべて台無しな気がする｡検討すらしたことない｡<br><br>S3系のサービス上に保存して異なる端末上で同期させる｡こちらは無料枠は10GBまでだが､たとえ超えたとしても月額料金は1GB当たり2.3円(1ドル153円換算)とお値打ち｡こちらならばたとえ膨大なデータ量になったとしてもVaultの大小に関わらず同じプラグインを使い続ける事ができる｡つまりスケーリングに対応しているということ｡素敵すぎるね｡<br>私のObsidianの設定ファイルを公開するのでどうぞ使ってください｡(Remotely Syncは絶対に含めない｡Read&amp;Write可能なAPIキーがあるのでガチでまずいことになる｡)<br><br><br>Defaultでほしい<br>
+<br>Outliner
+
+<br>listの並び替えがcmd･ctrl + ↓↑で直感的に使える
+
+
+<br>Emoji Shortcodes
+
+<br>GitHubのコメント文みたいに 🎉 を書ける
+<br><img alt="Test20240418104639591.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240418104639591.jpg" style="width: 247px; max-width: 100%;">
+
+
+<br>Setting Search
+
+<br>設定画面で検索が使えるようになる
+
+
+<br>Keyboard Analyzer
+
+<br>ショートカットに使っているキーが可視化される
+<br><img alt="Test20240418104606950.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240418104606950.jpg">
+
+
+<br>Auto Template Trigger
+
+<br>新規ページを開いたときに自動でどのテンプレートを挿入するかポップアップが出現する
+
+
+<br>リンク系<br>
+<br>ReadItLater
+
+<br>リンクをコピーするだけで記事のスクレイピングやYouTubeの埋め込みをやってくれる
+
+
+<br>Auto Link Title
+
+<br>リンクを貼るだけでタイトルをFetchで自動生成してくれる
+
+
+<br>Auto Embed
+
+<br>Twitterの埋め込みに強い
+<br><img alt="Test20240418104836911.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240418104836911.jpg">
+
+
+<br>Auto Card Link
+
+<br>GitHubなどのリンク埋め込みがキレイ!!!
+<br><img alt="Test20240418105310833.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240418105310833.jpg">
+
+
+<br>画像系<br>
+<br>Image Converter
+
+<br>画像をペーストするとローカルに保存してくれる
+<br>Auto Link Tilteと相性がいい
+
+
+<br>Image Toolkit
+
+<br>表示された画像の端を掴んで直感的にサイズ変更できる
+
+
+<br><br><br>これからもObsidianの設定やプラグインを探求していくので､環境がまた変わったら紹介したいと思います｡<br>素晴らしいプラグインを見つけたら私に｢こんなのあったよ!｣と教えてくださると喜びます｡<br>直近の課題としては､<br>
+<br>リマインダー
+<br>フォルダごとのソート順を変更する
+<br>thinoをスマホで使おうとすると､パソコンで書いた投稿が表示されない
+<br>ガントチャートを導入して長期的な予定管理<br>
+などがあるのでまだまだ勉強中です｡
+<br>以上｡読んでいただきありがとうございました｡<br><a data-tooltip-position="top" aria-label="https://nasubi.dev" rel="noopener" class="external-link" href="https://nasubi.dev" target="_blank">私のポートフォリオ風のサイト</a>]]></description><link>https://obsidian.nasubi.dev/blogs/obsidianが大学生活を変える!-学生必見の活用術/obsidian.html</link><guid isPermaLink="false">blogs/Obsidianが大学生活を変える! 学生必見の活用術/obsidian.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 12 May 2024 23:52:37 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240418104639591.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240418104639591.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[qiita]]></title><description><![CDATA[ 
+ <br><br>はじめましてnasubi (<a data-tooltip-position="top" aria-label="https://twitter.com/nasubl_" rel="noopener" class="external-link" href="https://twitter.com/nasubl_" target="_blank">@nasubl_</a>)と申します｡今年大学に入学しました｡<br>
+大学のノートやTODOリストなどなど今までバラバラに管理していたものをすべてObsidianで管理する方法についてまとめています｡<br>釣りタイトルとして｢Obsidianが大学生活を変える!｣と題しましたが､実際にはObsidianを使いこなすのはあなたです｡<br>今年の目標は大学内で先輩がReactを広めたように私はObsidianを同学年に広めることが目標｡<br>おもしろそうと思って頂けたならご覧ください｡<br><br>現在大学生の方｡特に情報系の学生さん｡<br>今年入学して今まで余裕だったスマホのデータ量がもうカツカツになっている方向け｡<br><br>Obsidianとはマークダウン記法で書けるメモアプリであり､Notionやesaとなにが違うかわからないとお思いでしょう｡全然違います｡<br>Obsidianと他アプリの相違点<br><br>ナレッジベース共有ではなく､自分のためだけのクローズドなローカル環境で動作する点において差別化がされている｡何かを発信するのではなく自分自身のためにテキストをまとめるのです｡<br>このテキストも外出先で書いています｡<br>金欠学生はもちろん格安を売りにしたプロバイダーと契約しているので3GB程度しか余裕がないはずです(私は月の半ばでなくなりました)｡しかしローカルで動作するので速度制限を恐れることなく使うことができるのです｡<br>
+Obsidianは単なるノートアプリではなくアイデアを書き溜め､思考をまとめ上げ､一つの思想を創り上げる､最強のセカンド･ブレインである｡<br>
+—私
+<br><br>
+<br>日常的に使えばマークダウン記法に慣れて､サークルや研究室のesaの記事を書く心理的ハードルが下がる
+<br>QiitaやZennなどの記事を公開するハードルも下がる
+<br>有名な使い方としてはドイツの社会学者が考案したツェッテルカステンがあります｡有名なビジネス書といえば､<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" rel="noopener" class="external-link" href="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" target="_blank">Amazon.co.jp: TAKE NOTES!</a>や<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" target="_blank">Amazon.co.jp: ＳＥＣＯＮＤ　ＢＲＡＩＮ（セカンドブレイン）　時間に追われない「知的生産術｣</a>などがありますが､それだけにとどまらずObsidianの有用な使い方はまだまだあります｡<br>本題である私の大学生活を有意義にするObsidianの使い方をご紹介したいと思います｡<br>インストール方法やプラグインの導入方法は､こちらの記事が大変わかりやすいので参考にしてください｡<br><a data-tooltip-position="top" aria-label="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" rel="noopener" class="external-link" href="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" target="_blank">Obsidianを使って生産性を高める  - Qiita</a><br><br>最近Aの大学はMoodleなどのアプリを用いて課題の提出を行っているところが多くなっていると思います｡ならば紙のノートでメモや課題を解いて､写真を撮って､送信するというのは馬鹿らしいですよね｡ObsidianにはデフォルトでExport to PDFがあるのでそれを使いましょう｡<br><br><br>レポートの中には何文字以上というような条件があったりします｡バニラのComment Countでも良いのですが､選択した範囲の文字数を表示してくれるBetter Comment Countをおすすめします｡<br><br>京大生は全学部でPythonが必修科目となっていたり､工業系の大学生であればC言語を勉強したりします(うちの学校のことですね)｡勉強した内容を忘れないためにもナレッジとしてまとめます｡ならSyntax Highlightされてるとうれしいですね｡これも入れましょう｡<br># ゼロサム問題
+playerNum = int(input())
+
+eachPlayerScore: list[int] = list(map(int, input().split()))
+
+totalScore = 0
+
+for i in range(0, playerNum - 1, 1):
+	totalScore += eachPlayerScore[i]
+
+print(totalScore * -1)
+Copy<br>↑前回のAtcoderのContestで唯一解けたA問題(クソきたないコード)<br>int main(int argc, char *argv[]) {
+	printf("hello,world!!\n");
+	return 0;
+}
+Copy<br><br>数学科目があればQuick LaTeXも導入してみると数式がかけます｡楽しい｡<br><br><br>Export to PDFじゃ物足りないよ!! CSSで見た目を変えたいよ!!という方向け｡<br>現状最高の論文記述ソフトはTypstなので(友人談)､ページングや変数が使える最強のTypstへの変換もObsidian上で可能です｡これにより論文を書くときもいつも通りObsidianで書くことができます｡あらやだ素敵｡LaTeXもTypstに変換してくれる｡すごすぎて意味わかんない｡<br>Obisidan PandocというプラグインはTypstに対応していないのでShell Commandを使用してObsidian外のフォルダに出力しています(友人にやってもらったのでShell Commandは理解できていない)｡<br>この記事を見るとTypstの良さがすべてわかる｡<br><a data-tooltip-position="top" aria-label="https://zenn.dev/chantakan/articles/ed80950004d145" rel="noopener" class="external-link" href="https://zenn.dev/chantakan/articles/ed80950004d145" target="_blank">Typstで書く卒論・修論テンプレート</a><br>米 まだv0.1だけどTypst Rendererという拡張機能も気になる｡正式リリースされたら使ってみます｡<br><br>基本機能であるDaily notesの別の使い方をご紹介します｡<br><br><br>タスク管理の方法は一旦Daily notes + Calendar + Thino + CardBoard (+ Checklist)でゴールしています(理想の書斎づくり風)｡<br>ThinoでTwitterのようにタスクを追加すると､Daily notesにチェックボックスが追加されているはずです｡<br>CardBoardではDaily notesに追加されたチェックボックスをレンダリングしており､Thinoと直接連携しているわけではないのですが､一度Daily notesを噛ませることで擬似的に連携させています｡<br>いつもの確認はCardBoardですが､日付ごとに見たい場合､Checklistにしています｡Calendarという拡張機能でサイドバーにDaily notesの一覧が表示される｡<br><a rel="noopener" class="external-link" href="https://youtu.be/N0a8DuvSghA" target="_blank">https://youtu.be/N0a8DuvSghA</a><br>米 大学生活のタスク管理はこれでいいんですが､長期的な予定管理はこれでは厳しい｡直感的に使えるガントチャートのような拡張機能をご存じの有識者の方は教えていただきたいです｡<br><br>基本機能であるDaily notesとして普通に使うだけでもいいのですが､日記にはまだまだ可能性が眠っているのです｡<br><br><br>Daily notesを使っているなら一々ディレクトリからファイルを選択せずにCalendarプラグイン機能を使うとQuality of Obsidianが上がる｡←??<br><br>関数を使用することができ､私の場合は昨日の日付を表示くらいにしか使ってない<br>[[&lt;% tp.date.now("YYYY-MM-DD",-1) %&gt;の日記]]
+Copy<br>↑これをテンプレート保存して､使用すれば前日の日記に自動でリンクされる｡最高｡<br>自分は大学からの帰りの電車が1h30mくらいあるのでその時間に今日あった出来事をまとめたり､関心を持ったことを書き連ねたりしています｡<br><br>これは単純にツェッテルカステンをしているだけ /ideasというディレクトリ内に思いついたことや気になることをメモして､溜まってきたらアイデアとして固める｡詳しくはツェッテルカステンで検索｡<br><br>パソコンが一台しかない方には関係ない話ですが､複数台使うとなるとObsidianのポリシーには反しますがやはり同期させたくなります｡なりますよね｡<br>
+公式の有料のObsidian Sync以外にも拡張機能で同期する方法は主に3つあります｡<br><br>GitHubにObsidianをすべてバックアップを取ることで異なる端末上で同期させる｡デメリットとしては､レポジトリのデータ量制限が100MBなので無制限に/assets内に画像や動画を保存できない｡つまりObsidianの良さを一つ潰してしまう｡(Git LFSというのがあるらしいが､詳しくは知らない｡)<br><br>せっかくObsidianのポリシーであるローカルにすべてが存在するというメリットがすべて台無しな気がする｡検討すらしたことない｡<br><br>S3系のサービス上に保存して異なる端末上で同期させる｡こちらは無料枠は10GBまでだが､たとえ超えたとしても月額料金は1GB当たり2.3円(1ドル153円換算)とお値打ち｡こちらならばたとえ膨大なデータ量になったとしてもVaultの大小に関わらず同じプラグインを使い続ける事ができる｡つまりスケーリングに対応しているということ｡素敵すぎるね｡<br>私のObsidianの設定ファイルを公開するのでどうぞ使ってください｡(Remotely Syncは絶対に含めない｡Read&amp;Write可能なAPIキーがあるのでガチでまずいことになる｡)<br><br>Defaultでほしい<br>
+<br>
+Outliner
+
+<br>listの並び替えがcmd･ctrl + ↓↑で直感的に使える
+
+
+<br>
+Emoji Shortcodes<br>
+- GitHubのコメント文みたいに 🎉 を書ける<br>
+<img src="https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/b5ce8356-05bb-4abc-bbee-5951b61b309b.jpg" alt="Test20240418104639591.jpg (30.4 kB)" referrerpolicy="no-referrer" style="width: 592px; max-width: 100%;">
+
+<br>
+Setting Search
+
+<br>設定画面で検索が使えるようになる
+
+
+<br>
+Keyboard Analyzer<br>
+- ショートカットに使っているキーが可視化される<br>
+<img src="https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/9300b782-f2f4-4596-b14a-69632502257d.jpg" alt="Test20240418104606950.jpg (88.0 kB)" referrerpolicy="no-referrer" style="width: 1776px; max-width: 100%;">
+
+<br>
+Auto Template Trigger
+
+<br>新規ページを開いたときに自動でどのテンプレートを挿入するかポップアップが出現する
+
+
+<br>リンク系<br>
+<br>
+ReadItLater
+
+<br>リンクをコピーするだけで記事のスクレイピングやYouTubeの埋め込みをやってくれる
+
+
+<br>
+Auto Link Title
+
+<br>リンクを貼るだけでタイトルをFetchで自動生成してくれる
+
+
+<br>
+Auto Embed<br>
+- Twitterの埋め込みに強い<br>
+<img src="https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/add599d2-bb85-4dc1-921e-c5deb6f90204.jpg" alt="Test20240418104836911.jpg (35.3 kB)" referrerpolicy="no-referrer" style="width: 1160px; max-width: 100%;">
+
+<br>
+Auto Card Link<br>
+- GitHubなどのリンク埋め込みがキレイ!!!<br>
+<img src="https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/d4b45c67-1601-4fad-a3ee-f8ac0153fa26.jpg" alt="Test20240418105310833.jpg (23.9 kB)" referrerpolicy="no-referrer" style="width: 1458px; max-width: 100%;">
+
+<br>画像系<br>
+<br>Image Converter
+
+<br>画像をペーストするとローカルに保存してくれる
+<br>Auto Link Tilteと相性がいい
+
+
+<br>Image Toolkit
+
+<br>表示された画像の端を掴んで直感的にサイズ変更できる
+
+
+<br><br>これからもObsidianの設定やプラグインを探求していくので､環境がまた変わったら紹介したいと思います｡<br>素晴らしいプラグインを見つけたら私に｢こんなのあったよ!｣と教えてくださると喜びます｡<br>直近の課題としては､<br>
+<br>リマインダー
+<br>フォルダごとのソート順を変更する
+<br>thinoをスマホで使おうとすると､パソコンで書いた投稿が表示されない
+<br>ガントチャートを導入して長期的な予定管理<br>
+などがあるのでまだまだ勉強中です｡
+<br>以上｡読んでいただきありがとうございました｡<br><a data-tooltip-position="top" aria-label="https://nasubi.dev" rel="noopener" class="external-link" href="https://nasubi.dev" target="_blank">私のポートフォリオ風のサイト</a>]]></description><link>https://obsidian.nasubi.dev/blogs/obsidianが大学生活を変える!-学生必見の活用術/qiita.html</link><guid isPermaLink="false">blogs/Obsidianが大学生活を変える! 学生必見の活用術/qiita.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 12 May 2024 23:52:27 GMT</pubDate><enclosure url="https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/b5ce8356-05bb-4abc-bbee-5951b61b309b.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/19973/2024/04/18/163974/b5ce8356-05bb-4abc-bbee-5951b61b309b.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[zenn]]></title><description><![CDATA[ 
+ <br><br>はじめましてnasubi (<a data-tooltip-position="top" aria-label="https://twitter.com/nasubl_" rel="noopener" class="external-link" href="https://twitter.com/nasubl_" target="_blank">@nasubl_</a>)と申します｡今年大学に入学しました｡<br>
+大学のノートやTODOリストなどなど今までバラバラに管理していたものをすべてObsidianで管理する方法についてまとめています｡<br>釣りタイトルとして｢Obsidianが大学生活を変える!｣と題しましたが､実際にはObsidianを使いこなすのはあなたです｡<br>今年の目標は大学内で先輩がReactを広めたように私はObsidianを同学年に広めることが目標｡<br>おもしろそうと思って頂けたならご覧ください｡<br><br>現在大学生の方｡特に情報系の学生さん｡<br>今年入学して今まで余裕だったスマホのデータ量がもうカツカツになっている方向け｡<br><br>Obsidianとはマークダウン記法で書けるメモアプリであり､Notionやesaとなにが違うかわからないとお思いでしょう｡全然違います｡<br>Obsidianと他アプリの相違点<br><br>ナレッジベース共有ではなく､自分のためだけのクローズドなローカル環境で動作する点において差別化がされている｡何かを発信するのではなく自分自身のためにテキストをまとめるのです｡<br>このテキストも外出先で書いています｡<br>金欠学生はもちろん格安を売りにしたプロバイダーと契約しているので3GB程度しか余裕がないはずです(私は月の半ばでなくなりました)｡しかしローカルで動作するので速度制限を恐れることなく使うことができるのです｡<br>
+Obsidianは単なるノートアプリではなくアイデアを書き溜め､思考をまとめ上げ､一つの思想を創り上げる､最強のセカンド･ブレインである｡<br>
+—私
+<br><br>
+<br>日常的に使えばマークダウン記法に慣れて､サークルや研究室のesaの記事を書く心理的ハードルが下がる
+<br>QiitaやZennなどの記事を公開するハードルも下がる
+<br>有名な使い方としてはドイツの社会学者が考案したツェッテルカステンがあります｡有名なビジネス書といえば､<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" rel="noopener" class="external-link" href="https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9-ebook/dp/B09HZ38SFZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=8X58CK5EY5RM&amp;dib=eyJ2IjoiMSJ9.qoMhodDPAtJw6Fh8RoTmjlRN1dVWwQM2Y_daDNNUn-Z3J3BYTeadOVhB-FYumjia25IQ2eJZRlasNXWqsmptd-88IH3XSkA8jI_GCiK5GAf5_aifH1G9E7fpyWPmcZ5-FhJUC4uUPO4Sii1x-Lq3Zp1FhbR7pcEvbriglROZfn-eZmaHGiNd6rF5RFNNIU__SHNmkYPZyoF8_hcS3gmLQHx3fKoTx-RLV1rNOinCzS2nWPX1XbcEeCIczs_x0mPO98td4avNo-50r4WmthleHaf3-YBPhttYPAqNXwCqfKw.YDaio3rb4w3oF1N47Pf8QJRUQ0gQxCORnonwBL4AlLw&amp;dib_tag=se&amp;keywords=Take+Notes&amp;qid=1708720845&amp;sprefix=take+notes,aps,171&amp;sr=8-1&amp;linkCode=sl1&amp;tag=kudodayo-22&amp;linkId=689dd77d0a3b52114c173eee4574c448&amp;language=ja_JP&amp;ref_=as_li_ss_tl" target="_blank">Amazon.co.jp: TAKE NOTES!</a>や<a data-tooltip-position="top" aria-label="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.jp/%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4-%EF%BC%A2%EF%BC%B2%EF%BC%A1%EF%BC%A9%EF%BC%AE%EF%BC%88%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E6%99%82%E9%96%93%E3%81%AB%E8%BF%BD%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%80%8C%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93%E3%80%8D-%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86-ebook/dp/B0BSWZ9PZL/ref=reads_cwrtbar_d_sccl_1_3/358-4412901-3898704?pd_rd_w=Jnxow&amp;content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&amp;pf_rd_r=KNV8XT8V74WQ180VPSA1&amp;pd_rd_wg=lglMp&amp;pd_rd_r=b6e887cd-ce61-4d18-8ae6-877b1b2ffa4e&amp;pd_rd_i=B0BSWZ9PZL&amp;psc=1" target="_blank">Amazon.co.jp: ＳＥＣＯＮＤ　ＢＲＡＩＮ（セカンドブレイン）　時間に追われない「知的生産術｣</a>などがありますが､それだけにとどまらずObsidianの有用な使い方はまだまだあります｡<br>本題である私の大学生活を有意義にするObsidianの使い方をご紹介したいと思います｡<br>インストール方法やプラグインの導入方法は､こちらの記事が大変わかりやすいので参考にしてください｡<br><a data-tooltip-position="top" aria-label="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" rel="noopener" class="external-link" href="https://qiita.com/sypn/items/808636ea3bde6bfe6de7" target="_blank">Obsidianを使って生産性を高める# - Qiita</a><br><br>最近Aの大学はMoodleなどのアプリを用いて課題の提出を行っているところが多くなっていると思います｡ならば紙のノートでメモや課題を解いて､写真を撮って､送信するというのは馬鹿らしいですよね｡ObsidianにはデフォルトでExport to PDFがあるのでそれを使いましょう｡<br><br><br>レポートの中には何文字以上というような条件があったりします｡バニラのComment Countでも良いのですが､選択した範囲の文字数を表示してくれるBetter Comment Countをおすすめします｡<br><br>京大生は全学部でPythonが必修科目となっていたり､工業系の大学生であればC言語を勉強したりします(うちの学校のことですね)｡勉強した内容を忘れないためにもナレッジとしてまとめます｡ならSyntax Highlightされてるとうれしいですね｡これも入れましょう｡<br># ゼロサム問題
+playerNum = int(input())
+
+eachPlayerScore: list[int] = list(map(int, input().split()))
+
+totalScore = 0
+
+for i in range(0, playerNum - 1, 1):
+	totalScore += eachPlayerScore[i]
+
+print(totalScore * -1)
+Copy<br>↑前回のAtcoderのContestで唯一解けたA問題(クソきたないコード)<br>int main(int argc, char *argv[]) {
+	printf("hello,world!!\n");
+	return 0;
+}
+Copy<br><br>数学科目があればQuick LaTeXも導入してみると数式がかけます｡楽しい｡<br><br><br>Export to PDFじゃ物足りないよ!! CSSで見た目を変えたいよ!!という方向け｡<br>現状最高の論文記述ソフトはTypstなので(友人談)､ページングや変数が使える最強のTypstへの変換もObsidian上で可能です｡これにより論文を書くときもいつも通りObsidianで書くことができます｡あらやだ素敵｡LaTeXもTypstに変換してくれる｡すごすぎて意味わかんない｡<br>Obisidan PandocというプラグインはTypstに対応していないのでShell Commandを使用してObsidian外のフォルダに出力しています(友人にやってもらったのでShell Commandは理解できていない)｡<br>この記事を見るとTypstの良さがすべてわかる｡<br><a data-tooltip-position="top" aria-label="https://zenn.dev/chantakan/articles/ed80950004d145" rel="noopener" class="external-link" href="https://zenn.dev/chantakan/articles/ed80950004d145" target="_blank">Typstで書く卒論・修論テンプレート</a><br>米 まだv0.1だけどTypst Rendererという拡張機能も気になる｡正式リリースされたら使ってみます｡<br><br>基本機能であるDaily notesの別の使い方をご紹介します｡<br><br><br>タスク管理の方法は一旦Daily notes + Calendar + Thino + CardBoard (+ Checklist)でゴールしています(理想の書斎づくり風)｡<br>ThinoでTwitterのようにタスクを追加すると､Daily notesにチェックボックスが追加されているはずです｡<br>CardBoardではDaily notesに追加されたチェックボックスをレンダリングしており､Thinoと直接連携しているわけではないのですが､一度Daily notesを噛ませることで擬似的に連携させています｡<br>いつもの確認はCardBoardですが､日付ごとに見たい場合､Checklistにしています｡Calendarという拡張機能でサイドバーにDaily notesの一覧が表示される｡<br><a rel="noopener" class="external-link" href="https://youtu.be/N0a8DuvSghA" target="_blank">https://youtu.be/N0a8DuvSghA</a><br>米 大学生活のタスク管理はこれでいいんですが､長期的な予定管理はこれでは厳しい｡直感的に使えるガントチャートのような拡張機能をご存じの有識者の方は教えていただきたいです｡<br><br>基本機能であるDaily notesとして普通に使うだけでもいいのですが､日記にはまだまだ可能性が眠っているのです｡<br><br><br>Daily notesを使っているなら一々ディレクトリからファイルを選択せずにCalendarプラグイン機能を使うとQuality of Obsidianが上がる｡←??<br><br>関数を使用することができ､私の場合は昨日の日付を表示くらいにしか使ってない<br>[[&lt;% tp.date.now("YYYY-MM-DD",-1) %&gt;の日記]]
+Copy<br>↑これをテンプレート保存して､使用すれば前日の日記に自動でリンクされる｡最高｡<br>自分は大学からの帰りの電車が1h30mくらいあるのでその時間に今日あった出来事をまとめたり､関心を持ったことを書き連ねたりしています｡<br><br>これは単純にツェッテルカステンをしているだけ /ideasというディレクトリ内に思いついたことや気になることをメモして､溜まってきたらアイデアとして固める｡詳しくはツェッテルカステンで検索｡<br><br>パソコンが一台しかない方には関係ない話ですが､複数台使うとなるとObsidianのポリシーには反しますがやはり同期させたくなります｡なりますよね｡<br>
+公式の有料のObsidian Sync以外にも拡張機能で同期する方法は主に3つあります｡<br><br>GitHubにObsidianをすべてバックアップを取ることで異なる端末上で同期させる｡デメリットとしては､レポジトリのデータ量制限が100MBなので無制限に/assets内に画像や動画を保存できない｡つまりObsidianの良さを一つ潰してしまう｡(Git LFSというのがあるらしいが､詳しくは知らない｡)<br><br>せっかくObsidianのポリシーであるローカルにすべてが存在するというメリットがすべて台無しな気がする｡検討すらしたことない｡<br><br>S3系のサービス上に保存して異なる端末上で同期させる｡こちらは無料枠は10GBまでだが､たとえ超えたとしても月額料金は1GB当たり2.3円(1ドル153円換算)とお値打ち｡こちらならばたとえ膨大なデータ量になったとしてもVaultの大小に関わらず同じプラグインを使い続ける事ができる｡つまりスケーリングに対応しているということ｡素敵すぎるね｡<br>私のObsidianの設定ファイルを公開するのでどうぞ使ってください｡(Remotely Syncは絶対に含めない｡Read&amp;Write可能なAPIキーがあるのでガチでまずいことになる｡)<br><br>Defaultでほしい<br>
+<br>
+Outliner
+
+<br>listの並び替えがcmd･ctrl + ↓↑で直感的に使える
+
+
+<br>
+Emoji Shortcodes<br>
+- GitHubのコメント文みたいに 🎉 を書ける<br>
+<img src="https://storage.googleapis.com/zenn-user-upload/9384ac6f93f2-20240418.jpg" referrerpolicy="no-referrer">
+
+<br>
+Setting Search
+
+<br>設定画面で検索が使えるようになる
+
+
+<br>
+Keyboard Analyzer<br>
+- ショートカットに使っているキーが可視化される<br>
+<img src="https://storage.googleapis.com/zenn-user-upload/069928e4c067-20240418.jpg" referrerpolicy="no-referrer">
+
+<br>
+Auto Template Trigger
+
+<br>新規ページを開いたときに自動でどのテンプレートを挿入するかポップアップが出現する
+
+
+<br>リンク系<br>
+<br>
+ReadItLater
+
+<br>リンクをコピーするだけで記事のスクレイピングやYouTubeの埋め込みをやってくれる
+
+
+<br>
+Auto Link Title
+
+<br>リンクを貼るだけでタイトルをFetchで自動生成してくれる
+
+
+<br>
+Auto Embed<br>
+- Twitterの埋め込みに強い<br>
+<img src="https://storage.googleapis.com/zenn-user-upload/7d9ec14a0959-20240418.jpg" referrerpolicy="no-referrer">
+
+<br>
+Auto Card Link<br>
+- GitHubなどのリンク埋め込みがキレイ!!!<br>
+<img src="https://storage.googleapis.com/zenn-user-upload/b507fce6a7fe-20240418.jpg" referrerpolicy="no-referrer">
+
+<br>画像系<br>
+<br>Image Converter
+
+<br>画像をペーストするとローカルに保存してくれる
+<br>Auto Link Tilteと相性がいい
+
+
+<br>Image Toolkit
+
+<br>表示された画像の端を掴んで直感的にサイズ変更できる
+
+
+<br><br>これからもObsidianの設定やプラグインを探求していくので､環境がまた変わったら紹介したいと思います｡<br>素晴らしいプラグインを見つけたら私に｢こんなのあったよ!｣と教えてくださると喜びます｡<br>直近の課題としては､<br>
+<br>リマインダー
+<br>フォルダごとのソート順を変更する
+<br>thinoをスマホで使おうとすると､パソコンで書いた投稿が表示されない
+<br>ガントチャートを導入して長期的な予定管理<br>
+などがあるのでまだまだ勉強中です｡
+<br>以上｡読んでいただきありがとうございました｡<br><a data-tooltip-position="top" aria-label="https://nasubi.dev" rel="noopener" class="external-link" href="https://nasubi.dev" target="_blank">私のポートフォリオ風のサイト</a>]]></description><link>https://obsidian.nasubi.dev/blogs/obsidianが大学生活を変える!-学生必見の活用術/zenn.html</link><guid isPermaLink="false">blogs/Obsidianが大学生活を変える! 学生必見の活用術/zenn.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 12 May 2024 23:52:18 GMT</pubDate><enclosure url="https://storage.googleapis.com/zenn-user-upload/9384ac6f93f2-20240418.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://storage.googleapis.com/zenn-user-upload/9384ac6f93f2-20240418.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cyber Agent ES]]></title><description><![CDATA[ 
+ <br><br>一言で言えば挑戦です｡<br>
+自分の実力がどこまで通じるのか知りたい｡同世代からは得られない経験則からのアドバイスや慣れ親しんだ友人に囲まれた今の環境とは明確に異なる世界に飛び込んでみたい｡それができるのが業務レベルの体験ができるのが就業型インターンだけだと考えたからです｡その中でもCyberAgentさんのインターンに応募した理由は､1ヶ月という長い期間で実際の業務に携われるという環境に惹かれた点と､CyberAgentが持つ若手や新卒にもチャンスを与え､挑戦できる職場である点が私の中で魅力的に映ったからです｡<br>私の高校時代は挑戦とは真反対の内向型の人間でした｡成果物を外に発表することなく､ネットでエンジニアが集まるDiscordサーバーなどに参加することもなく､孤独にプログラミングをしていました｡しかし大学に入って同級生に技術力もアクティブさも私を超える友人に出会いました｡そのとき私は悔しい感情よりも追いつこうというやる気に満ち溢れた気分になりました｡それから私はサークル内でアクティブに活動したり､サークル外のエンジニアの集まりに参加したりと積極的に活動しています｡そして次は社会人との交流したいという挑戦の形として本インターンに応募しました｡<br>※ フォームの方に2028年卒がなかったので2027年卒とプルダウンを選択しました｡学部1年です｡<br><br>「特定のサービス、技術を経験したい」、「チーム開発や設計などに挑戦したい」などでもけっこうです。また複数記載いいただいても結構です。<br>Q1でも話した通り実務経験を積みたいと私は考えています｡細かなエラー修正から新機能の追加､設計､移行計画など幅広く実務で行う作業に興味があります｡その中でも一番挑戦したいことは大規模な会社でしか出来ないようなプロダクトを生み出す､改善に携わることです｡なぜなら個人開発では作ることができないような巨大プロダクトの制作に携われて､そこでしか味わえない経験や知見を広げられると考えているからです｡<br>そしてもう一つが､設計や計画の会議に参加することです｡私は意見を他の人に理解できるように伝えることに苦手意識を持っていました｡ですが最近サークルの総会にて私が立ち上げた競プロ部というプロジェクトについて全員の前で発表をしました｡緊張しましたが伝えなければいけないことを伝えることが出来たと振り返って思います｡この経験から私は自分の意見をチームメンバーに伝えるということの重要性とその難しさを実感しました｡だからこそ私は会議などの話し合いで意見の言える人間になりたいと思いCyberAgentさんのインターンではぜひ挑戦したいと考えています｡<br><br>
+<br>モバイルアプリエンジニア
+<br>Webフロントエンドエンジニア
+<br>ゲームクライアントエンジニア
+<br>バックエンドエンジニア
+<br>インフラエンジニア（パブリッククラウド / SRE）
+<br>インフラエンジニア（プライベートクラウド）
+<br>機械学習エンジニア/データサイエンティスト
+<br>大規模データ基盤エンジニア
+<br>ビジネスアナリスト
+<br>インフラエンジニア（オフィス・スタジオ）/セキュリティエンジニア/コーポレートエンジニア
+<br><br>インターン(長期/短期)や個人開発、ハッカソンの経験/参加実績がありましたら詳細をご記載ください。 【記入イメージ：[インターンした企業名][期間][役割][開発内容][使用技術]※内容・役割については詳細にご記載ください】<br><br>[共同開発][一年間][プログラム全て][Webで動作する1対1の対戦カードゲーム][Vue + firebase]<br>
+この開発は高校の課題研究で取り組みました｡4人チームでしたが内容は4人で考え､絵､音楽を除く全てを私が担当しました｡Webフロントエンドという点では個人開発に近いと思ったので書かせてもらいました｡<a data-tooltip-position="top" aria-label="https://github.com/nasubi916/fookeys" rel="noopener" class="external-link" href="https://github.com/nasubi916/fookeys" target="_blank">fookeys - github</a><br><br>ゲームのコンセプトとして､ ｢フードロス｣ × ｢ゲーム｣ を組み合わせることでフードロスを小中高生にも身近に感じてもらい､理解を深めて貰うのがテーマです｡そのため学校配布のiPadやタブレットPCでも動作するWebブラウザという仕様要件にしました｡コンセプトをゲームのシステムに落とし込み､ゲームで勝利するためにはフードロスを減らす行動をプレイヤーが自主的に選択してもらうために､様々な工夫を凝らしました｡<br><br>カード一枚一枚を食べ物に見立て､このゲーム特有の概念として､腐り値と呼ばれる値が存在し､カードの左上に表示されています｡腐り値とは､ドローした時点で3~5程度の数値で､ターンが経過する毎に数値が1ずつ減り､0になると腐ったカードに変化し､使用不可能のカードとして手札に残ります｡このカードゲームは手札の最大上限が9枚までとなっていて､手札を圧迫してしまいます｡一般的にコストと呼ばれるものを満腹値として表現しています｡<br><br>両プレイヤーのターンが終了すると､買い物フェーズに移行します｡買い物フェーズではランダムに表示される3枚のカードの中から0~3枚のカードを手札に加える事ができます｡この仕様が､先ほど紹介した腐り値と相乗効果を発揮しこのゲームをより一層おもしろいものにします｡買い物フェーズでたくさん買いすぎると満腹値の上限に達してしまい食べきることができず､余ったカードが腐ったカードに変化しゲームが不利になってしまいます｡<br><br>ゲーム開始時から画面右下に3つ表示されています｡両プレイヤーとも同じミッションが表示されており､達成度の進捗も両プレイヤーで共通です｡ミッションをクリアするとギフトの使用に必要な貢献度が手に入ります｡<br><br>ギフトとは､ゲームの選択肢を広げ駆け引きにエッセンスを加える役割があります｡ギフトを使うために必要な貢献度は基本的にミッションをクリアすることで手に入ります｡つまりミッションをクリアした方がゲームを有利に進められる仕組みになっています｡<br><br>このようにゲームのシステムにフードロスを落とし込んで､ゲームで勝利するにはフードロスを減らす行動をプレイヤーが自主的に選択する様々な工夫を凝らしました｡<a data-tooltip-position="top" aria-label="https://sdgs-awards.umedai.jp/winner.html" rel="noopener" class="external-link" href="https://sdgs-awards.umedai.jp/winner.html" target="_blank">SDGs探究AWARDS2023</a>に応募して､このゲームは審査員特別賞を頂きました｡<br><br>ゲームシステムやコンセプトはチームメンバー全員で考え､絵や音楽は他の人にやってもらいました｡私はコーディングを全て担当しておりフロントエンドにVue3.3とBaaSにfirebaseを用いて制作しました｡<br><br>[インターン|pluszero][無期限][フロントエンドエンジニア][未定][React]<br>
+まだ実際にやっている訳ではないのですが､採用されているので紹介だけします｡<br>[ハッカソン|技育キャンプハッカソンvol.7][6/13~23][プロジェクトリーダー][実績解除アプリ][React + Cloudflare D1]<br>
+今はこのハッカソンに向けて初学者メンバーの勉強中です｡<br><br>私が得意としている技術領域はReactです｡先日友人と10日間のハッカソンを行いました｡Reactでは関数コンポーネントの作成方法がいくつかあったり､ファイルごとに一つのコンポーネントという設計思想があるなど､人によって違いがあります｡そこで私はこのプロジェクトではこの書き方をするというESLintとPrettierやドキュメントを作成して全体で統一しました｡<br><br>私は今興味を持っているものはSSGなどの静的レンダリングです｡私はブログサイトの技術選定をしていました｡SSGがしたいと思いNextjsを選択しようと考えたのですが､SSGを行うためにNextを使うのは少々ハイスペックすぎる気がしました｡まずNextjsの良いところはSSGができる他に､Vercelとの連携やImageの最適化があると思います｡ですがHMRが遅すぎてDXが悪く他のフレームワークを探しました｡そして見つけたのが､Wakuとministaです｡<br>WakuというのはjotaiというReact状態管理ライブラリの制作者が制作している日本製のReactフレームワークです｡SSGなどの基本機能のみをサポートしているので､Wakuを使用すると軽量さとSSGを両立することができるのです｡他にもSSRにも対応しているのでレンダリングのみを求めているのであれば今後Wakuで事足りる場合が多くなると考えています｡Wakuは現在Beta版ですがそれを上回るほどに私は魅力を感じています｡<br>ministaはqracさんが制作しているjsxからHTMLを作るスタティックサイトジェネレーターで､ビルドすると静的なHTMLに変換して一部ファイルのインポート方法を変更するだけで一部分をReactコンポーネントとして認識することができます｡HeadlessCSSやMantineはビルド時に全てを出力するので相性が良くて採用しました｡<br>フロントエンドは決まったのですが,ブログのCMSにObsidianを採用しようと思い現在試行錯誤中です｡<br><br><a data-tooltip-position="top" aria-label="https://github.com/nasubi916" rel="noopener" class="external-link" href="https://github.com/nasubi916" target="_blank">nasubi916 (nasubi) · GitHub</a><br>
+<a data-tooltip-position="top" aria-label="https://qiita.com/nasubl" rel="noopener" class="external-link" href="https://qiita.com/nasubl" target="_blank">nasubl - Qiita</a><br>
+<a data-tooltip-position="top" aria-label="https://twitter.com/nasubl_" rel="noopener" class="external-link" href="https://twitter.com/nasubl_" target="_blank">nasubl_ - Twitter</a><br><br>4人チームで取り組んだfookeysです｡コードは私一人で書いたのですが､絵や音楽は別の人が担当です｡1年間で制作物を組み合わせるような共同開発でしたのでそれぞれが別々の作業で共有できる情報もなく､途中でモチベーションが下がってしまいました｡そこで2学期から励まし会を設定しました｡進捗度ではなく制作物の出来の良さを褒め合う会です｡これにより､モチベーションの維持､向上に繋がりました｡これにより自主的に行動する組織づくりに繋がったと考えています｡<br><br>
+<br>腰を据えて愚直にステップアップしていきたい
+<br>いろいろな会社で働く経験をしたい
+<br>特定の事業にこだわり、それに関わりたい(その特定の事業が何か続く質問で教えてください)
+<br>グローバルに働きたい
+<br>スタートアップのような環境で働きたい
+<br>自分自身で起業したい
+<br>高い給与を求めたい
+<br>その他
+<br><br><br><br>
+<br>2024年8月
+<br>2024年9月
+<br>2024年10月
+<br>2024年11月
+<br>2024年12月
+<br>2025年1月
+<br>2025年2月
+<br>2025年3月
+<br><br>
+<br>1日/週
+<br>2日/週
+<br>3日/週
+<br>4日/週
+<br>5日/週
+<br><br>
+<br>2024年8月
+<br>2024年9月
+<br>2024年10月
+<br>2024年11月
+<br>2024年12月
+<br>2025年1月
+<br>2025年2月
+<br>2025年3月
+<br><br>
+<br>1日/週
+<br>2日/週
+<br>3日/週
+<br>4日/週
+<br>5日/週
+<br><br>第一希望でだした8月は､大学のテストと初日が被っているので出社ができません｡リモート出社が可能でしたらしたいです｡セキュリティキャンプに応募しているので､もし受かっていたら8/12~17まで出社ができません｡それ以外の日はすべて出社可能です｡<br>第2希望で提出した9月は､9/25日以降が大学の講義と被るため出社が不可能です｡講義日程が公開されていないので不明ですが､できるのであればリモート出社がしたいです｡]]></description><link>https://obsidian.nasubi.dev/logs/cyber-agent-es.html</link><guid isPermaLink="false">logs/Cyber Agent ES.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Tue, 28 May 2024 16:08:43 GMT</pubDate></item><item><title><![CDATA[IIJmioサポート話すことメモ]]></title><description><![CDATA[ 
+ <br>そちらにUQから移行しようと思い､MNPワンストップを行ったのですが､電気プラン契約のせいでワンストップで移行できなかった]]></description><link>https://obsidian.nasubi.dev/logs/iijmioサポート話すことメモ.html</link><guid isPermaLink="false">logs/IIJmioサポート話すことメモ.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 09 Jun 2024 03:18:35 GMT</pubDate></item><item><title><![CDATA[nasublogs]]></title><description><![CDATA[ 
+ <br><br>
+<br>すぐ表示される
+<br>基本機能が動作する
+<br><br>
+<br>Markdownで書いた文章を自動でHTMLの変換
+<br>目次機能
+<br>いいね機能はいらない
+<br>ヘッダーフッターはもちろん必須
+<br>前回の記事､次回の記事に飛べるように
+<br>create時刻と最終modify時刻
+<br>オススメの記事
+
+<br>同一タグで管理
+
+
+<br>記事の投稿時にアイコン選択
+<br>画像の挿入について
+
+<br>Cloudflare R2
+
+<br>リンク取得
+
+
+
+
+<br>ブログ本編の保存形式
+
+<br>.json
+
+
+<br>APIで情報の取得を実施?rt
+<br>埋め込み
+]]></description><link>https://obsidian.nasubi.dev/logs/nasublogs.html</link><guid isPermaLink="false">logs/nasublogs.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 16 Jun 2024 18:03:52 GMT</pubDate></item><item><title><![CDATA[password]]></title><description><![CDATA[ 
+ <br>AIT ID : k24083kk<br>
+pwd : gj3%Y4983<br>バイト<br>
+login : 689000030<br>
+pwd : 9725243706<br>
+<img alt="Test20240417210217172.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240417210217172.jpg"><br>articles --start-at articles/writing articles/uploaded<br>暗証番号<br>
+住所から<br>シス研<br>
+ネット<br>
+user name : Set<br>
+password : Setsetsetset1<br>
+南京錠 : 6263]]></description><link>https://obsidian.nasubi.dev/logs/password.html</link><guid isPermaLink="false">logs/password.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 02 Jun 2024 23:46:55 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240417210217172.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240417210217172.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[pluszero面接チートシート]]></title><description><![CDATA[ 
+ <br><br>私は高校3年間はVueを使ってfookeysなどのWebアプリケーションを制作してきました｡大学に入学する少し前からはReactを始め､my-monthly-mixやPortfolioなどのサイトを制作しました｡<br>最近ではObsidianの有用な使い方について3年生の先輩のために書いて､せっかくなのでサークル内のesaに公開したり､研究室のesaにも公開しました｡その流れでQiitaにも公開しました｡それが最近50いいねまで増えてとても嬉しい｡人に見られる文章を今まで書いてこなかったので新鮮な気持ちと頑張らなければという気持ちが高まっています｡<br>大学に入ってからはWeb以外にも知見を広げたいと思い､今後セキュリティキャンプに参加する予定です｡<br>周囲の人間を神様だと思うようになってきた｡<br>コーディングテストがある(素数判定とか競プロぽいけど､速度よりも単一責任の原則や使えるプロパティの数などが見られる｡<br>せっかく思考テストをやったので評価を受けたい]]></description><link>https://obsidian.nasubi.dev/logs/pluszero面接チートシート.html</link><guid isPermaLink="false">logs/pluszero面接チートシート.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Tue, 23 Apr 2024 23:21:50 GMT</pubDate></item><item><title><![CDATA[STECHの面談チートシート]]></title><description><![CDATA[ 
+ <br><br>私は高校3年間はVueを使ってfookeysなどのWebアプリケーションを制作してきました｡大学に入学する少し前からはReactを始め､my-monthly-mixやPortfolioなどのサイトを制作しました｡<br>最近ではObsidianの有用な使い方について3年生の先輩のために書いて､せっかくなのでサークル内のesaに公開したり､研究室のesaにも公開しました｡その流れでQiitaにも公開しました｡それが最近50いいねまで増えてとても嬉しい｡人に見られる文章を今まで書いてこなかったので新鮮な気持ちと頑張らなければという気持ちが高まっています｡<br>自分のWebの技術力がどれだけ実務で通用するか試すためにpluszeroという会社に長期インターンをしています｡<br>大学に入ってからはWeb以外にも知見を広げたいと思い､今後セキュリティキャンプに参加する予定です｡TeamLabの夏期インターンにも応募する予定です｡<br>STECHに入ってやりたいことは､<br>
+<br>才能ある人達との交流をしたい
+<br>キャッチアップをもっと増やしたい(特にハッカソン開催予定
+<br>就職やインターンの話を聞きたい
+]]></description><link>https://obsidian.nasubi.dev/logs/stechの面談チートシート.html</link><guid isPermaLink="false">logs/STECHの面談チートシート.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Mon, 13 May 2024 09:00:29 GMT</pubDate></item><item><title><![CDATA[STECH会長面談]]></title><description><![CDATA[ 
+ <br><br>私は高校3年間はVueを使ってfookeysなどのWebアプリケーションを制作してきました｡大学に入学する少し前からはReactを始め､my-monthly-mixやPortfolioなどのサイトを制作しました｡<br>最近ではObsidianの有用な使い方について3年生の先輩のために書いて､せっかくなのでサークル内のesaに公開したり､研究室のesaにも公開しました｡その流れでQiitaにも公開しました｡それが最近80いいねまで増えてとても嬉しい｡人に見られる文章を今まで書いてこなかったので新鮮な気持ちと頑張らなければという気持ちが高まっています｡<br>自分のWebの技術力がどれだけ実務で通用するか試すためにpluszeroという会社に長期インターンをしています｡→昨日SSDが郵送されたのでセットアップが済み次第働きます｡<br>大学に入ってからはWeb以外にも知見を広げたいと思い､今後セキュリティキャンプに参加する予定です｡TeamLabの夏期インターンにも応募する予定です｡<br>セキュリティキャンプは落ちました｡<br>
+CyberAgentのインターンはES時点で落ちました｡<br>次はDMMとTeamLabのインターンに応募します｡できれば実務をやらせてもらえるやつをするつもりです｡<br>次の技育キャンプハッカソンに出場予定で頑張るつもりです｡チームリーダーします｡<br>大学内の工科展というものや技育博にも応募しました｡<br>STECHに入ってやりたいことは､<br>
+<br>才能ある人達との交流をしたい
+<br>キャッチアップをもっと増やしたい(特にハッカソン開催予定
+<br>就職やインターンの話を聞きたい
+]]></description><link>https://obsidian.nasubi.dev/logs/stech会長面談.html</link><guid isPermaLink="false">logs/STECH会長面談.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Mon, 10 Jun 2024 03:58:18 GMT</pubDate></item><item><title><![CDATA[TechTrain面談メモ]]></title><description><![CDATA[ 
+ <br><br>
+<br>自分がしていること
+
+<br>Fookeys
+<br>フロントエンド
+<br>サークル内勉強会
+<br>ハッカソンリーダー
+<br>pluszeroの長期インターン採用
+<br>TechTrain
+<br>STECH
+<br>セキュリティキャンプ応募
+<br>CyberAgentの夏期インターン応募
+<br>
+
+
+<br>これからしたいこと
+
+<br>インターン
+<br>社会人との交流
+<br>アクティブな活動
+<br>技術的に視野を広げる
+<br>フロントだけでなくバックエンドやセキュリティなどのプロダクトに関わることについて一般的なことだけでも知る必要がある
+
+
+<br>
+]]></description><link>https://obsidian.nasubi.dev/logs/techtrain面談メモ.html</link><guid isPermaLink="false">logs/TechTrain面談メモ.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Fri, 31 May 2024 07:32:34 GMT</pubDate></item><item><title><![CDATA[Yamada UI State 勉強会]]></title><description><![CDATA[ 
+ <br>レンダリングという言葉はReact Docには存在しない<br>あるのはRender<br>関数を実行する<br><br><img alt="Test20240619211918928.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619211918928.jpg"><br>
+動作は説明できているが､その原理やletでだめな理由を答えられない<br>答え : Letを使うとスコープ的に良くない｡<br>
+関数コンポーネントなのでコンポーネントは関数なのだということを念頭において理解する必要がある｡<br><img alt="Test20240619212258587.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619212258587.jpg" style="width: 574px; max-width: 100%;"><br>
+こうして考えると理解できる｡<br>
+<img alt="Test20240619212314726.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619212314726.jpg"><br>Renderするたびにイチから実行されている❗❗<br><img alt="Test20240619212604439.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619212604439.jpg" style="width: 448px; max-width: 100%;"><br>復元装置であり､スナップショットである??<br><img alt="Test20240619213113359.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619213113359.jpg" style="width: 394px; max-width: 100%;"><br>
+この場合だとuseStateはMountedか判断されて2回め以降は再定義されないで､メモライズされた値を呼び出す<br><br>はじめはReactのソースコードを読んでいたが､正直理解できていないのでスキップ｡でもuseStateは5行くらいしかなかった<br><img alt="Test20240619215428681.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619215428681.jpg"><br>export function fs(x: any, y: any) {
+	return (x === y) &amp;&amp; (x !== 0 || 1 / x === 1 / y)) || (x !== x &amp;&amp; y !== y);
+}
+Copy<br>等価は=== だけでは判定できないjsを知っているならばこれが正しい判定法<br>
+xとxを比較してるのなぜ? NaNとNaNを比較するとfalseになる場合を吸収してる<br><br>useStateとかを関数コンポーネントに引っ掛けるからhooksという名前らしい?<br>
+関数コンポーネントのスコープは毎度変わる｡それから回避する(引っ掛ける)からhooksと呼ぶ<br><br><img alt="Test20240619220432932.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619220432932.jpg" style="width: 500px; max-width: 100%;"><br>
+良くDOMアクセスなどふぉーむのINPUTでしか使っていない<br>
+↓↓↓<br>
+<img alt="Test20240619220602947.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619220602947.jpg"><br><br><img alt="Test20240619220728518.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619220728518.jpg"><br>
+<img alt="Test20240619221140695.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619221140695.jpg"><br>
+↑上のように実装されているわけではないが､概念的にはこう｡<br>
+私達レベルのコードであればuseRefで事足りることが多い｡じっさいYamada UIではuseRefが良く使われているらしい<br><br>[React state ABC問題](<a rel="noopener" class="external-link" href="https://x.com/hirotomoyamada/status/1801224131813560815" target="_blank">https://x.com/hirotomoyamada/status/1801224131813560815</a><br>
+<img alt="Test20240619222258324.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619222258324.jpg" style="width: 1191px; max-width: 100%;"><br>
+依存関係は、画像の通りです。 Cコンポーネント内の制御(onClick)でBを再描画させてください。但し、Cコンポーネントはメモ化せず、再描画させないでください。 この問題は、Reactが提供しているモノで完結してください。<br>Reactはウォータフォールで上から下へ､上が再レンダリングされたら下も行う｡<br><img alt="Test20240619223007919.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619223007919.jpg" style="width: 478px; max-width: 100%;"><img alt="Test20240619223106312.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240619223106312.jpg" style="width: 477px; max-width: 100%;"><br>このようにMemo化が使えないシーンではこれが有効であることを学べた｡]]></description><link>https://obsidian.nasubi.dev/logs/yamada-ui-state-勉強会.html</link><guid isPermaLink="false">logs/Yamada UI State 勉強会.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Fri, 21 Jun 2024 08:08:06 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240619211918928.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240619211918928.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[えさちぶめんと 2024vol.7技育ハッカソン]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>難易度ごとに実績の色を変える。例）難しいのは赤など
+<br>ポイントで管理する
+<br>Admin権限の人だけがいじれる
+<br>esaで使っている絵文字を実績のアイコンに設定させたい
+<br>esaに実績の進捗を更新させたい
+<br>Slackの絵文字を実績のアイコンにしたい(今後
+<br>
+<br>ランキング画面
+
+<br>ソート
+
+<br>ポイントが高い順､低い順
+<br>解除数の高い順､低い順
+
+
+<br>フィルター
+
+<br>タグ(#denger,#love
+<br>学年(B1,OB
+<br>学科(KK,EV
+
+
+<br>現在の自分の順位とその周りの人を表示(POGOで観たやつ
+
+
+<br>実績詳細画面
+
+<br>難易度ごとの解除率
+<br>タグごとにも色をつける
+<br>実績解除人数の割合
+<br>実績ごとでシス研内全員がどれくらいその実績をとっているかのパーセント
+<br>実績解除のパーセント推移を作る
+<br>実績解除日時、誰が一番最初に実績を取ったかを作る
+
+
+<br>個人画面
+
+<br>基本情報をesaのAPIから取得
+<br>ポイントの年間推移グラフ
+<br>解除した実績リスト
+
+
+<br>実績一覧画面
+
+<br>実績全体の解除率実績一覧画面
+
+
+<br>実績ログを作る
+
+<br>最近誰がどの実績を解除したかわかるやつ(例:esaの更新された記事
+
+
+<br><br><br>
+<br>React
+<br>Radix-ui
+<br>styled-component
+<br>UIコンポーネント未定
+<br>esa
+
+<br>esaDB
+<br>SSO
+<br>絵文字取得→実績のicon
+<br>記事として出力
+
+
+<br><br>users : user[]<br>
+<br>id : number uuidは情報量が多すぎるから不採用
+<br>icon : string SSOしたとこから引っ張る
+<br>name : string
+<br>screen_name : 
+<br>role : "member","owner"
+<br>posts_count : number
+<br>grade : "B1","B2" ･･･
+<br>major : "KK","KX","EV" ･･･
+<br>achievements : Achievement[]<br>
+<br>id : number
+<br>icon : esaの絵文字の指定
+<br>name : string
+<br>description : string | undefined
+<br>tag : Tags[]
+<br>unlockedevents : ???<br>
+<br>achievementID : number
+<br>userEmail : userのemail←これしか一意な情報がなかった､､､u
+<br>unlocked_at : 
+<br><br>OAuthを学びなさい<br>
+<br>esaのアプリケーションを召喚
+<br>ログインして貰うとリダイレクト先のURLに
+<br>codeという短命な承認用テキストが着いてくる
+<br>それをPOSTでclient_idやsercret_idといっしょに送付してaccess_tokenを取得
+<br>BearerといっしょにHeaderとしてAPIを叩く
+<br>OAuth<br>
+<a rel="noopener" class="external-link" href="https://api.esa.io/oauth/authorize" target="_blank">https://api.esa.io/oauth/authorize</a><br>メンバーの取得<br>
+<a rel="noopener" class="external-link" href="https://api.esa.io/v1/teams/sysken/members" target="_blank">https://api.esa.io/v1/teams/sysken/members</a><br>
+<img alt="Test20240612233151031.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240612233151031.jpg" style="width: 447px; max-width: 100%;"><br>postの取得<br>
+<img alt="Test20240613000541498.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240613000541498.jpg"><br>
+postのPATCH<br>
+<img alt="Test20240613011729835.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240613011729835.jpg"><br><br>Qiitaに投稿する(個人的願望<br><br>
+<br>Listの概念
+
+<br>Childrenで受け渡すコンポーネント指定とList内でmapで引数を渡す
+
+
+<br>Achievementコンポーネントの引数で表示内容を変更するか?
+<br>それともAchievementCore的なコンポーネントを作って必要に応じて日時とかチェックボックスをつける?
+<br>それか別のコンポーネントとして扱う?
+<br>
+<br><br>
+<br>componentsは表示したいものでファイリング
+
+<br>命名は親の意図を継承する
+
+
+<br>const arrow function
+<br>typescript
+<br>useMemoをしっかり使う
+<br>eslintでガチガチに固める
+<br>
+<br>記事一覧<br>
+<a data-tooltip-position="top" aria-label="https://sysken.esa.io/posts/1511" rel="noopener" class="external-link" href="https://sysken.esa.io/posts/1511" target="_blank">画面構成</a><br><br><img alt="Test20240613234606099.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240613234606099.jpg"><br>みんなのレベルを少し甘く見すぎていたかもしれない｡成長速度がはやく､UIThemeを使って2日くらい掛けて一つ作れるレベルかと思っていたが､1日で作れるし自分で学習してCSSの書き方(relative,absolute)を活用していた｡素晴らしすぎる｡<br>Radixの使い方もGitHubの使い方もissueドリブン開発に必要な知識を教えた分だけ吸収してくれるの最高すぎる｡<br>打ち上げのご飯は賞によって決まります!!<br>
+最優秀賞: けむりき<br>
+優秀賞: 金山家<br>
+努力賞: サイゼ<br>
+参加賞: たこ焼き<br>みんなの技術力<br>
+wappon28devは神様<br>
+nasubl_React歴 3ヶ月(Vueは3年)<br>
+かんた React歴 1ヶ月<br>
+デザインができる<br>
+だいち React歴 1ヶ月<br>
+競プロを1年していたのでアルゴリズムができる<br>
+はやとReact歴 1ヶ月 ←プログラム自体始めて !!<br>]]></description><link>https://obsidian.nasubi.dev/logs/えさちぶめんと-2024vol.7技育ハッカソン.html</link><guid isPermaLink="false">logs/えさちぶめんと 2024vol.7技育ハッカソン.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 22 Jun 2024 14:13:21 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240612233151031.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240612233151031.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[えさちぶめんと ハッカソン発表用資料]]></title><description><![CDATA[ 
+ <br><br>えさちぶめんとです!!!<br>実績管理とは何なのか説明<br>esaをDatabaseとして使う技術的試みに挑戦した｡<br><br><br><br><br><br><br>ゲームの実績を現実世界(サークル)に落とし込む<br><br>React<br>
+Styled-components<br>
+RadixUI<br>
+iconify<br>
+wrangler<br>
+cloudflare pages functions<br>
+OpenAPI<br>
+esaAPIl<br>
+esa ←!?!?!?!??!?!?<br><br>esaがcorsに対応していなくてブラウザ上で叩けなかったので､pages funcitonsを別に作成してAPIを叩いている<br>
+esaをOAuth認証としてだけではなく､DBとして使用<br>
+ファイルルーティングを用いた素晴らしい開発体験<br>
+かわいい<br><br>Slackの絵文字をインポートする<br>
+Filter機能<br>
+Tagを表示<br>
+学部､学年によるフィルター<br><br>callbackからTeamsの選択<br>いろんなコンポーネントからのesaのカスタムフックの呼び出し<br>fetchJoinedTeamsで取得<br>markTeamNameAsSelectedで設定]]></description><link>https://obsidian.nasubi.dev/logs/えさちぶめんと-ハッカソン発表用資料.html</link><guid isPermaLink="false">logs/えさちぶめんと ハッカソン発表用資料.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 22 Jun 2024 17:51:01 GMT</pubDate></item><item><title><![CDATA[カラオケ歌いたい曲]]></title><description><![CDATA[ 
+ <br>歌ったことない<br>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/NMiQmumW0nI?si=hJtiXtIP1iJYx3kF" rel="noopener" class="external-link" href="https://youtu.be/NMiQmumW0nI?si=hJtiXtIP1iJYx3kF" target="_blank">ノウナイディスコ - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/YCoauaN_CMI?si=GiGGnF6RhGIPLCjE" rel="noopener" class="external-link" href="https://youtu.be/YCoauaN_CMI?si=GiGGnF6RhGIPLCjE" target="_blank">三日月ステップ - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/K-8KurA4SPE?si=UG7_H3bJ_fzHQZZT" rel="noopener" class="external-link" href="https://youtu.be/K-8KurA4SPE?si=UG7_H3bJ_fzHQZZT" target="_blank">菅原圭 - シトラス (Official Video) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/RcDBofJ-_oA?si=xKr1TUSQ8G9OvSuj" rel="noopener" class="external-link" href="https://youtu.be/RcDBofJ-_oA?si=xKr1TUSQ8G9OvSuj" target="_blank">muque - Bite you(Official Music Video) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/33tITqSwGB8?si=eICbCqkYbrbIJ1es" rel="noopener" class="external-link" href="https://youtu.be/33tITqSwGB8?si=eICbCqkYbrbIJ1es" target="_blank">muque - my crush(Official Music Video) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/8ZP5eqm4JqM?si=I_0T7ni70Ywug6Or" rel="noopener" class="external-link" href="https://youtu.be/8ZP5eqm4JqM?si=I_0T7ni70Ywug6Or" target="_blank">ビビデバ / 星街すいせい(official) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Qn-VRjidiMs?si=hoOq8dp3Y41lZ7jY" rel="noopener" class="external-link" href="https://youtu.be/Qn-VRjidiMs?si=hoOq8dp3Y41lZ7jY" target="_blank">Raon 라온 | ‘雨乙女(Ameotome)’ M/V - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/oryrOc4gJ4g?si=Vic2xrAnEcHbPYu1" rel="noopener" class="external-link" href="https://youtu.be/oryrOc4gJ4g?si=Vic2xrAnEcHbPYu1" target="_blank">Sala - Balloons【Official Music Video】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/5bwfRNU0lu8?si=-klEoZ0ncjNkJrIn" rel="noopener" class="external-link" href="https://youtu.be/5bwfRNU0lu8?si=-klEoZ0ncjNkJrIn" target="_blank">a子 - あたしの全部を愛せない  - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/9s-D9v3d770?si=czQ_uf49FoYPij0A" rel="noopener" class="external-link" href="https://youtu.be/9s-D9v3d770?si=czQ_uf49FoYPij0A" target="_blank">a子 - trank : MUSIC VIDEO - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/bgn4-06nfA4?si=qGakb_UWTq3wPhB6" rel="noopener" class="external-link" href="https://youtu.be/bgn4-06nfA4?si=qGakb_UWTq3wPhB6" target="_blank">文藝天国「破壊的価値創造」 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/mEQZNRT6Pqk?si=nnBqwJairUc0qkks" rel="noopener" class="external-link" href="https://youtu.be/mEQZNRT6Pqk?si=nnBqwJairUc0qkks" target="_blank">就寝御礼 (Original Mix) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/lIBZi9UEwh4?si=pPVovc3KS7SoK5Tg" rel="noopener" class="external-link" href="https://youtu.be/lIBZi9UEwh4?si=pPVovc3KS7SoK5Tg" target="_blank">しあわせレストラン / 弌誠：MUSIC VIDEO - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/tZovqXdHX6s?si=3va9paNtsWjZdmf3" rel="noopener" class="external-link" href="https://youtu.be/tZovqXdHX6s?si=3va9paNtsWjZdmf3" target="_blank">なんだか眠そうですね / 弌誠：MUSIC VIDEO - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/QGe4-PEdu_4?si=l9xj_I92hfVEHUPJ" rel="noopener" class="external-link" href="https://youtu.be/QGe4-PEdu_4?si=l9xj_I92hfVEHUPJ" target="_blank">『fake face dance music』/ 音田雅則 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/HM4nKaG9EyQ?si=Cq74EKhmECIRLXVZ" rel="noopener" class="external-link" href="https://youtu.be/HM4nKaG9EyQ?si=Cq74EKhmECIRLXVZ" target="_blank">PSYQUI - ヨノナカ (Lyrics) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/vudrTjCf-LM?si=VB9gO1B7KMDo2eb3" rel="noopener" class="external-link" href="https://youtu.be/vudrTjCf-LM?si=VB9gO1B7KMDo2eb3" target="_blank">緑黄色社会『ピンクブルー』Official Video / Ryokuoushoku Shakai – Pink Blue - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/uwS__WiOYTI?si=ASw6jAWb-ADw_gEt" rel="noopener" class="external-link" href="https://youtu.be/uwS__WiOYTI?si=ASw6jAWb-ADw_gEt" target="_blank">Cody・Lee(李) - 我愛你(MusicVideo) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/BnC-cpUCdns?si=lw1lChipuqxzAzsH" rel="noopener" class="external-link" href="https://youtu.be/BnC-cpUCdns?si=lw1lChipuqxzAzsH" target="_blank">Nichijou - Zzz - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/s3079g78UiE?si=pQjNo8bqkn_NIVF6" rel="noopener" class="external-link" href="https://youtu.be/s3079g78UiE?si=pQjNo8bqkn_NIVF6" target="_blank">Mom / あかるいみらい - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/37QRhfukn-E?si=3qgahCDYnk4zjEf-" rel="noopener" class="external-link" href="https://youtu.be/37QRhfukn-E?si=3qgahCDYnk4zjEf-" target="_blank">4:00 A.M. - Taeko Ohnuki - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=zsBBWBEZkFQ" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=zsBBWBEZkFQ" target="_blank">【Ado】MIRROR - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/kagoEGKHZvU?si=X35qTaDV7t2jxlo6" rel="noopener" class="external-link" href="https://youtu.be/kagoEGKHZvU?si=X35qTaDV7t2jxlo6" target="_blank">【imase】NIGHT DANCER（MV） - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/-P-SgEFh-SY?si=UwwzTIROnw3_Hin1" rel="noopener" class="external-link" href="https://youtu.be/-P-SgEFh-SY?si=UwwzTIROnw3_Hin1" target="_blank">春野 - Limbo MV - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/F6_zbnfxoBA?si=d2DWQaa-c---9vDJ" rel="noopener" class="external-link" href="https://youtu.be/F6_zbnfxoBA?si=d2DWQaa-c---9vDJ" target="_blank">【MV】Creepy Nuts - よふかしのうた - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/_dAzUOzWvrk?si=Iltv-JCQsjGjJgKO" rel="noopener" class="external-link" href="https://youtu.be/_dAzUOzWvrk?si=Iltv-JCQsjGjJgKO" target="_blank">【MV】Creepy Nuts - かつて天才だった俺たちへ - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/g0p_jI6T2WQ?si=krWH-f3NWEhyNtV-" rel="noopener" class="external-link" href="https://youtu.be/g0p_jI6T2WQ?si=krWH-f3NWEhyNtV-" target="_blank">フライディ・チャイナタウン - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/fakBzNX0W5c?si=PEYFm_KHHTfmF85n" rel="noopener" class="external-link" href="https://youtu.be/fakBzNX0W5c?si=PEYFm_KHHTfmF85n" target="_blank">TVアニメ「大魔法峠」 OP映像 (田中ぷにえ／大魔法峠）【NBCユニバーサルAnime✕Music30周年記念OP/ED毎日投稿企画】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/V27VIAgQlI8?si=mk-vQrLoKxiH-Frl" rel="noopener" class="external-link" href="https://youtu.be/V27VIAgQlI8?si=mk-vQrLoKxiH-Frl" target="_blank">TVアニメ「撲殺天使ドクロちゃん」第1期 OP映像 (ドクロちゃん（千葉紗子）／撲殺天使ドクロちゃん）【NBCユニバーサルAnime✕Music30周年記念OP/ED毎日投稿企画】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/3M08u53BcTk?si=nkA9dompK8j6eQsm" rel="noopener" class="external-link" href="https://youtu.be/3M08u53BcTk?si=nkA9dompK8j6eQsm" target="_blank">【Kasane Teto】 レクイエム / Requiem 【SynthV AI × UTAU Cover】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/1OG5WDYZPKk?si=a2P8A3tXVIOGwhax" rel="noopener" class="external-link" href="https://youtu.be/1OG5WDYZPKk?si=a2P8A3tXVIOGwhax" target="_blank">【UTAUカバー】 ワールズエンド・ダンスホール 【スズ ・ 電圧空】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/010nHWXwdYw?si=f4ObAl1DYTf3TC1H" rel="noopener" class="external-link" href="https://youtu.be/010nHWXwdYw?si=f4ObAl1DYTf3TC1H" target="_blank">風呂入るプロファイル / 初音ミク - もちうつね - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/En0S5tGLhr4?si=-u5KyaPzIf2iNuu0" rel="noopener" class="external-link" href="https://youtu.be/En0S5tGLhr4?si=-u5KyaPzIf2iNuu0" target="_blank">【重音テトSV】ホワイトハッピー (White Happy)【SynthVカバー】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/uOaMP1ZgwYg?si=nnopszgiKrNn88Al" rel="noopener" class="external-link" href="https://youtu.be/uOaMP1ZgwYg?si=nnopszgiKrNn88Al" target="_blank">【重音テトSV】脳内革命ガール - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/4LUljJxd3gM?si=Ccc4eHLAuD9KMLfN" rel="noopener" class="external-link" href="https://youtu.be/4LUljJxd3gM?si=Ccc4eHLAuD9KMLfN" target="_blank">【公式】 テレストテレス／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/gF9vwjSinsU?si=qJWcQ9tP_R57sWxP" rel="noopener" class="external-link" href="https://youtu.be/gF9vwjSinsU?si=qJWcQ9tP_R57sWxP" target="_blank">【公式】 マイナスレッテル／かいりきベア feat.flower - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/A-JX-Qb3NC0?si=7Nw7t1jFRqsxub0F" rel="noopener" class="external-link" href="https://youtu.be/A-JX-Qb3NC0?si=7Nw7t1jFRqsxub0F" target="_blank">【公式】 アンハッピーバースデイ／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/3HA9QiksWIc?si=_K3EwDE2qWodNmyr" rel="noopener" class="external-link" href="https://youtu.be/3HA9QiksWIc?si=_K3EwDE2qWodNmyr" target="_blank">【公式】 ココロナンセンス／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/lEGG_JPE3UQ?si=-U6tOC9eITzXKrJC" rel="noopener" class="external-link" href="https://youtu.be/lEGG_JPE3UQ?si=-U6tOC9eITzXKrJC" target="_blank">【公式】 ヒトサマアレルギー／かいりきベア feat.flower - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/6mCmR2gGgho?si=pScB-KkccRnn_1fe" rel="noopener" class="external-link" href="https://youtu.be/6mCmR2gGgho?si=pScB-KkccRnn_1fe" target="_blank">【公式】 失敗作少女／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/FNCJT-2rRAI?si=eXD29LNIFAW-VcKT" rel="noopener" class="external-link" href="https://youtu.be/FNCJT-2rRAI?si=eXD29LNIFAW-VcKT" target="_blank">【公式】 セイデンキニンゲン／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/cDqytGXoXWI?si=wyaXFIOpy55-r99q" rel="noopener" class="external-link" href="https://youtu.be/cDqytGXoXWI?si=wyaXFIOpy55-r99q" target="_blank">【公式】 イヤガール／かいりきベア feat.初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/KushW6zvazM?si=iIDnhbpASjwX2-0U" rel="noopener" class="external-link" href="https://youtu.be/KushW6zvazM?si=iIDnhbpASjwX2-0U" target="_blank">DECO*27 - ゴーストルール feat. 初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/hxSg2Ioz3LM?si=keOFrr9wttTwF2ms" rel="noopener" class="external-link" href="https://youtu.be/hxSg2Ioz3LM?si=keOFrr9wttTwF2ms" target="_blank">DECO*27 - ヒバナ feat. 初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/8pGRdRhjX3o?si=7zqftjGhJOaA5vit" rel="noopener" class="external-link" href="https://youtu.be/8pGRdRhjX3o?si=7zqftjGhJOaA5vit" target="_blank">DECO*27 - 妄想感傷代償連盟 feat. 初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/_YpcTBm15QU?si=ISVERC16Q-vwjE5H" rel="noopener" class="external-link" href="https://youtu.be/_YpcTBm15QU?si=ISVERC16Q-vwjE5H" target="_blank">黄金数 / いよわ feat. 初音ミク・flower（Golden Number / Iyowa feat.Hatsune Miku・flower） - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/qB4xRKllyeI?si=wBDtxCfG1DlNeRQp" rel="noopener" class="external-link" href="https://youtu.be/qB4xRKllyeI?si=wBDtxCfG1DlNeRQp" target="_blank">じん / サマータイムレコード (IA)【OFFICIAL MUSIC VIDEO】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/yJTQuDCnMjg?si=UsUBN_IDt9QRALUI" rel="noopener" class="external-link" href="https://youtu.be/yJTQuDCnMjg?si=UsUBN_IDt9QRALUI" target="_blank">じん / ロスタイムメモリー (IA)【OFFICIAL MUSIC VIDEO】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/oh9UGmqtdMg?si=2SJiO3SeIGWv3GZq" rel="noopener" class="external-link" href="https://youtu.be/oh9UGmqtdMg?si=2SJiO3SeIGWv3GZq" target="_blank">じん / チルドレンレコード (IA)【OFFICIAL MUSIC VIDEO】 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/KhAcM0Nbtr8?si=ikZLAu6tUkmWz63a" rel="noopener" class="external-link" href="https://youtu.be/KhAcM0Nbtr8?si=ikZLAu6tUkmWz63a" target="_blank">Clipping Radio - ft.Hatsune Miku - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/0oGm7afQizs?si=i5POlDlGteSMDQAW" rel="noopener" class="external-link" href="https://youtu.be/0oGm7afQizs?si=i5POlDlGteSMDQAW" target="_blank">Eighteen - ft.Hatsune Miku - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/qnX2CdOBcDI?si=C3l-n4P1OYMw2860" rel="noopener" class="external-link" href="https://youtu.be/qnX2CdOBcDI?si=C3l-n4P1OYMw2860" target="_blank">ハチ - ドーナツホール , HACHI - DONUT HOLE - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/OEIcqGVDUuk?si=dGdT_wY0bf2GeBHZ" rel="noopener" class="external-link" href="https://youtu.be/OEIcqGVDUuk?si=dGdT_wY0bf2GeBHZ" target="_blank">SEKAI NO OWARI「LOVE SONG」 - YouTube</a>
+<br>盛り上がる
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/HV4iTnWg3Z0?si=9tyBlctM2dh1GQs3" rel="noopener" class="external-link" href="https://youtu.be/HV4iTnWg3Z0?si=9tyBlctM2dh1GQs3" target="_blank">ヒステリックナイトガール (Original Mix) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/cRFSbeHXFwk?si=UKLlueGek-s5rcfJ" rel="noopener" class="external-link" href="https://youtu.be/cRFSbeHXFwk?si=UKLlueGek-s5rcfJ" target="_blank">錠剤 / TOOBOE - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/7synqOiMORc?si=-zzVEKZuK2GhPfw-" rel="noopener" class="external-link" href="https://youtu.be/7synqOiMORc?si=-zzVEKZuK2GhPfw-" target="_blank">PEOPLE 1 “鈴々” （Official Video） - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/2JLMtmUxKZI?si=oggaOvVnALAzByvL" rel="noopener" class="external-link" href="https://youtu.be/2JLMtmUxKZI?si=oggaOvVnALAzByvL" target="_blank">WurtS - Talking Box (Dirty Pop Remix) (Music Video) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/9aJVr5tTTWk?si=-FDeqfAB8qQcvMEL" rel="noopener" class="external-link" href="https://youtu.be/9aJVr5tTTWk?si=-FDeqfAB8qQcvMEL" target="_blank">米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Dx_fKPBPYUI?si=4slGAxYkyK_wvdd5" rel="noopener" class="external-link" href="https://youtu.be/Dx_fKPBPYUI?si=4slGAxYkyK_wvdd5" target="_blank">米津玄師 - LOSER , Kenshi Yonezu - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/M2cckDmNLMI?si=UBCIKW1vIZYGYCK2" rel="noopener" class="external-link" href="https://youtu.be/M2cckDmNLMI?si=UBCIKW1vIZYGYCK2" target="_blank">米津玄師 Kenshi Yonezu - KICKBACK - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/zkNzxsaCunU?si=I61UtGhT4ZwOdOqh" rel="noopener" class="external-link" href="https://youtu.be/zkNzxsaCunU?si=I61UtGhT4ZwOdOqh" target="_blank">米津玄師 - 春雷 Kenshi Yonezu - Shunrai - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/RDIUaT3LvfU?si=FJQs1mml_UbHhYnu" rel="noopener" class="external-link" href="https://youtu.be/RDIUaT3LvfU?si=FJQs1mml_UbHhYnu" target="_blank">Kenshi Yonezu - Melancholy Kitchen [RUS SUB] (【米津玄篩】メランコリーキッチン) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/ba8XoFqIJVY?si=ioP1DFwtZ0j7cEHV" rel="noopener" class="external-link" href="https://youtu.be/ba8XoFqIJVY?si=ioP1DFwtZ0j7cEHV" target="_blank">PEOPLE 1 “DOGLAND” （Official Video） - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/2PqxOytUjz0?si=U5xbKQ5kYyqJeQjG" rel="noopener" class="external-link" href="https://youtu.be/2PqxOytUjz0?si=U5xbKQ5kYyqJeQjG" target="_blank">米津玄師　MV『ゴーゴー幽霊船』 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/ODysC7SM_Yk?si=gxN73YP2kR5DBixk" rel="noopener" class="external-link" href="https://youtu.be/ODysC7SM_Yk?si=gxN73YP2kR5DBixk" target="_blank">相対性理論 - 気になるあの娘 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Ue6VQTcKPQo?si=k70VDNaUj06cSyfs" rel="noopener" class="external-link" href="https://youtu.be/Ue6VQTcKPQo?si=k70VDNaUj06cSyfs" target="_blank">Reol - '第六感 / THE SIXTH SENSE' Music Video - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/pjkOB8rXs6E?si=S1zpp7p8U8eADt38" rel="noopener" class="external-link" href="https://youtu.be/pjkOB8rXs6E?si=S1zpp7p8U8eADt38" target="_blank">心臓 / TOOBOE - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/F38EuG2dAyM?si=o6Et6CtJ-2VO9YwR" rel="noopener" class="external-link" href="https://youtu.be/F38EuG2dAyM?si=o6Et6CtJ-2VO9YwR" target="_blank">イガク - 重音テト - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/pUH9vCsvq08?si=e9fVINAGw3Q4gB7v" rel="noopener" class="external-link" href="https://youtu.be/pUH9vCsvq08?si=e9fVINAGw3Q4gB7v" target="_blank">春嵐 / 初音ミク - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/qfsr0S_QGOU?si=QYFy5ydLnEhNcugZ" rel="noopener" class="external-link" href="https://youtu.be/qfsr0S_QGOU?si=QYFy5ydLnEhNcugZ" target="_blank">SEKAI NO OWARI「Hey Ho」 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/UcoFyrlQev0?si=vebqXbteINtdHG1p" rel="noopener" class="external-link" href="https://youtu.be/UcoFyrlQev0?si=vebqXbteINtdHG1p" target="_blank">Dragon Night - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/w9V3x61D994?si=vQiFXPqFRskT0AKy" rel="noopener" class="external-link" href="https://youtu.be/w9V3x61D994?si=vQiFXPqFRskT0AKy" target="_blank">SEKAI NO OWARI「炎と森のカーニバル」 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Mi9uNu35Gmk?si=t4kMBU61SBA1UsY2" rel="noopener" class="external-link" href="https://youtu.be/Mi9uNu35Gmk?si=t4kMBU61SBA1UsY2" target="_blank">SEKAI NO OWARI「RPG」 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/CJbI-5kkkqc?si=YcbMQdnU2-Z75pkg" rel="noopener" class="external-link" href="https://youtu.be/CJbI-5kkkqc?si=YcbMQdnU2-Z75pkg" target="_blank">SEKAI NO OWARI　『スターライトパレード』　Music Video - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/HrZX4KFfniU?si=a5aA8pVNucVpe8C0" rel="noopener" class="external-link" href="https://youtu.be/HrZX4KFfniU?si=a5aA8pVNucVpe8C0" target="_blank">Earthchild - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/dpWJojZ1plE?si=1rqDM7dkSbUxfAfz" rel="noopener" class="external-link" href="https://youtu.be/dpWJojZ1plE?si=1rqDM7dkSbUxfAfz" target="_blank">Broken Bone - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/IHHArdUUJPY?si=lU2caF_Sn7SuW2s-" rel="noopener" class="external-link" href="https://youtu.be/IHHArdUUJPY?si=lU2caF_Sn7SuW2s-" target="_blank">Play - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/_GA1tC-qNY8?si=33RhywXtpk6a1K3_" rel="noopener" class="external-link" href="https://youtu.be/_GA1tC-qNY8?si=33RhywXtpk6a1K3_" target="_blank">ムーンライトステーション - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Bl2XtzQfTRc?si=IqWhLJKuo9TM7Hwf" rel="noopener" class="external-link" href="https://youtu.be/Bl2XtzQfTRc?si=IqWhLJKuo9TM7Hwf" target="_blank">Error - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/3ugMPnsxx2o?si=CkS98ipI0i8T7ttt" rel="noopener" class="external-link" href="https://youtu.be/3ugMPnsxx2o?si=CkS98ipI0i8T7ttt" target="_blank">不死鳥 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/6TpTXFjwnh8?si=aw2zCUnKgfqZoKJe" rel="noopener" class="external-link" href="https://youtu.be/6TpTXFjwnh8?si=aw2zCUnKgfqZoKJe" target="_blank">Illusion - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/UndJp04TVMs?si=GUZCjYo0wcnslBx2" rel="noopener" class="external-link" href="https://youtu.be/UndJp04TVMs?si=GUZCjYo0wcnslBx2" target="_blank">Love The Warz - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/06xd_8AkznA?si=QW1FIZAsaLBuRT2l" rel="noopener" class="external-link" href="https://youtu.be/06xd_8AkznA?si=QW1FIZAsaLBuRT2l" target="_blank">Yume - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/-_wA64jZylA?si=HGWv1jNJYa5LTpum" rel="noopener" class="external-link" href="https://youtu.be/-_wA64jZylA?si=HGWv1jNJYa5LTpum" target="_blank">生物学的幻想曲 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/vrF1xbK2Plk?si=eEy4CFOLLmeEkIEF" rel="noopener" class="external-link" href="https://youtu.be/vrF1xbK2Plk?si=eEy4CFOLLmeEkIEF" target="_blank">Fight Music - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/WKpPyvCsyQw?si=EHLetj2v30Cr7S-V" rel="noopener" class="external-link" href="https://youtu.be/WKpPyvCsyQw?si=EHLetj2v30Cr7S-V" target="_blank">世界平和 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/ZlVmVuMiEVQ?si=mjvq2aNAuaicgP2U" rel="noopener" class="external-link" href="https://youtu.be/ZlVmVuMiEVQ?si=mjvq2aNAuaicgP2U" target="_blank">インスタントラジオ - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/od8CNHDkIJA?si=Lk826xxMdPCd3ZV9" rel="noopener" class="external-link" href="https://youtu.be/od8CNHDkIJA?si=Lk826xxMdPCd3ZV9" target="_blank">世界の終わり / 虹色の戦争 - YouTube</a>
+<br>しっとり
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/xn6pEFpbXh8?si=t2V38AFjbdVqOftk" rel="noopener" class="external-link" href="https://youtu.be/xn6pEFpbXh8?si=t2V38AFjbdVqOftk" target="_blank">Cody・Lee(李)&nbsp;-&nbsp;おどる&nbsp;ひかり(MusicVideo) - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/XLP-maQNahg?si=UC5Vmwp43bW-i4RG" rel="noopener" class="external-link" href="https://youtu.be/XLP-maQNahg?si=UC5Vmwp43bW-i4RG" target="_blank">笹川真生 - 食虫植物 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/wjDmMpM1Kzo?si=Ntdy4QgoUt5z3utV" rel="noopener" class="external-link" href="https://youtu.be/wjDmMpM1Kzo?si=Ntdy4QgoUt5z3utV" target="_blank">Mel / 彗星と街 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/gyr1krGnd1k?si=ViI07ipz81X3HIEv" rel="noopener" class="external-link" href="https://youtu.be/gyr1krGnd1k?si=ViI07ipz81X3HIEv" target="_blank">カタコト - sloppy dim (Cover) / KMNZ LIZ - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/7HgJIAUtICU?si=ckv64kYoviu0ogp1" rel="noopener" class="external-link" href="https://youtu.be/7HgJIAUtICU?si=ckv64kYoviu0ogp1" target="_blank">踊り子 / Vaundy：MUSIC VIDEO - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/q6Ylz-EhtDo?si=YA_wswdKBmYi7gGC" rel="noopener" class="external-link" href="https://youtu.be/q6Ylz-EhtDo?si=YA_wswdKBmYi7gGC" target="_blank">SEKAI NO OWARI「プレゼント」 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/n5gTTW6zPoA?si=8Fo_bFEQVQio4-c1" rel="noopener" class="external-link" href="https://youtu.be/n5gTTW6zPoA?si=8Fo_bFEQVQio4-c1" target="_blank">SEKAI NO OWARI 『眠り姫』 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/hVFY4Yvv3ho?si=oJz9_ij-WYRRrCpf" rel="noopener" class="external-link" href="https://youtu.be/hVFY4Yvv3ho?si=oJz9_ij-WYRRrCpf" target="_blank">世界の終わり/天使と悪魔 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/2hTnAKvnDrA?si=YkuvHB3yNzBrysZO" rel="noopener" class="external-link" href="https://youtu.be/2hTnAKvnDrA?si=YkuvHB3yNzBrysZO" target="_blank">世界の終わり/ファンタジー - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/od8CNHDkIJA?si=0a5KbxOe9va520BU" rel="noopener" class="external-link" href="https://youtu.be/od8CNHDkIJA?si=0a5KbxOe9va520BU" target="_blank">世界の終わり / 虹色の戦争 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/bF9C4_cF7go?si=HQlo0pYHPSqMzhkG" rel="noopener" class="external-link" href="https://youtu.be/bF9C4_cF7go?si=HQlo0pYHPSqMzhkG" target="_blank">Gingagainoakumu - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/UM2ykCma6vU?si=xmpzaXuLZ2-LdYmL" rel="noopener" class="external-link" href="https://youtu.be/UM2ykCma6vU?si=xmpzaXuLZ2-LdYmL" target="_blank">すべてが終わった夜に - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/ELHkfeZK9ig?si=ssCVHwmon5U7d9ov" rel="noopener" class="external-link" href="https://youtu.be/ELHkfeZK9ig?si=ssCVHwmon5U7d9ov" target="_blank">Never Ending World - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/BAFJz4fQH50?si=6-LNbYzUrOb55fb0" rel="noopener" class="external-link" href="https://youtu.be/BAFJz4fQH50?si=6-LNbYzUrOb55fb0" target="_blank">花鳥風月 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/8_Rn_-EdJQw?si=OK5wnJg_QcVSoiQ5" rel="noopener" class="external-link" href="https://youtu.be/8_Rn_-EdJQw?si=OK5wnJg_QcVSoiQ5" target="_blank">死の魔法 - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/7VNlJOX8fKg?si=o9--J912xKFFtUhu" rel="noopener" class="external-link" href="https://youtu.be/7VNlJOX8fKg?si=o9--J912xKFFtUhu" target="_blank">白昼の夢 - YouTube</a><br>
+オタク
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/Js_-gKm1RYI?si=lncDBnEihGzR-5XQ" rel="noopener" class="external-link" href="https://youtu.be/Js_-gKm1RYI?si=lncDBnEihGzR-5XQ" target="_blank">@Aiobahn feat. KOTOKO -INTERNET YAMERO - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/UC_qla6FQwM?si=R1Pu1EQZxZL25wls" rel="noopener" class="external-link" href="https://youtu.be/UC_qla6FQwM?si=R1Pu1EQZxZL25wls" target="_blank">[MV] REOL - ヒビカセ / Hibikase - YouTube</a>
+<br><a data-tooltip-position="top" aria-label="https://youtu.be/BnkhBwzBqlQ?si=0lMR4r18QU47bOaj" rel="noopener" class="external-link" href="https://youtu.be/BnkhBwzBqlQ?si=0lMR4r18QU47bOaj" target="_blank">Aiobahn feat. KOTOKO - INTERNET OVERDOSE (Official Music Video) [Theme for NEEDY GIRL OVERDOSE] - YouTube</a>
+<br>
+]]></description><link>https://obsidian.nasubi.dev/logs/カラオケ歌いたい曲.html</link><guid isPermaLink="false">logs/カラオケ歌いたい曲.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Mon, 10 Jun 2024 09:32:16 GMT</pubDate></item><item><title><![CDATA[サマーインターン]]></title><description><![CDATA[ 
+ <br>ウェブフロント募集について<br><br>来年行きたい<br>
+<br>LINE Yahoo
+<br>CARTA
+<br>YUMEMI
+<br>DeNA
+<br>sansan
+<br>SONY
+<br>
+<br>
+<br>私の勝手な分類<br>
+<br>メガベンチャー
+
+<br>TeamLab
+<br>サイバーエージェント
+<br>YUMEMI
+<br>DeNA
+<br>CARTA
+<br>accenture
+<br>DMM
+<br>GMO
+<br>sansan
+<br>メルカリ
+<br>cookpad
+<br>mixi
+<br>moneyfoward
+<br>
+
+
+<br>
+<br>RECRUIT
+<br>
+<br>大企業
+
+<br>Softbank
+<br>Yahoo
+<br>SONY
+<br>Rakuten
+<br>日立
+
+
+<br>最近知った企業<br>
+<br>chot.inc
+<br>cybozu
+<br>
+]]></description><link>https://obsidian.nasubi.dev/logs/サマーインターン.html</link><guid isPermaLink="false">logs/サマーインターン.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Thu, 20 Jun 2024 12:42:56 GMT</pubDate></item><item><title><![CDATA[シス研 全実績]]></title><description><![CDATA[ 
+ <br>
+<br>家系(町田商店)
+
+<br>塩味
+<br>醤油豚骨味
+<br>回鍋肉味
+<br>特盛 + 替え玉
+
+
+<br>次郎(3代目溝口屋)
+<br>部室夜通し
+<br>部室連続滞在時間
+
+<br>24h
+<br>48h
+<br>72h
+
+
+<br>部室宿泊
+<br>プログラミング合宿
+<br>料理
+
+<br>パンケーキ
+<br>たこ焼き
+<br>餃子
+
+
+<br>シス研部員で旅行
+<br>竜泉寺
+<br>仮学生証
+<br>落単
+<br>交通事故
+<br>部内SNSに登録(Slack､esa､Discord)
+<br>車に乗せて貰う
+<br>車に乗せる
+<br>飯を奢る
+<br>飯を奢られる
+<br>シス研7連勤
+<br>Slack スタンプ化
+<br>Slackのスタンプを追加
+<br>女子トイレに行く
+<br>イベント遅刻
+<br>ハッカソン出場
+
+<br>最優秀賞
+<br>企業賞
+<br>努力賞
+<br>出場
+
+
+<br>工科展出場
+<br>忘れ物
+
+<br>スマホ
+<br>財布
+<br>Macbook
+
+
+<br>発注ミス
+<br>警察にお世話になる
+<br>警備員と話す
+<br>シス研本棚から本を借りる
+<br>シス研本棚に寄贈
+<br>クリスマスにシス研に存在する
+<br>部室カップラーメン
+
+<br>ラーメン
+<br>焼きそば
+
+
+<br>シス研商店での購入
+
+<br>100円以上
+<br>500円以上
+<br>10000円以上
+<br>チルソンサイダー
+
+
+<br>Macbook破壊
+
+<br>水没
+<br>画面割り
+
+
+<br>暴言&amp;下ネタ発言
+
+<br>1回
+<br>10回
+<br>100回
+
+
+<br>OBと遭遇
+
+<br>戦う
+
+
+<br>ベルを1回鳴らす
+<br>prg_に参加する
+<br>ホワイトボードに落書き
+<br>役員になる
+<br>食器を洗わない
+<br>勉強会に参加する
+<br>名簿システムに登録
+<br>過去問登録
+<br>シス研Webサイトを更新
+<br>esaに自己紹介のページを作る
+<br>esaの記事投稿数
+
+<br>10
+<br>50
+<br>100
+
+
+<br>シス研用の買い出し
+<br>シス研カメラを登録
+<br>シス研南京錠を知る
+<br>シス研のPassを知る
+<br>シス研Wi-Fiを登録
+<br>シス研Orgに参加する
+<br>シス研サイトに自分のサイトのリンクを貼る
+<br>シス研サイトの制作物一覧に自分の作ったものを乗せる
+<br>シス研のサイトで記事の投稿をする
+<br>qiitaで記事を投稿する
+<br>matsuribaに出場
+<br>randomで喋る
+<br>女の子と連絡先交換
+<br>シス研のメンバー2人以上が当事者の男女の揉め事
+<br>恋愛失敗
+<br>先輩から教科書を貰う
+<br>シス研に出現した虫討伐
+<br>シス研で飲酒
+<br>終電チキンレース
+<br>提出課題チキンレース
+<br>終電逃す
+<br>休日シス研
+<br>模擬店に出場
+<br>研究室侵食
+<br>シス研上映会
+<br>Google Homeにつなげる
+<br>プログラム完全一致でコピペがバレて落単
+<br>コストコ
+<br>シス研にいて授業出席忘れ
+<br>賭け事
+<br>シス研ギャング入り
+<br>自分のtimesを作る
+<br>OBと会う
+<br>ジャパ変の存在を知る
+<br>times_松田直旺の存在を知る
+]]></description><link>https://obsidian.nasubi.dev/logs/シス研-全実績.html</link><guid isPermaLink="false">logs/シス研 全実績.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Fri, 10 May 2024 08:15:32 GMT</pubDate></item><item><title><![CDATA[セキュリティキャンプ]]></title><description><![CDATA[ 
+ <br><br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#producer03" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#producer03" target="_blank">藤田 尚宏</a>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#producer02" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#producer02" target="_blank">米内 貴志</a>
+<br>開催日時<br>
+8月13日(火曜日) 8時30分～12時30分<br>分野・キーワード<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword10" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword10" target="_blank">Webセキュリティ</a>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword16" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword16" target="_blank">クラウドセキュリティ</a>
+<br>プロダクトセキュリティ
+<br>リーダーシップ
+<br>講義概要<br>本講義では、ウェブとクラウドの技術を用いたプロダクト開発において、セキュリティの重要性とその実践法を学ぶことで、5日間で学ぶ要素技術の関連性を大まかに理解することを目指します。プロダクト開発におけるセキュリティ対策の基本から、企業の事業フェーズに応じた体制構築、リスクへの対処法までを広く俯瞰します。アイスブレークとして事前課題の成果発表や講師との対話を通じてコミュニケーション能力も高め、さまざまな組織文化のもとでセキュリティを推進するためのリーダーシップを学びます。<br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor11" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor11" target="_blank">亀山 直生</a>
+<br>開催日時<br>8月13日(火曜日) 13時30分～17時30分<br>分野・キーワード<br>
+<br>組織
+<br>検知
+<br>CSIRT
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword21" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword21" target="_blank">脆弱性</a>
+<br>アクセス制御
+<br>講義概要<br>講師の今までの経験も踏まえ、組織の情報セキュリティ対策に関する戦略と戦術の話をしながら、いくつかのテーマでワークを実施します。  <br>
+<br>座学（イントロダクション・俯瞰視点の情報セキュリティ・戦略戦術等の話）  
+<br>グループディスカッション x 1（情報セキュリティ対策の0-&gt;1）  
+<br>グループワーク x 1（インシデントハンドリング演習）  
+<br>個人ワーク x 1（ゼロトラストやWAFに関するワークを予定）  
+<br>注釈：環境や時間によって内容が多少変更される可能性があることをご了承下さい。<br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor15" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor15" target="_blank">水谷 正慶</a>
+<br>開催日時<br>
+8月14日(水曜日) 8時30分～12時30<br>分野・キーワード<br>
+<br>攻撃検知
+<br>アセット管理
+<br>脆弱性管理
+<br>Policy as Code
+<br>講義概要<br>
+組織におけるセキュリティ対策では脆弱性を塞ぐような「防御」的な対策が注目されがちですが、同様に「監視」的な対策も重要です。組織内のリスクを早期に検出、調査そして管理ができる「監視」体制を構築することで、「防御」で防げなかった問題による影響を極小化できます。セキュリティ監視は大きくイベント監視（攻撃などの検出）とアセット監視（システムの脆弱性や設定ミスの検出）に分類できます。本講義ではこれら2つのセキュリティ監視についての概要を説明しつつ、具体的に取り組む際の考え方やエンジニアリング的なアプローチについて紹介します。<br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor09" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor09" target="_blank">末澤 裕希</a>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor10" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor10" target="_blank">白石 三晃</a>
+<br>開催日時<br>
+8月14日(水曜日) 13時30分～17時30分<br>分野・キーワード<br>
+<br>レッドチーミング
+<br>パープルチーミング
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword14" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword14" target="_blank">脅威分析</a>
+<br>ゼロトラスト
+<br>CI/CD
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword15" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword15" target="_blank">クラウド</a>
+<br>講義概要<br>
+モダンなプロダクト開発環境に対するサイバー攻撃のシナリオを題材に、攻撃者の思考・感情・判断基準に関する深い理解を受講者に与えるとともに、ベストプラクティスの確立されていない領域においても攻撃者目線で脅威分析を行い、自らセキュリティ対策を立案できる人材の育成を目指します。  <br>講義では、講師が従事するサイバー攻撃シミュレーションサービス「レッドチーム演習」での経験に基づき、ゼロトラスト、ソースコード共有サービス、CI/CD、クラウドなどモダンなプロダクト開発環境に対するサイバー攻撃がどのように行われているかを解説した上で、ハンズオンで実践します。<br>
+また、学んだ攻撃者の考え方をどのように対策として活かせるかを、組織・技術の双方の観点から、脅威分析なども用いて解説を行います。  <br>本講義を通じて、開発するプロダクトやそこで利用するテクノロジに関わらず、あらゆる環境に適用可能な「攻撃者が何を狙うかを自ら考え、対策を推進する力」を体得することにより、広くITに関わるすべての受講者に、セキュリティを意識した業務を行なうための地図を提供することを目指します。<br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor12" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor12" target="_blank">齋藤 徳秀</a>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor14" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor14" target="_blank">山川 大貴</a>
+<br>開催日時<br>
+8月15日(木曜日) 8時30分～12時30分<br>分野・キーワード<br>
+<br>セキュア開発
+<br>設計のセキュリティレビュー
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword10" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword10" target="_blank">Webセキュリティ</a>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword21" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword21" target="_blank">脆弱性</a>
+<br>トリアージと修正
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword16" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword16" target="_blank">クラウドセキュリティ</a>
+<br>講義概要<br>
+Shift-leftと呼ばれる言葉があるように、プロダクトのセキュリティを担保するためには、できる限り工程の前でセキュリティリスクを発見し、セキュリティ対応をすることが大事であると言われています。 そのようなプロダクト開発の潮流の中で、セキュリティを担保するための技術というのは、広範な知識と多くの技術が要求されるようになってきています。 本講義では、開発工程を「設計」「実装」「テスト」「修正」の4つのフェーズに分割し、各フェーズにおける考え方や実践方法を学ぶことで俯瞰的に理解します。<br>
+また、技術的な能力を高めるだけではなく、脆弱性におけるリスクを他人にわかりやすく説明するなどのいわゆるソフトスキルの向上も目指します。<br>
+本講義のゴールはプロダクトのセキュリティに関心を寄せるエンジニアとしての総合的な力を身につけることになります。<br><br>担当講師<br>
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor13" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor13" target="_blank">水元 恭平</a>
+<br>開催日時<br>
+8月15日(木曜日) 13時30分～17時30分<br>分野・キーワード<br>
+<br>コンテナ
+<br>Kubernetes
+<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword15" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/keyword.html#keyword15" target="_blank">クラウド</a>
+<br>講義概要<br>
+コンテナ実行基盤としてKubernetesが広く普及する中、そのセキュリティ対策の重要性が高まっています。本講義では、Kubernetesクラスタやコンテナアプリケーションを保護するための各種機能と、OSSを利用したセキュリティ強化について実践的に学びます。<br>
+Kubernetes環境における脅威の理解と対策の優先順位付け、さらに運用面も考慮した現実的な対策実施方法の習得を目指します。<br><br><br><br>(1) この応募課題の設問は、どれも応募してくださるあなたの「現状の知識・経験の広さ・深さ」「興味・感心の範囲や強さ」を汲み取るためのものです。ぜひ自分の興味関心や知識、考えたこと、疑問等を各設問への解答として表現していただければと思います。<br>(2) 各設問で求めている内容が適切に盛り込まれている限り、解答の文字数の大小や日本語表現の巧拙は評価に大きな影響を与えません。また、日本語表現に関する軽微な誤りは評価に全く影響しません。とりわけ誤字脱字はあまり気にしなくて大丈夫です。<br>(3) 誇張を感じられる解答よりも、 ご自分の応募時点での経験や理解が真摯に表現できている解答を歓迎します。とりわけ、分からないことや確信の持てないことがあるときには「ここまでは分かったが、ここからは分からない」「これらの事例から 〜でないかと推測できるが、〜であると断言できるかは不明である」というような記述を含めていただけると嬉しいです。<br>(4) 選択問題においては「適切な論拠をもとにした、各設問に対して必要十分な情報を、適切な論理構造で表現できているか」を意識してください。<br>(5) 選択問題はきっかり 1 問のみ解答していただいても大丈夫です。2 問以上ご解答いただけると、選考においては、より応募してくださるあなたの魅力を汲み取りやすくなるかもしれません。なお、選びにくい問題・難易度が高そうな問題に挑戦している応募者の評価も高めになる傾向がありました。<br>(6) 解答に関して何かしらの実験を行う際には、法令等を必ず遵守してください。<br>(7) 最近著しい進化を遂げる LLM サービスを利用して解答を作成しても構いません。限られた期間で最大限によいと思える解答を作ること、それを通して自分の見識を広げるのに、それらの技術が貢献してくれるかもしれません。<br><br><br><br>「プロダクトセキュリティクラス」の講義のうち、特に受講したいと思う講義（複数可）に関して、その講義で「どのようなことを・なぜ学びたいか」を教えてください。とりわけ「なぜ学びたいか」の部分に関連して、いま応募を考えているあなたが感じておられる課題意識や、あなたの関心領域が伝わってくるような解答を歓迎します。<br><br>『クラウドネイティブなシステムを保護するための実践的Kubernetesセキュリティ』に興味があり､Kubernetesでの環境変数の設定だけでなく､実務で通用するようなプロダクトの保護やセキュリティレベルの高いKubernetesの活用方法を学びたいと考えています｡<br>学びたい具体的な理由としては2つあります｡<br><br>私はフロントエンジニアでありながらセキュリティに長け､プロダクトのセキュリティを推進できるような人材を目指していているからです｡<br>そのためにも､大学在学中に個人サービスを展開し､実際に収益を上げることで実務で通用するセキュリティ能力を証明したいと考えています｡収益を伴うサービスでは､堅牢なセキュリティがユーザーからの信頼を得るために不可欠であり､Kubernetesなどの活用が必須だと感じています｡<br><br>過去のプロジェクトでセキュリティ関連の課題に直面した経験からも、Kubernetesの学習が重要だと考えています｡例えば､チーム開発での環境変数の共有方法に悩み､最終的にはSlackで送信するという不十分な対策を取ったことがあります｡この経験からKubernetesの活用が必須ではないかと考えています｡<br>具体的には､GitHubで共同開発でSupabaseを採用し､Supabaseの <a data-tooltip-position="top" aria-label="https://supabase.com/docs/guides/platform/branching" rel="noopener" class="external-link" href="https://supabase.com/docs/guides/platform/branching" target="_blank">｢Branching｣</a> を使用してブランチごとにDBの切り替えを行っていました｡いくらprivateリポジトリだからとはいえ､FirebaseやVercelのAPIキーを安全に管理する必要がありました(後々知ったのですがFirebaseはAPIキーが公開される前提ですが当時の私は知りませんでした)｡もし悪用されれば､無料枠のアクセス数制限を超え､従量課金されてしまう恐れなどがあるため.gitignoreで.env.localを指定してリモートにプッシュしないようにしていました｡<br>すると､チームのメンバーがDBのテストをしたいときにどうやって環境変数を送るかが問題となりました｡その開発はハッカソンでしたので共有方法に時間を割く訳にはいかず､セキュリティ対策が不十分であると理解しながらもSlackで環境変数を送信しました｡時間的余裕さえあればコンテナを作成してコンテナ自体に環境変数を設定し､メンバー間で共有することでセキュアでDXの高い開発を実践できると考えています｡<br><br>これらの理由により､B6『クラウドネイティブなシステムを保護するための実践的Kubernetesセキュリティ』に興味があり､Kubernetesでの環境変数の設定だけでなく､実務で通用するようなプロダクトの保護やセキュリティレベルの高いKubernetesの活用方法を学びたいと考えています｡<br><br>以下の経験について、差し支えのない範囲でできるだけ具体的に教えてください:<br>
+(1) Web アプリケーションの設計・開発経験（※ どんな些細なものでも構いません）<br>
+(2) パブリッククラウド技術の利用・構築経験（※ どんな些細なものでも構いません）<br>
+(3) 一般のプログラミングの経験やチームでの開発経験（※ 使ったことのある言語や、その用途などを教えてください。レイヤは問いません）<br>
+(4) コンテナ技術の利用経験<br>
+(5) CI/CD 環境のセットアップ・利用経験<br>
+なお、この問は「この応募課題を提出する時点での経験」を問うものです。この応募課題を見た時点での経験はなくても構いませんし、この応募課題の記入にあわせての学習を歓迎します。<br><br><br>Webフロントに興味を持ったのは高校1年の頃です｡それから今日までに様々フレームワークやライブラリ､BaaSを組み合わせて多数の制作物を生み出しました｡<br><br><br>その中で特筆したい制作物は<a data-tooltip-position="top" aria-label="https://github.com/nasubi916/fookeys" rel="noopener" class="external-link" href="https://github.com/nasubi916/fookeys" target="_blank">｢fookeys｣</a>です｡これは高校3年の課題研究という授業で1年かけて制作しました｡ブラウザで動作する1対1のターン制対戦カードゲームで､画像やBGM､SEは他の友達が制作したのですが､私がすべてコーディングしました｡<br><br>ゲームのコンセプトとして､ ｢フードロス｣ × ｢ゲーム｣ を組み合わせることでフードロスを小中高生にも身近に感じてもらい､理解を深めて貰うのがテーマです｡コンセプトをゲームのシステムに落とし込み､ゲームで勝利するためにはフードロスを減らす行動をプレイヤーが自主的に選択してもらうために､様々な工夫を凝らしました｡<br><br>カード一枚一枚を食べ物に見立て､このゲーム特有の概念として､腐り値と呼ばれる値が存在し､カードの左上に表示されています｡腐り値とは､ドローした時点で3~5程度の数値で､ターンが経過する毎に数値が1ずつ減り､0になると腐ったカードに変化し､使用不可能のカードとして手札に残ります｡このカードゲームは手札の最大上限が9枚までとなっていて､手札を圧迫してしまいます｡一般的にコストと呼ばれるものを満腹値として表現しています｡<br><br>両プレイヤーのターンが終了すると､買い物フェーズに移行します｡買い物フェーズではランダムに表示される3枚のカードの中から0~3枚のカードを手札に加える事ができます｡この仕様が､先ほど紹介した腐り値と相乗効果を発揮しこのゲームをより一層おもしろいものにします｡買い物フェーズでたくさん買いすぎると満腹値の上限に達してしまい食べきることができず､余ったカードが腐ったカードに変化しゲームが不利になってしまいます｡<br><br>ゲーム開始時から画面右下に3つ表示されています｡両プレイヤーとも同じミッションが表示されており､達成度の進捗も両プレイヤーで共通です｡ミッションをクリアするとギフトの使用に必要な貢献度が手に入ります｡<br><br>ギフトとは､ゲームの選択肢を広げ駆け引きにエッセンスを加える役割があります｡ギフトを使うために必要な貢献度は基本的にミッションをクリアすることで手に入ります｡つまりミッションをクリアした方がゲームを有利に進められる仕組みになっています｡<br><br>このようにゲームのシステムにフードロスを落とし込んで､ゲームで勝利するにはフードロスを減らす行動をプレイヤーが自主的に選択する様々な工夫を凝らしました｡<a data-tooltip-position="top" aria-label="https://sdgs-awards.umedai.jp/winner.html" rel="noopener" class="external-link" href="https://sdgs-awards.umedai.jp/winner.html" target="_blank">SDGs探究AWARDS2023</a>に応募して､このゲームは審査員特別賞を頂きました｡<br><br><br>このゲームはVue + firebase(firestore)で実装しました｡NoSQLの記述方法に魅力を感じ採用しました｡Vueは当時よく使っていたjavascriptフレームワークだったので慣れているのが一番だと考え採用しました｡技術面で特筆すべき点を紹介していきます｡<br><br>このサイトに入場すると､usersコレクションにuuidを一つ与え､一端末としてFirestore上で認識する｡エントリーボタンが押されると､そのドキュメントのフィールドのmatchをwaitngに変更｡そして､他のusersコレクションを全数検索してmatchフィールドがwaitngになっているかをonSnapShotを使用して実行｡検索して､複数件ヒットした場合は､ランダムに抽選が行われる機構もあります｡これにより､次にエントリーボタンを押したプレイヤーとマッチングさせることに成功しました｡成功するとgamesコレクションにuuidを一つ与え､ルームを作成し､両プレイヤーで共通のフィールドを管理しました｡<br><br>開発序盤ではfirestoreを使用せず動作のテストを行っていました｡そのため特殊効果を持たせたカードやミッションなど､オブジェクト内に関数を含む配列からランダムに選択する場合にディープコピーを行う必要があり以下のように関数ごとコピーしていましたが､<br>import _cloneDeep from "lodash/cloneDeep";
+
+_.cloneDeep(obj);
+Copy<br>から<br>structureClone(obj);
+Copy<br>に変更しました｡firestoreでは関数を含めて保存することができないからです｡それならばモジュールサイズの大きいlodashを辞めてjsの基本構文であるstructureCloneで事足りると感じたからです｡<br>こうしてカードオブジェクト内に関数を含めずにfirestoreで実装することにしましたが､特殊効果の実装方法が煩雑になってしまったのは確かです｡ダメージ計算関数内でカードのidをチェックして､一致していれば実行する｡のような記述を特殊効果の分だけ書きました｡firestoreに保存できない以上こうするしか私にはできませんでした｡<br>もう一つの方法として､ミッションの保存方法はfirestoreにミッションのidだけを保存することで共通のミッションを擬似的に同期させ､lodashの<br>
+cloneDeepに頼る方法です｡<br>どちらの方法が良かったのか私には判断できません｡それかもっと他に良い方法があるかも知れませんが､私の知識では思いつくことができませんでした｡<br>ですが､この開発を通してオブジェクトや配列の操作への理解が深まりました｡<br><br>利用したことのあるパブリッククラウドは､firebase,supabase,cloudflare,vercelなどがあります｡<br>(1)で書いた､fookeysではfirebaseを使い､ホスティングにはVercelを使用しました｡<br><a data-tooltip-position="top" aria-label="https://github.com/nasubi916/nuxtContentsTest" rel="noopener" class="external-link" href="https://github.com/nasubi916/nuxtContentsTest" target="_blank">Virtual Bookshelf</a>ではsupabaseをSQLのデータ構造とユーザーIDと本のISBNを登録して､DBaaSとして使用したり､GoogleとGitHubのOAuthをGUIのみで実装しました｡簡単に今まで面倒だった認証をGoogleやGitHubに投げることで開発の負担を減らし､実装したい部分に集中することができました｡<br><a data-tooltip-position="top" aria-label="https://github.com/nasubi916/portfolio" rel="noopener" class="external-link" href="https://github.com/nasubi916/portfolio" target="_blank">portfolio</a>ではCloudflareでドメインを取ってCloudflare Pagesでデプロイをしています｡<br><a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian</a>という私が使っているMarkdown記法で書ける自分のためだけに作成するナレッジベースアプリです｡Obsidianの理念上､ローカルにデータを保存してクラウドに共有することはないのですが､複数の端末でデータを共有するためにCloudflare R2を使用しています｡<br>次に制作しようとしているブログサイトではCloudflare D1と<a data-tooltip-position="top" aria-label="https://markdowndb.com/blog/basic-tutorial" rel="noopener" class="external-link" href="https://markdowndb.com/blog/basic-tutorial" target="_blank">MarkdownDB</a>を使用する計画を立てています｡<br><br>my-monthly-mixというアプリをハッカソンで友人と2人チームで制作しました｡友人がsupabaseなどAPI周り､私がフロントエンドでReactを初めて触った開発でした｡役割分担がはっきりさせることでお互いに相手の成果との依存関係がなく､自分のペースで進めながらもお互いにチームとして助け合うことができたハッカソンだったと振り返って思います｡<br>これからの話になるのですが､今後の私の予定はは共同開発が多くなっていきます｡決まっているものだけでも､6月の技育キャンプハッカソンvol.7に5人チームで出場予定です｡他にもサークルの名簿システムの再開発にも協力する予定や長期インターンとして実務の開発に携わります｡<br><br>私はコンテナ及びDockerを使ったことがありませんでした｡BaaSが優秀すぎてWebアプリを制作するときに必要なものがすべて存在しているので､わざわざ自作する価値を感じていない｡私には縁のないものだと思っていました｡ですがこの課題を期に体験してみようと思い､Dockerを触ったことのある友人にどんなときにDockerを使うか質問してみました｡ディレクトリ上にLaTeXをinstallした後に､Docker上でLaTeXをinstallしてみて､との回答が返ってきました｡<br>LaTeXのインストールは結構クセがあって面倒でした｡しかもアンインストール方法も煩雑過ぎて本当にできているのか心配になるくらいでした｡<br>DockerでLaTeXをインストールする方法は<a data-tooltip-position="top" aria-label="https://github.com/korosuke613/texlive-ja-devcontainer-template" rel="noopener" class="external-link" href="https://github.com/korosuke613/texlive-ja-devcontainer-template" target="_blank">korosuke613/texlive-ja-devcontainer-template</a>をクローンしてDocker Desktopからコンテナを開いてみました｡多少の待ち時間があるものの準備が完了してしまえば､すぐに書き始めることが可能で､必要なくなればコンテナごと削除してしまえばよく､Dockerの素晴らしさを初めて知れました｡<br>こういった依存関係の面倒くさいライブラリ､PythonのライブラリとかもDockerとの相性が良いのではないかと推測した｡ウェブフロントで使用するNode.jsの素晴らしさの再確認とともに､私自身の視野の狭さを実感しました｡<br><br>正直私はCI/CDに疎くあまり詳しくないのですが､CI/CDで最初に思い浮かんだのはVercelやCloudflare Pagesのホスティングでした｡あれはGitHubにPullするとGitHub Actionsが起動される仕組みになっているというのは理解しています｡↓こんな感じの想像をしています｡<br>on:[push]
+jobs:
+	build:
+		...
+Copy<br>他にCI/CDをした経験としては､ブログサイトでObsidianを擬似的にCMS代わりにしようと考えていました｡そのとき､obsidianではWikiリンクなど内部リンクで指定することが多く､画像のリンクを相対リンクに変換する必要があるので<a data-tooltip-position="top" aria-label="https://github.com/zoni/obsidian-export" rel="noopener" class="external-link" href="https://github.com/zoni/obsidian-export" target="_blank">obsidian-export</a>をGitHub Actions上でdownloadしてリンクを変換するために使用しました｡<br><br>Web に関連するサービス・プロダクトを作って提供することに関連する技術で、いまあなたが興味を持っているものがあれば、それについて自由に説明してください。少しでも Web との関連性がある技術であれば、それがハードウェア領域に近いものでも、ソフトウェア領域に近いものでも構いません｡<br>私が今興味を持っているものはSSG及びWakuというフレームワークです｡WakuというのはReact状態管理ライブラリであるjotaiの制作者が制作している日本製のReactフレームワークです｡SSGを行うためにNextを使うのは少々ハイスペックすぎる気がするのです｡まずNextの良いところはSSGができる他に､Vercelとの連携やImageの最適化があると思います｡ですがHMRの利点はNextが重すぎて薄れるのが問題だと私個人としては考えています｡そこでWakuを使用すると軽量さとSSGを両立することができるのです｡他にもSSRにも対応しているのでレンダリングのみを求めているのであれば今後Wakuで事足りる場合が多くなると考えています｡Wakuは現在Beta版ですがそれを上回るほどに私は魅力を感じています｡<br><br>あるプロダクトの開発には、開発チーム、インフラチーム、セキュリティチームが関与しており、それぞれのチームが協働しています。あなたはそのうちのどれかのチームのリーダーに任命されました。各チームは技術基盤の設計と実装を分担していますが、そのチームにおいてセキュリティに詳しいのはあなただけです。<br>いずれかのチームにおいて、実施すべきセキュリティの施策を好きなだけ列挙し、チームメンバーと分担して進める方法について考えて説明してください｡<br>
+解答の際には、一からすべて自分で考えるのではなく、<br>
+<br>OWASP SAMM
+<br>NIST SSDF
+<br>PSIRT Services Framework<br>
+また、具体的に何かを構築してみた場合は、ぜひそれも本設問の解答として含めてください。
+<br>自由に仮定<br>
+<br>チームメンバのスキルセットや規模
+<br>スケジュールの設定
+<br>開発環境(オンライン
+<br><br>開発チームにて実施すべきセキュリティの施策として行わなければいけないことはいくつかあります｡最重要項目として､文書の作成と後継者の育成があります｡文書の作成で半恒久的に変わらないテキスト情報を残し､後継者の育成はセキュリティの管理の保護を持続して動的な対応ができる人間が不可欠です｡この二つを用意することが大切だと思います｡<br><br>フロントエンドとバックエンドをオンプレで実装するプロジェクトがあるとします｡PM､フロントエンドエンジニア､バックエンドエンジニアに分類できます｡実施すべきセキュリティの施策は権限の管理があり以下のように設定しました｡<br><br>サーバー室の入退室は､カードキーや生体認証を用いて電子的に情報を記録します｡アクセス検知を行うことでログを辿れるようにします｡そして共連れ侵入やすれ違い侵入を防ぐためにもカメラや人感センサの設置をすることで1人だけの入室を徹底させます｡このようにして不正を防ぐ仕組みも重要です｡<br><br> 上と同じ状況だとします｡インフラチームの実施すべきセキュリティの施策は以下のようになります｡インフラチームはプロキシサーバーを制作しようとしていましたが､PW.4に従いCloudflare TunnelというBaaSでプロキシサーバーを擬似的に実装することにしました｡プロキシサーバーで実現したいことはコンテンツの配信だけでなくオンプレサーバーとのhttp通信による匿名化や外部からのハッキングに対しての対策などがあります｡<br><br><br><br>「Top 10 web hacking techniques of 2023」(<a rel="noopener" class="external-link" href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2023" target="_blank">https://portswigger.net/research/top-10-web-hacking-techniques-of-2023</a>) は、Web に関するセキュリティリサーチャーの投票により作成された、2021 年に報告された興味深い Web に関する攻撃テクニック 10 選です。この Top 10 中の事例の中で、興味を持てたもの 1 つに関して、以下を説明してください。<br>
+(1) 事例の概要<br>
+(2) 攻撃手法の詳細<br>
+(3) その他その事例に関して感じたこと・気がついたこと<br>
+なお、本設問では、関連する仕様や攻撃の適用可能な条件についての詳細な理解が垣間見えるような記述や、理解を深めるために行ったこと（例: ローカルで行った再現実験等）に関する記述を歓迎します。<br><br><br>Webのアプリケーションでは同時実行が起きることを考慮していないらしいです｡私は調べてもそれを突き止められませんでした｡競合状態を突いた脆弱性です｡実例としては､ギフトカードを複数回引き換える､単一の割引コードを繰り返し適用する､製品を複数回評価する､口座残高を超える現金の引出しまたは送金などがあります｡<br><br>原理は比較的簡単でセキュリティチェックと保護されたアクションの間の時間差を悪用しています｡二つのタブを開いている状況で一度だけ手に入るクーポンコードなどをセキュリティチェックの時間差を利用して2つ手に入れることができる脆弱性です｡先に送るリクエストを実行までに時間が掛かるものを送り処理が終了するときにデータベースに変更を更新するタイプであれば､次に送るリクエストは前のものより早く処理が終わるようにすることで二つののクーポンコードを取得できるという仕組みです｡<br><br>この脆弱性があることを今回のセキュリティキャンプの課題を通して初めて知りました｡手法としてはだいぶ古典的でやっていることは処理の並行処理で､javascriptの弱い部分と同じであると気が付いた｡<br><br>以下は Client-Side Storage Partitioning という仕組みに関する文書です:<br><a rel="noopener" class="external-link" href="https://privacycg.github.io/storage-partitioning/" target="_blank">https://privacycg.github.io/storage-partitioning/</a><br>同文書を読み、これに派生・関連した仕組みや動向を調査してください。その上で、可能な限りの実験を行いながら、以下の 5 点について簡潔にまとめてください。<br>(1) 概要<br>
+※ 例: これは〜という課題意識のもと、〜という変更を〜に行うものである。これにより、〜が〜のような形で解決される。<br>(2) 背景課題について掘り下げて調査した結果<br>
+※ 例: 先述の課題〜とは、より詳細には〜ということである。この課題意識は Web のユーザ視点では〜につながるものであり、Web プラットフォーム自体の開発に関わる人の視点では〜という課題意識があったようだ。なぜこのような課題意識が解決されてこなかったかと言えば、〜によると、〜というのが一因なのかもしれない。<br>(3) それから派生した仕様・仕組みに関する実験<br>
+※ 実際にどう課題が解消されているか、逆に何が解決できていないのか納得できるまで手を動かしているような解答を歓迎します。時間的制約はあると思いますから、可能な限りで構いません。<br>
+※ 例: ブラウザの試験的機能や関連するサーバサイド実装などの試験を行った。<br>
+※ 例: PoC を書いて実際にブラウザでロードしてみた結果、〜という挙動だった<br>
+※ 例: 仕様にはこう書いてあるが、挙動がそれと異なる。実際 Chromium の実装を確認すると、〜となっていた。<br>
+※ 例: 関連する Issue が <a rel="noopener" class="external-link" href="https://github.com/whatwg/html" target="_blank">https://github.com/whatwg/html</a> に挙げられていた。ここでは〜という議論が行われていた。<br>(4) その他気がついたこと・思ったこと ・疑問・感想<br>
+※ 例: この仕様は一見不合理に見えたが、調査中に見つけた〜という仕様との兼ね合いを考えると、〜という理由から合理的であるように感じた。<br>
+※ 例: 一方調査の過程で、〜という仕様との整合性が取れているのかは気になった。実際の実装を用いて確認してみると、この点に関しては、実装間で処理結果が異なる。<br>(5) 疑問や感想を元に、さらに応募用紙提出後から掘り下げていくために取りたい行動<br>
+※ あればで構いません。掘り下げきったと思う場合は、継続的に関連トピックの進展を追いかける方法のイメージをぜひ教えて下さい。<br><br>近年、パブリッククラウドに構築されたストレージやデータベースに対するランサムウェア攻撃による被害が後を絶ちません。 攻撃者、プロダクト開発者の目線から、以下の問に答えてください。<br>(1) ランサムウェアの攻撃主体について社会的動向を調査し、特にプロダクトセキュリティの領域において、MITRE ATT&amp;CK などを参考にして偵察から侵入、データ窃取、暗号化などに至る可能性のある脅威について技術的背景に基づいて攻撃の仮説を立ててみてください。（脅威モデリングといいます）<br>(2) プロダクトをランサムウェアの被害から守るために考えられる技術的保護策について、予防的統制、発見的統制といったキーワードを参考に自由に調べ、自由に思うことを教えて下さい。<br>(3) あなたの組織が開発するプロダクトがランサムウェアの被害に遭ったとして、NIST サイバーセキュリティフレームワーク 2.0 を参考に、検知、対応、復旧フェーズについて調べて簡潔に教えてください。そして、特に興味を持ったサブカテゴリを１つ以上ピックアップし、プロダクト開発の改善活動にどのように適用できるかを述べてください。想定するプロダクトは自身が開発したものでも、架空のものでも構いません。<br><a data-tooltip-position="top" aria-label="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/m42obm0000002mzw-att/classB.txt" rel="noopener" class="external-link" href="https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/m42obm0000002mzw-att/classB.txt" target="_blank">専門コースBの問題リンク</a><br><a data-tooltip-position="top" aria-label="https://security-camp.form.kintoneapp.com/public/camp2024-b" rel="noopener" class="external-link" href="https://security-camp.form.kintoneapp.com/public/camp2024-b" target="_blank">専門コースBの回答提出リンク</a><br><img alt="Test20240415125944703.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240415125944703.jpg"><br> <img alt="Test20240415000626312.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240415000626312.jpg">]]></description><link>https://obsidian.nasubi.dev/logs/セキュリティキャンプ.html</link><guid isPermaLink="false">logs/セキュリティキャンプ.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Mon, 27 May 2024 01:27:57 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240415125944703.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240415125944703.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[バイトメモ]]></title><description><![CDATA[ 
+ <br><img alt="Test20240422094408297.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240422094408297.jpg"><br>
+<img alt="Test20240422094408046.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240422094408046.jpg"><br>
+<img alt="Test20240422094408126.jpg" src="https://obsidian.nasubi.dev/lib/media/test20240422094408126.jpg"><br><br><br><br><br>初めてか聞く<br>初めてなら<br>
+利用法を話して入場するか聞く<br>入るなら<br>
+時間の確認<br>
+有料エリア説明<br>
+どこまでななか<br>
+サービスの説明<br>
+入場料の説明<br>モーニングなら<br>
+トーストの引き換え券を渡す<br>注意事項<br>
+買ったものだけの持ち込み<br>
+出るなら会計<br>
+店の書籍は販売用なので汚さない勧告<br>入場料系<br>フリップボードと、モーニングならそれも渡す<br>入場時刻の書かれた髪をきかいで発行してクリップに渡す<br>
+手で示して見せる<br>
+入場カードも渡して、管理<br>
+最後にバーコードを読み込んでタグを渡す<br>
+ずっと付けといてという<br>WiFi月の説明<br>
+後払いの説明<br>
+本の持ち込みok<br>
+飲み物がある時、はベンチのご案内をして飲み終えてから入ってもらう<br>間違えて有料エリアに入っていくお客様を見かけたら声をかける<br><br><br>バーコードを読んで対応するものを選択<br>
+何分かによって私選択する<br>
+レジが混雑していれば大目に見る<br>
+割引は選択した後、割引を設定して値引き<br>ぎふとちけっとは終日<br>
+ありがとうございます<br>
+精算無しで説明する<br>ギフトチケットは最初に貰ってレシートを出す<br>
+レシートを挟み込んだは返す<br>
+再入場出来ることを説明<br>回数券を持っていればそれも設定する<br>
+回数券は切り捨てになるのでそこだけ現金OK<br>
+使い終わった場合は追加購入を聞く<br>入っている人は本日一覧で見れる<br>本は割引無理<br>回数券<br>
+会計の時にセットを買うか聞く<br>
+終日と90分の2つある<br>
+裏に日付のスタンプ<br>ブックカバーむりょう<br>
+本を買われた方にはブックカバーも聞く<br>
+客数もこちらで入力する<br>
+レジ袋 紙なら50円<br>支払い方法<br>
+クレジットの場合は別の機械を使って合計からクレジット､QRコード､ID､交通系を選択する<br>
+出てくるレシートの内お客様のやつはスマレジのレシートと一緒に渡す｡<br>重要 : 店控えとクレジット会社控えに自分の名前を書く｡(めんどい)<br>貰ってない詐欺がヤバい<br>お金はお客様と確認する<br>領収書<br>
+レシートから領収書をおす<br>
+5万超えるときは収入印紙も渡す<br>
+領収書を渡す時はレシートを渡さない<br>
+取引履歴から検索できる<br>上の丸からタブを開いて並行処理できる<br>
+分割払いは2つ以上買うと出てくる<br>社割よりオープン記念の方が安いから紹介する<br>返品処理で0を押す<br>返品は店員を呼ぶ<br>お客様<br><br><br><br><br>Nox7をつかって検索<br>
+出版情報検索<br>
+サポートCガイドの数で在庫確認<br>
+商品ロケーションから場所が分かる<br>
+テレビ紹介のページからみれたりもする<br>
+お客さんのときは赤いところから注文<br>
+Web在庫状況の3冊と書かれているものは注文出来る<br>3枚セット<br>
+そこに保存<br>
+未入荷におく 到着した本に巻き付ける<br>
+お客様にわたす<br>通常は後払い<br>岩波以外の普通の出版社は返品可能<br>お客様に名前は書いてもらう<br>1万以上のときは先払い<br><br><br>下の注文メモに受付番号を入れて、スペース区切りしてカタカナでお客様の名前<br>
+店着日をメモ<br>
+電話か、インターネットか発注日の上にある<br>
+在庫あるのに赤には書いてないときは出版社に、こちらの店名と、客注ということを伝える<br>
+無いと言われたらばんせんお願いしますと言う<br>
+B56-62 こーど55-1002<br>
+搬入日を書く<br>
+番号と名前のメモをお願いする<br><br><br><br><br>朝主電源と電源を付ける<br>
+15分かかるから<br>
+引いた豆はフィルターの上に注いでならす<br>
+作り終わったら、フィルターを摂る<br>
+汚れていたら洗いに出す<br>
+ミルは閉じてるか確認<br>
+ミルを動かす時は必ず受け皿があるかチェック<br>Lowerのライト消す<br>
+蓋して出す保温もしっかり<br>ハーブティーはキッチン内の真ん中の蛇口から常温の水を入れる<br>
+そしたら冷蔵にぶち込む<br>
+いつ何を入れたか書いたテープを貼る<br>アイスティーは沸かしたお湯に測った茶葉をパックに入れてやかんに投入<br>普通<br>
+100g<br>
+ミル 4.5<br>
+ボタン1<br>デカフェ 文喫ブレンド<br>アイスは作ってからアイスで冷やす<br><br><br>ルイボスはカフェインなし<br>保温はしっかり押す<br><br><br>レシートは必ず0円でも使う（トースト<br>
+ジャムの種類を聞いてそこに書く<br>待たせるものは番号をかいて渡す<br>呼び出しの時はこちら側で呼ぶ<br>ナポリタン<br>麺茹でる3分<br>ソースは1杯分フライパンに入れる<br>
+5くらいのih<br>チーズとホワイトソースとピーマンを用意<br>お盆と下敷きを準備<br>茹で上がったらソースと絡める<br>
+トングをつかう<br>できたらホワイトソースを3本線くらいいれる<br>
+チーズパラパラ、ピーマン3<br>オーブンに入れて3分数える<br><br><br><br><br>クレジット用の機械だけを使う<br>
+クリップボードにまとめていたレシートの数と中間計で出てきたレシートの数と値段が合っているか確認｡<br>
+今日のレシートを項目ごとにクリップでまとめておく<br>中間計で出てきたレシートは大切にしまう<br><br>日計は1番最後<br>
+日計を押す前に中間計を行い､正しければスマレジの方で精算を確認<br>
+現金が使えるレジの場合はコインの枚数を数えます｡<br>
+すべての金額が一致したらOK<br>
+そして50枚あればまとめて金庫にいれる｡<br>
+最後にセロハンで日計で出てくるレシートとクリップでまとめたレシート群を貼っ付ける<br><br>つける時の逆で消す<br>
+ミル用のブラシできれい<br>
+計量カップとかは全て手洗い<br>パスタの機会<br>
+水を注いで覚ます<br>
+その間に茹でるあれを洗う<br>
+冷めたら水を抜く<br>
+パーツを4つ洗う<br>
+終わったら戻す<br>レトルトを温めるやつはお湯を抜くだけ<br>カレーとか温めるやつ<br>床掃除<br>
+ほうき<br>
+水<br>
+洗剤で汚れとる<br>
+水で流す<br>
+酢ワイパーで水をはく<br>オーブン<br>
+トレーは先に洗ってタッチパネルを操作して戦場<br>
+あれば洗剤も]]></description><link>https://obsidian.nasubi.dev/logs/バイトメモ.html</link><guid isPermaLink="false">logs/バイトメモ.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 09 Jun 2024 13:23:29 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/lib/media/test20240422094408297.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/lib/media/test20240422094408297.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ハッカソン10秒 えさちぶめんと]]></title><description><![CDATA[ 
+ <br>1年.exeというチーム名で参加しております｡<br>サークルメンバー5人で参加します]]></description><link>https://obsidian.nasubi.dev/logs/ハッカソン10秒-えさちぶめんと.html</link><guid isPermaLink="false">logs/ハッカソン10秒 えさちぶめんと.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sat, 22 Jun 2024 02:43:30 GMT</pubDate></item><item><title><![CDATA[りょーまへの返信]]></title><description><![CDATA[ 
+ <br><br>りょーま､良く考えたんだけどTGSもテストのまとめもしてるよね?  
+ハッカソンに割く時間ないよね?今大智に変わって貰う案があるんだけどだめかな?
+
+マジでごめん
+今も熱あるけど薬でなんとかって感じ
+すごい迷惑かけてるよねガチごめん
+多分今の精神状態だと足引っ張るだけだし、いろいろ詰め込みすぎると財布擦られた時みたいに爆発しちゃうと思うから辞退でいいよ…
+
+先に謝っとく。ずっと我慢してたことあったけど今回の件でかなりショック受けたから我慢できなくなったから言わせてもらうね。  
+感情で発言してるから過激かも  
+自分の自己満で親知らず抜いて体調悪くなったのは100歩譲って何言われようがいいけど、  
+自分が財布の件でめっちゃ落ち込んでたり情報提供頼んでるのに何も言葉掛けずに無視してタコパ楽しんでさ、、、  
+かんたもだけどSlackとかストーリーで楽しい自慢するなら少しは心配したらどうなん？  
+友達がこんなに苦しんでたら俺だったら絶対に最低限くらい心配するもんやと思うけどね  
+直近だと梶先生のメールの件だってお前が油の火を注いだわけだし  
+
+挙げ句の果てに鬱みたいになって頑張って開き直ろうとしたけど免疫ダダ落ちで体調崩して今死に掛けてるのに「祝え！」って表現は少しおかしいんじゃない？  
+普通に言葉の選択おかしいよ？ 
+俺が朝伝えたことも反応スタンプだけで終わらせるとか人の心ないん？って思う 
+
+自分だってリアクトの勉強めっちゃ頑張るつもりでいたのに度重なる体調不良と授業の取り返しで時間を割いてたから自主勉できなかったし、これからだって時に財布も擦られてさ…  
+めっちゃ参加したかったからこそやる気もあったのに不幸続きでみんなの足引っ張ってるって実感しててめっちゃ悔しくて夢で何回も侵された時だってあった  
+たまにりょうせいから嫌がらせ発言されるし、こんだけ冷遇されるのは流石におかしいと思うから俺のこと嫌いだったら嫌いってはっきり言って貰えれば全然いいよ。これから仲良くする人選ぶから。  
+こんな情のない奴ははっきり言って俺は友達と呼びたくないけどね  
+もしこれがお前の性格の問題だとしたら流石にキツすぎるから早く直す努力した方がいいよ。  
+俺は自分のアホらしい性格も嫌いだけどお前の情のないドス黒い性格に不満だらけだね  
+言い過ぎかもしれないけど俺もその分傷付いてるし、りょうせいのためを思っての発言だから少しでも心に響いてくれることを望むわ
+Copy<br><a data-tooltip-position="top" aria-label="https://aitsysken.slack.com/archives/D070C50DTTJ/p1716970969374419" rel="noopener" class="external-link" href="https://aitsysken.slack.com/archives/D070C50DTTJ/p1716970969374419" target="_blank">source</a><br><br>まずはじめに私が悪かった点がいくつもあった｡本当にすいません｡<br>挙げ句の果てに鬱みたいになって頑張って開き直ろうとしたけど免疫ダダ落ちで体調崩して今死に掛けてるのに「祝え！」って表現は少しおかしいんじゃない？  
+普通に言葉の選択おかしいよ？  
+Copy<br><a data-tooltip-position="top" aria-label="https://aitsysken.slack.com/archives/C072XNNPYN8/p1716968700199679" rel="noopener" class="external-link" href="https://aitsysken.slack.com/archives/C072XNNPYN8/p1716968700199679" target="_blank">Slack</a><br>
+これのことだと思うんだけど私の発言の意図としては､経緯はともかく新しいメンバーの参加を祝うつもりの発言｡それだけで決してりょーまの退会を祝うつもりは一切なかった｡それだけは分かってほしい｡私は言葉が足りない発言が多いけど､今回を期により一層気をつけて発言するよう改善する｡<br>俺が朝伝えたことも反応スタンプだけで終わらせるとか人の心ないん？って思う 
+Copy<br>このことに関しては､価値観の違いだと思う｡Slackにはスタンプって機能があるんだから使っただけで決して適当にやってる意図はない｡それと私の｢だめかな?｣に対してのりょーまの返信が｢辞退でいいよ､､､｣で終わる独り言ライクで返信しづらかったってのもある｡<br>自分が財布の件でめっちゃ落ち込んでたり情報提供頼んでるのに何も言葉掛けずに無視してタコパ楽しんでさ、、、  
+かんたもだけどSlackとかストーリーで楽しい自慢するなら少しは心配したらどうなん？  
+Copy<br>りょーまには公私分別という概念がないと個人的に感じる｡<br>財布掏られたのは私事だって捉えてる?ショックだったってのはわかるけど､私だって人間でこう頻出すると心配はしてたけど正直その気持ちが薄れる｡私にできることはなにもないし､もう取り返しがつかない｡ちょっと冷酷なことを言うけど､財布掏られたからReactの勉強(つまり公事)に支障がでる訳ではない｡それで今回みたいに私に文句言われても困る｡でも流石に風邪とかは配慮するつもりだったよ｡<br>そしてタコパを計画したのはりょーまが財布掏られた前で関係ない｡金曜日も放課後すぐに隼澄の家に行ったから心配する暇がなかった｡<br>情報提供ってなに?考えたけど思い当たらなかったから教えてほしい｡<br>Slackで楽しい自慢はした覚えがない｡どれのことを言ってるのか教えてほしい｡<br>第一に､ストーリーは楽しい自慢で上げてない｡りょーまはストーリーを楽しい自慢で上げてるかもしれないけど､少なくとも私の使い方とは違う｡<br>それに心配したらどうなん?って言い方は絶対に良くない｡心配はしてもらうもので､しろって言うものじゃない｡<br>友達がこんなに苦しんでたら俺だったら絶対に最低限くらい心配するもんやと思うけどね  
+Copy<br>こんな苦しんでるって言ってるけど私からは全然苦しそうに見えなかった｡<br>
+<a data-tooltip-position="top" aria-label="https://aitsysken.slack.com/archives/C0732K50S5P/p1716759538953229" rel="noopener" class="external-link" href="https://aitsysken.slack.com/archives/C0732K50S5P/p1716759538953229" target="_blank">Slack</a><br>
+私も何日もSNSを更新してなかったりしたら心配して連絡する｡けどりょーまの場合はSlackでわざわざ冗談を織り交ぜた文章を投稿してる｡これを見て私はふざけて風邪の報告してるし､元気そうに見えた｡それに男同士でSNSで心配の連絡を普通しないだろって私は思う｡<br>直近だと梶先生のメールの件だってお前が油の火を注いだわけだし  
+Copy<br>これは絶対に私が悪いわけない｡油の火なんて言葉はまず存在しないし､火に油だったらりょーまのDMがすでに燃えている状態を指すから間違ってる｡言うなら火を付けただと思う｡私が言ったことに対して先輩たちも<br>
+｢確かに｣って反応してたら私のせいになるかも知れないけど､先輩たちは別の点を指摘してたからこの理論は通用しない｡これは全員に言うべきことで､私にだけ言うのは違う気がする｡私に関係ないことで当たらないでほしい｡<br>自分だってリアクトの勉強めっちゃ頑張るつもりでいたのに度重なる体調不良と授業の取り返しで時間を割いてたから自主勉できなかったし、これからだって時に財布も擦られてさ…  
+めっちゃ参加したかったからこそやる気もあったのに不幸続きでみんなの足引っ張ってるって実感しててめっちゃ悔しくて夢で何回も侵された時だってあった  
+Copy<br>りょーまはもう一つのプログラムを学ぶってことはとっても時間がかかることだって分かってるよね｡それなのにTGSとかに出場するとか更に時間が取れなそうなことを始めようとしていて､こちらとしてはやる気がめっちゃあって頑張るつもりだったってことが一切伝わってこなかった｡電話で確認を取ってたくれたときも大学生なんだから自己管理すべきだしハッカソンに割く時間を作れるなら参加してもいいと思ってた｡私がりょーまをTGSに参加させない権利は持っていないと思っていいよって言った｡でもりょーまはやる気だけしかなくって､時間的余裕を考慮していないようにしかみえない｡風邪を引いていなかったとしても無理に思える｡<br>そしてここでもなんだけど､財布掏られたことは関係ないよね｡<br>夢で侵されるじゃなくて､うなされるやね｡<br>たまにりょうせいから嫌がらせ発言されるし、こんだけ冷遇されるのは流石におかしいと思うから俺のこと嫌いだったら嫌いってはっきり言って貰えれば全然いいよ。これから仲良くする人選ぶから。  
+こんな情のない奴ははっきり言って俺は友達と呼びたくないけどね  
+もしこれがお前の性格の問題だとしたら流石にキツすぎるから早く直す努力した方がいいよ。  
+俺は自分のアホらしい性格も嫌いだけどお前の情のないドス黒い性格に不満だらけだね  
+Copy<br>私がしてるのは指摘が大半で嫌がらせ発言をしたことはないと記憶してる｡<br>
+嫌がらせ発言とか具体的にどれのことを言ってるのかわかんない｡<br>冷遇は絶対にしてない｡今回の発言で怒らせてしまったけど､あれは私の言葉足らずに起因する情報伝達の齟齬が原因で冷遇は誓ってしようとしてない｡<br>嫌いって割と面と向かっていってるよねいつも｡合わなすぎるって話の流れでさ｡<br>そしてりょーまの良くないポイントは性格じゃなくて公私混同する態度とか､自分の価値観でものを語る態度とか､かまってほしい心配してほしいアピールとか､お前のためとか建前を作って自分が気持ちよくなるためにお気持ち表明長文DMを私に送りつけるところだよ｡<br>言い過ぎかもしれないけど俺もその分傷付いてるし、りょうせいのためを思っての発言だから少しでも心に響いてくれることを望むわ
+Copy<br>これ普通に不快だから辞めてくれ｡お前のためって良い方は薄っぺらいし､私的には自分が気持ちよくなるための免罪符で自己欺瞞だろ｡建前があれば人は何でも言える典型例｡実際この長文DMを送った後気持ちよくなったでしょ｡そして最後の｢心に響いてくれることを望むわ｣の上から目線が気持ちよくなってる証拠｡反論できるならしてくれ｡自慰行為に私を付き合わせないでくれ頼むから｡自分が傷ついているから相手を傷つけてもいいという思考回路が理解できない｡りょーまこそ嫌がらせ発言をしているよ｡人を指摘するならせめて自分はそれをしない努力をしようよ｡<br>あと､普通に考えて会って2ヶ月のお前が私の何を知って意見してるのかわかんない｡<br>文章全体から漂ってくる､かまって感､心配してほしいアピール､自己欺瞞臭がマジでキツい｡こんな文章ばっかり生成してるからいじられるんだよね｡<br>反論可能点<br>
+りょーまは別チャンネルの会話をスクショして送ってきたことがある<br>
+りょーまは公私混同しすぎで自分をわかってほしい気持ちが強すぎる<br>
+私へのDMで私のことを思ってという建前で文句を言いまくった<br>
+上から目線なのはりょーまも]]></description><link>https://obsidian.nasubi.dev/logs/りょーまへの返信.html</link><guid isPermaLink="false">logs/りょーまへの返信.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 02 Jun 2024 16:00:25 GMT</pubDate></item><item><title><![CDATA[研究室質問]]></title><description><![CDATA[ 
+ <br><br>
+<br>KK､KXの割合
+<br>どの言語を使っているか
+<br>必要な知識
+<br><br>
+<br>KK､KXの割合 8:2
+<br>どの言語を使っているか Java C++ Python R AWS GitLab
+<br>必要な知識 3年向けに勉強会を開くからOKらしい
+<br>研究室キャラバン第一回として伊藤暢浩研究室にお邪魔した｡分散人工知能の研究が主軸で説明を受けてマルチエージェントシステムの速度で世界中の学生と競い合うのは楽しそうだし､AWSでクラウドコンピューティングをやっているので研究室でしかできないことがやれそうとも考えた｡研究室も3部屋くらいあって魅力的｡単純にすごく面白そうだと感じた｡梶研だけじゃなくここでも院に進むことを推奨してるらしい｡初任給から3万の差があって院上がりの人も努力するから結局成長曲線は並行で生涯年収も差がハッキリ現れるという話を実際に聞くと考えが変わってしまいそう｡院に行きたくなってきた｡<br><br>
+<br>KK､KXの割合 1:1の予定
+<br>どの言語を使っているか Python C++?
+<br>必要な知識 自然言語処理
+<br>授業終わりに徳久研に行ってお話を聴いてきた｡今年新設された研究室なので採用人数が8名と少なく､引き継ぎ研究も一切ない｡そして自然言語処理という分野上データベースが非常に重要∧収集が大変｡そのため今年はデータ集めで終わりそうと聴いた｡そのためKXの子にいい感じのデータが集まりそうなデザインのサイトデザインを作ってもらいたいと考えているらしい｡正直今年は全然動けないからヤバいらしい｡先生がだいぶ優しいひとで私と感性が違う｡聞けていないが､この人は新人で就職も不利そう｡しらんけど｡AI系はあまり興味がないのでここは選択肢から外れそう｡<br><br>
+<br>KK､KXの割合 8:2
+<br>どの言語を使っているか Python C++
+<br>必要な知識 数学知識と発想
+<br>普通にクソ｡成績が一切ない｡教授の話が面白くない｡やってることは古いし､生徒がついていけてない｡部屋も今までと違ってものが少なくて人が生活している感じがない｡個々に来たくないのが伝わってくる｡]]></description><link>https://obsidian.nasubi.dev/logs/研究室質問.html</link><guid isPermaLink="false">logs/研究室質問.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 26 May 2024 05:28:41 GMT</pubDate></item><item><title><![CDATA[推し本]]></title><description><![CDATA[ 
+ <br>鈴木稜生の爆推し本です!🔖<br>
+<br>遮光/新潮文庫/9784101289533
+<br>ファイト・クラブ/ハヤカワ文庫NV/9784150413378
+<br>ハーモニー/ハヤカワ文庫/9784150311667
+<br>生命式/河出文庫/9784309418872
+<br>春琴抄/新潮文庫/9784101005041
+<br>金閣寺/新潮文庫/9784101050454
+<br>こころ/新潮文庫/9784101010137
+<br>自由なサメと人間たちの夢/集英社文庫/9784087458299
+<br>星の王子さま/文集文庫/9784167912888
+<br>真夜中乙女戦争/角川文庫/9784041119013
+<br>女帝エカテリーナ(上 下)/中公文庫/(上)9784122012592 (下)9784122012769
+<br>ロシア点描/PHP研究所/9784569851853
+<br>ビザンツ帝国の歴史/白水社/9784560510636
+<br>小説だけじゃなく歴史書も入れてみちゃいました｡13冊です｡]]></description><link>https://obsidian.nasubi.dev/logs/推し本.html</link><guid isPermaLink="false">logs/推し本.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 12 May 2024 15:20:46 GMT</pubDate></item><item><title><![CDATA[勉強会を開催するときの確認事項]]></title><description><![CDATA[ 
+ <br>
+<br>開催場所
+<br>日時､時間割の確認
+
+<br>KK,KX､EVごとに違う
+<br>先輩たちの時間割
+<br>TGSなど別企画の日程との被り
+
+
+<br>自分が部屋を取れる権限がない場合
+
+<br>先輩に連絡します
+
+
+<br>勉強会で使う資料制作
+<br>ハンズオンをするときは協力してくれる人員を確保
+]]></description><link>https://obsidian.nasubi.dev/logs/勉強会を開催するときの確認事項.html</link><guid isPermaLink="false">logs/勉強会を開催するときの確認事項.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Thu, 30 May 2024 10:38:34 GMT</pubDate></item><item><title><![CDATA[<a data-tooltip-position="top" aria-label="https://note.com/yomikaki_123/n/n67ca4b554140" rel="noopener" class="external-link" href="https://note.com/yomikaki_123/n/n67ca4b554140" target="_blank">「ぬいペニ」問題について｜しの。</a>]]></title><description><![CDATA[ 
+ <br><a data-href="ReadItLater" href="https://obsidian.nasubi.dev/ReadItLater" class="internal-link" target="_self" rel="noopener">ReadItLater</a> <a data-href="Article" href="https://obsidian.nasubi.dev/Article" class="internal-link" target="_self" rel="noopener">Article</a><br><br>いきなりだが、皆さんは「ぬいペニ」という言葉をご存知だろうか。<br>
+この「ぬいペニ」という言葉、実は「ぬいぐるみペニス」の略称で、非モテ男性がひたすら優しくした後に見せる下心がとても気持ち悪く見えてしまうということを分かりやすく表現したインターネットスラングである。<br>今回はこの「ぬいペニ」問題について、どうして後出しの下心が気持ち悪くなるのかについて僕の見解を書いていこうと思う。<br>
+あくまで、僕はこう考えているというだけ話なので話半分に読んで欲しい。<br><br>まぁ、誰も無いとは言わないだろう。<br>
+仮に極端に下心が少ない人でも、誰かと人間関係を構築するとなると一緒にいて何かメリットを感じなければやっていけない。<br>条件や相手によって人は様々な下心を抱くのだろうが、今回は代表的なものとして男性の性欲と女性の金銭欲を挙げさせて貰う。<br>
+（俺、私は別にそんな欲ありませんが？？？みたいな人も一般論として聞いて欲しい）<br>この下心、人間関係においてはわざわざ口に出さなくてもお目当てのものを手に入れられる場合もあるし、逆に積極的に発信しなければチャンスを得られないパターンもあって非常に取扱いが難しいものとなっている。<br>下心を隠し過ぎても胡散臭いし、下心があからさま過ぎると人としてどうかと思われる。そんな下心の取り扱いを間違ったのがまさしく「ぬいペニ」問題なのである。<br><br>この「ぬいペニ」問題、基本的には下心を出すタイミングが問題だと考えられる。<br>
+例えば非常に優しい「ぬいペニ」男性の場合、最初は慎重に、女性に対してとても丁寧な対応をする。<br>
+男として急に距離感を詰めることも無いし、優しくて「いい人」であろうと努める。<br>
+その結果、女性の中にはこのような順番で処理が為されると僕は仮定している。<br>
+序盤：好みじゃないけど丁寧で優しい人がきた。優しさかな？性欲かな？
+中盤：全然手を出してこないし、本当に優しい人なんだ。彼氏は無理でも友達としてはいいかも
+後半：性欲関係なく優しくしてくれるとても（都合の）いい人、いい友達
+<br>時間をかけてゆっくりと攻めた結果、女性の中ではこれに近い判断がなされているだろう。<br>
+後半まで差し掛かると女性側も大丈夫だろうと油断し、態度も慣れたものになる。ここで距離感が程よくなったと勘違いした「ぬいペニ」男性はこれはいけると踏んで告白をする事が多い。<br>そして告白、ほとんどの人は当然に大人の関係を意識するだろう。<br>
+女性からすると性欲関係なく優しくしてくれる友達だと思っていた人が、実はひた隠しにしていた「下心」で私と仲良くしていたんだと気付き裏切られたように感じる瞬間だ。<br>
+性欲がなさそうな優しい友人（彼氏にはしたくない人）が突如見せる性欲という大きすぎるギャップ。<br>
+これが「ぬいぐるみペニス」の実態だろう。<br>じゃあ逆の例はどうだろうか。女性版の「ぬいペニ」というならやはり金銭欲だろう。<br>
+男性はそこら辺をある程度割り切っているので女性ほど面食らったりはしないのだが、それでも楽しく話してた時に「年収どれくらい？」みたいなことをちょっと食い気味に聞かれると引く人も多いだろう。なんだよ良い子かと思ったら結局金かよ、と。<br>兎にも角にも「下心」には出すべきタイミングや出し方というのがあって、それは当人のスペックや相手の性格、その時の精神状態など様々な要因によって決まる。<br>
+上の例で言うなら、中盤でそれらしき「下心」の一端をチラッと見せられないと女性側としてもこれは恋愛なのか友人なのか分からないとなってしまうのも無理はない。<br>
+このタイミングを逃して更に仲良くなってしまうと、女性からは「友達」としてしか認識されなくなる。そこから恋人になれる人間はそもそも「ぬいペニ」とか言われたりしないタイプの人間で、それ以外の人は負け戦と知らずに告白に挑むこととなる。<br><br>正直、女性経験が少ない人にはかなり難しい話かもしれないが、一応なので下心の取り扱いについて書いていく。<br>
+僕はあくまで慣れとトライアンドエラーでこういうものを習得していくしかないと思っているので、非モテを救おうというよりはこういうやり方もあるよと提示しているだけだということは踏まえておいてほしい。<br>ということで本題に戻るが、まず下心はサラッと出すしかない。ここで出し方がねっとりしてるとイケメンでも引かれる。ましてやフツメンな僕などがねっとりとした下心を口に出してしまうと女性は一目散に逃げてしまうだろう。<br>
+だからこそ、この下心をサラッと出すという事を僕は特に意識している。会話の中でサラッと性の話を混ぜるというのが後々に攻めた会話をする際の心理的なハードルを下げる一つの要因になるからだ。<br>僕の会話例になるが、例えば<br>
+男「最近、恋愛とかどんな感じ？」<br>
+女「んー、あんまりかな。そっちは？」<br>
+男「少し前に別れたよ。いろいろあって」<br>
+女「何が理由？」<br>
+男「んー、まぁ夜がわがままだったり.......あとは相手が情緒不安定すぎたりとかね」
+<br>みたいな感じだ。<br>
+大体は「夜」という表現で察するので話はそのまま進むのだが、これで更に食いついてきたり「？」となっていたらもう少し噛み砕いて説明を加える。<br>
+「まぁ、気分ってあるじゃん。自分がしたいとか相手がしたいとか、俺がしたくても相手が嫌ならやめるんだけど相手がしたい時は断れなかったんだよね。断ると不機嫌になるから相手してたんだけど、そういうのに疲れたんだよね〜」
+<br>などである。<br>
+あえてセックスなど言わなくてもここまで言えば流石に察するだろう。この時に相手は「この人は性欲がある男なんだ」と一応の確認を得るわけである。<br>ここで出す話は別になんでもいい。<br>
+「ぬいペニ」についてはオイパラさんとのツイキャスコラボの際にも話したが、オイパラさんの場合は<br>
+「着物姿の女の人のおしりっていいよね.......いやまぁ引かれるかもしんないけど（笑）でも魅力的な人だと見ちゃうよね」
+<br>と会話例で出していたが、これも手馴れた人がサラッと言ってしまえばそこまで引く人は少ない。<br>
+むしろ「まぁ男ってそんなもんだよね〜笑」みたいな感じで受け入れてくれる。<br>
+このレベルだと高いコミュ力が必要となるので「そんなん非モテがやったらセクハラになるんだうわあああああ」みたいに絡んでくる奴は最初から想定していないから諦めてほしい。<br>
+一つの方法として提示しているだけである。<br>気をつけて欲しいのは、別に性的な話をしなくても、一人の女性として魅力的だと思っている旨を意識的に伝えていくだけでも変わるとは思う。<br>
+攻めすぎてセクハラで訴えられても責任は取れないので、そこら辺は慎重に距離感を探って欲しい。<br><br>下心をあえて見せておくことによって、人は不思議なことに「性欲」や「金銭欲」というものを後出しするよりもすんなり受け入れやすくなるというメリットがある。<br>
+A：性欲もあるしもちろんそういう意味で魅力的だなと思うけど、それとは別に一緒にいて楽しいし趣味も価値観も合うから好きなんだよね<br>
+B：一緒にいて楽しいし、趣味も価値観も合うから好きなんだよね
+<br>
+A：もちろん金銭的な理由もあるけど、それだけじゃ一緒に居られないよね。一緒にいて楽しいし趣味も価値観も合うから貴女の事が好きなの<br>
+B：一緒にいて楽しいし、趣味も価値観も合うから貴方のことが好きなの
+<br>綺麗な恋愛が好きな方々はBがお好みだろうが、人間はこの下心や計算を「さらけ出す」という行為にも一つの信頼を感じるのではないかと個人的に考えている。<br>後から性欲の一端を知ったり金目当てなのに気付いた場合は<br>
+趣味や価値観が合うから→性欲を満たす口実<br>
+趣味や価値観が合うから→金目当ての言い訳
+<br>のように感じられる場合もあるだろう。<br>
+そうならないために、前もって最低限の下心をさらけ出す事で<br>
+性欲はある・趣味や価値観も大事・楽しい<br>
+お金も大事・趣味や価値観も大事・楽しい
+<br>というような、その人を好きな理由の一つの要素としてカウントできるようになる。<br>
+こうすることで全ての理由がお金や性欲に直結するのではなく、それぞれ独立した評価点として見てくれてると感じさせられるし、相手の不快感は多少減るだろう。これは男女どちらにもある程度通じると考えている。<br><br>世の中のコミュニケーションに求められるレベルというのは日に日に上がっているように感じる。<br>
+男性は迂闊なことが言えないし、人によっては「下心」をちょっと出してしまったら社会的に死んでしまう可能性も考えられる。<br>
+だからこそ、今回のやり方を全員に推奨するつもりは全くない。<br>ただ、覚えておいて欲しいのは、ある程度上手くいってる人間は「下心」というものをコントロールして上手にチラ見せし、人間関係を築いていく際の武器に使っているということだ。これは同性間でも変わらない。上手く甘えて上手く気に入られる人間というのは大体そういうものだと思う。<br>
+参考になるかは分からないが、「ぬいペニ」問題に悩んでいるの人の人間関係が良い方向に進むことを祈っている。<br>書くの疲れたので、暇つぶしになったよ〜的な方は投げ銭してください。それでお酒飲みます。]]></description><link>https://obsidian.nasubi.dev/reading-list/「ぬいペニ」問題について｜しの。.html</link><guid isPermaLink="false">Reading List/「ぬいペニ」問題について｜しの。.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Wed, 26 Jun 2024 08:14:57 GMT</pubDate></item><item><title><![CDATA[<a data-tooltip-position="top" aria-label="https://qiita.com/Pavaux/items/450ac6823e86b092cfbb" rel="noopener" class="external-link" href="https://qiita.com/Pavaux/items/450ac6823e86b092cfbb" target="_blank">PythonとOpenCVで画像をアスキーアート化するプログラムを作った - Qiita</a>]]></title><description><![CDATA[ 
+ <br><a data-href="ReadItLater" href="https://obsidian.nasubi.dev/ReadItLater" class="internal-link" target="_self" rel="noopener">ReadItLater</a> <a data-href="Article" href="https://obsidian.nasubi.dev/Article" class="internal-link" target="_self" rel="noopener">Article</a><br><br>この記事は最終更新日から3年以上が経過しています。<br><br>先日、<a data-tooltip-position="top" aria-label="https://andrei.codes/ascii-camera/" rel="noopener" class="external-link" href="https://andrei.codes/ascii-camera/" target="_blank">ASCII Camera</a>という面白いサイトを見つけました。<br>
+<a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/d19dfdec7350295cf73fda4bc70b4a5d9a809104/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f31343534306239382d633933652d353236392d326633322d6338396531363438383164352e706e67" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/d19dfdec7350295cf73fda4bc70b4a5d9a809104/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f31343534306239382d633933652d353236392d326633322d6338396531363438383164352e706e67" target="_blank"></a><img alt="picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png" src="https://obsidian.nasubi.dev/reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png"><br>
+こんな風に、ブラウザからカメラ映像を取得してASCII文字列に変換してくれます。<br>このぐらいだったらもしかして自分で作れるんじゃないかと思ったので、画像をアスキーアートに変換するプログラムを作ってみることにしました。<br><br>仕組みとしては、以下のようになります。<br>
+<br>画像をグレースケールに変換する
+<br>各ピクセルの色の濃さを取得し、それに応じて文字を決定する
+<br>列ごとに改行する
+<br>PythonとOpenCVを使えばこれらの処理をかなり簡単に行えます。<br><br>読み込む画像のパスはinputで取得するようにします。<br>
+これでグレースケールに変換され、grayには各ピクセルの濃度(0～255)が格納されます。<br>import cv2
+
+imgpath = input("Path: ")
+img = cv2.imread(imgpath)
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+Copy<br><br>各ピクセルの濃度(0～255)ごとにASCII文字を決定する必要がありますが、実際に使えるASCII文字は256個もありません。<br>
+仕方がないので、使う文字を64個に厳選し、濃度を4ごとに区切って文字を選ぶことにしました。<br>
+例えば濃度が0～3なら「M」、252～255なら「 (空白)」、といった具合です。<br>以下が「濃度が高い」順番に並べた64個の文字です。<br>MWN$@%#&amp;B89EGA6mK5HRkbYT43V0JL7gpaseyxznocv?jIftr1li*=-~^`':;,. 
+Copy<br>この順番を決めるのがけっこう大変でした。<br>
+順番は見た目で決めただけなので、超適当です。<br>変換処理はこんな感じになりました。<br>
+colorset = "MWN$@%#&amp;B89EGA6mK5HRkbYT43V0JL7gpaseyxznocv?jIftr1li*=-~^`':;,. "
+
+for gray2 in gray:
+    output += "\n"
+    for dark in gray2:
+        output += colorset[dark // 4] * 2
+Copy<br>濃度を4で割って切り捨てることで、ちょうどよくcolorsetのインデックスを取得できます。<br>
+ASCII文字の縦横比は2:1なので、書き込む文字を2倍にしています。<br><br>完成したプログラムはこんな感じです。<br>
+結果はファイルに出力する形式にしました。<br>import cv2
+
+colorset = "MWN$@%#&amp;B89EGA6mK5HRkbYT43V0JL7gpaseyxznocv?jIftr1li*=-~^`':;,. "
+
+imgpath = input("Path:")
+img = cv2.imread(imgpath)
+
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+output = ""
+
+for gray2 in gray:
+    output += "\n"
+    for dark in gray2:
+        output += colorset[dark // 4] * 2
+
+with open("output.txt", mode="w") as f:
+    f.write(output)
+Copy<br>試しに私のアイコン(これ↓)を変換してみます。<br>
+<a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/69e3bafceda76ad6ffa1d0999a6d3daa000c61cd/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f36306134373765392d313930662d363433362d653534342d6337303964653637306232652e706e67" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/69e3bafceda76ad6ffa1d0999a6d3daa000c61cd/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f36306134373765392d313930662d363433362d653534342d6337303964653637306232652e706e67" target="_blank"></a><img alt="nico.png" src="https://obsidian.nasubi.dev/reading-list/assets/nico.png"><br>
+結果は...<br><a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/fc7b7024e8e7e606d3b7d0229cecaa4b6378bd3a/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f32393363373465372d356232312d366465322d626135652d6162653336623664356239392e706e67" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/fc7b7024e8e7e606d3b7d0229cecaa4b6378bd3a/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f32393363373465372d356232312d366465322d626135652d6162653336623664356239392e706e67" target="_blank"></a><img alt="スクリーンショット (148).png" src="https://obsidian.nasubi.dev/reading-list/assets/スクリーンショット-(148).png"><br>こんな感じ。<br>
+意外とちゃんと変換できていてびっくりしました。<br>次に、ぱくたそ様から頂いたイギリス北部の自然風景のフリー画像を、300×200pxに変換したもので試してみます。<br>
+<a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/b9757ee434c42af0787386520717dd7091d96ccf/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f32396462316331342d373634642d383462372d636236342d3335326266633865643732612e6a706567" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/b9757ee434c42af0787386520717dd7091d96ccf/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f32396462316331342d373634642d383462372d636236342d3335326266633865643732612e6a706567" target="_blank"></a><img alt="elly20160701265118_TP_V.jpg" src="https://obsidian.nasubi.dev/reading-list/assets/elly20160701265118_tp_v.jpg.jpeg"><br>
+結果は...<br><a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/403d47fa1681ebe68b885143a360d72a94c0dd1c/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f38333634663236652d346439352d356463332d333937352d6339383161623431343230362e706e67" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/403d47fa1681ebe68b885143a360d72a94c0dd1c/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f38333634663236652d346439352d356463332d333937352d6339383161623431343230362e706e67" target="_blank"></a><img alt="スクリーンショット (146).png" src="https://obsidian.nasubi.dev/reading-list/assets/スクリーンショット-(146).png"><br>
+うん...まあいい線いってるんじゃないですかね。<br>最後に、<a data-tooltip-position="top" aria-label="https://thispersondoesnotexist.com/" rel="noopener" class="external-link" href="https://thispersondoesnotexist.com/" target="_blank">This person does not exist</a>という、AIが顔写真を自動生成してくれるサイトで入手した、<br>
+<a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/3f4c2ea62823d2db6c696260ec3b1b986d0f7c7e/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f37303636346634382d386538312d346437392d653937342d3433366562353664613230612e6a706567" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/3f4c2ea62823d2db6c696260ec3b1b986d0f7c7e/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f37303636346634382d386538312d346437392d653937342d3433366562353664613230612e6a706567" target="_blank"></a><img alt="image.jpg" src="https://obsidian.nasubi.dev/reading-list/assets/image.jpg.jpeg"><br>
+この画像を250×250pxに変換して実行してみます。<br>結果は...<br><a data-tooltip-position="top" aria-label="https://camo.qiitausercontent.com/b0eb134a064b7ac4d4fbdac0288508f90c59be7d/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f62383839326338622d393666322d366638312d613030362d3333343932333936633265312e706e67" rel="noopener" class="external-link" href="https://camo.qiitausercontent.com/b0eb134a064b7ac4d4fbdac0288508f90c59be7d/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3632343039372f62383839326338622d393666322d366638312d613030362d3333343932333936633265312e706e67" target="_blank"></a><img alt="スクリーンショット (147).png" src="https://obsidian.nasubi.dev/reading-list/assets/スクリーンショット-(147).png"><br>
+かなりいい感じですね！<br>
+これは良い...頑張った甲斐があった...<br><br>という訳で、たった12行のコードで実現できてしまいました。<br>
+今回初めてOpenCVに触れたのですが、こんなに便利だとは思いませんでした。<br>
+これと同じことを256文字のUnicodeでやってみるのも面白いかもしれません。<br><br>
+<br><a data-tooltip-position="top" aria-label="https://note.nkmk.me/python-opencv-numpy-color-to-gray/" rel="noopener" class="external-link" href="https://note.nkmk.me/python-opencv-numpy-color-to-gray/" target="_blank">Python, OpenCV, NumPyでカラー画像を白黒（グレースケール）に変換</a>
+<br><a data-tooltip-position="top" aria-label="https://note.nkmk.me/python-numpy-image-processing/" rel="noopener" class="external-link" href="https://note.nkmk.me/python-numpy-image-processing/" target="_blank">Python, NumPyで画像処理（読み込み、演算、保存）</a>
+<br>新規登録して、もっと便利にQiitaを使ってみよう<br>
+<br>あなたにマッチした記事をお届けします
+<br>便利な情報をあとで効率的に読み返せます
+<br>ダークテーマを利用できます
+<br><a data-tooltip-position="top" aria-label="https://help.qiita.com/ja/articles/qiita-login-user" rel="noopener" class="external-link" href="https://help.qiita.com/ja/articles/qiita-login-user" target="_blank">ログインすると使える機能について</a>]]></description><link>https://obsidian.nasubi.dev/reading-list/pythonとopencvで画像をアスキーアート化するプログラムを作った-qiita.html</link><guid isPermaLink="false">Reading List/PythonとOpenCVで画像をアスキーアート化するプログラムを作った - Qiita.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 16 Jun 2024 16:39:19 GMT</pubDate><enclosure url="https://obsidian.nasubi.dev/reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://obsidian.nasubi.dev/reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[M3秋購入予定品]]></title><description><![CDATA[ 
+ <br>
+<br>MEGAREX
+
+<br>PSYQUI
+<br>KOTONOHOUSE
+<br>volta
+<br>mylta
+<br>ryoqucha
+<br>Zekk
+<br>lapix
+<br>mameyudoufu
+<br>KARUT
+<br>rejection
+<br>feryquitous
+<br>avans
+<br>siqlo
+<br>Connexio
+<br>zeroth
+<br>KERO
+<br>DJ Raisei
+
+
+<br>YUC'e
+<br>somunia
+<br>RUQOA
+<br>Club2Tokyo
+<br>WINK
+<br>9WR7Y
+<br>fusq
+<br>value
+<br>sakuzyo
+<br>Purukichi
+<br>Aiobahn
+<br>Neko Hacker
+<br>greyl
+<br>PODA
+<br>EmoCosine
+<br>african summer time
+<br>
+<br>Andora
+<br>TORIENA
+<br>PANXI
+<br>TEMPLIME
+<br>星宮とと
+<br>をとは
+<br>カミるれ
+<br>
+<br>abyssnoiz
+<br>ASUNDER
+<br>RAMGE
+<br>Jxxn
+<br>KLYDIX
+<br>TOKYO MACHINE
+<br>Geoxor
+]]></description><link>https://obsidian.nasubi.dev/m3秋購入予定品.html</link><guid isPermaLink="false">M3秋購入予定品.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Thu, 16 May 2024 15:47:11 GMT</pubDate></item><item><title><![CDATA[ガントチャート test]]></title><description><![CDATA[ 
+ <br><br>├─ src<br>│　├─ components<br>│　│　├─ achievements<br>│　│　│　├─ Card.tsx<br>│　│　│　├─ Info.tsx<br>│　│　│　└─ ...<br>│　│　└─ members<br>│　│　　　├─ Card.tsx<br>│　│　　　├─ Info.tsx<br>│　│　　　└─ ...<br>│　└─ pages<br>│　　　├─ achievements<br>│　　　│　├─ [id]<br>│　　　│　│　└─ index.tsx<br>│　　　│　└─ index.tsx<br>│　　　└─ ranking<br>│　　　　　└─ index.tsx<br>├─ .gitignore<br>└─ package.json<br>Inline Paste into sectionというプラグインもなかなかやばい<br>
+選択した文字にコピったリンクを埋め込めるし､その逆もできる<br>でもAuto Link Titleと機能がかぶってる]]></description><link>https://obsidian.nasubi.dev/ガントチャート-test.html</link><guid isPermaLink="false">ガントチャート test.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Thu, 20 Jun 2024 06:37:57 GMT</pubDate></item><item><title><![CDATA[資料用てきすと]]></title><description><![CDATA[ 
+ <br><br>表紙を除く4枚以上<br><br>個人サービスを長く細く続けていたい｡<br><br>MAUの多い大規模なtoCサービスを提供している会社に就き､ユーザーからのフィードバックに合わせて調整する仕事がしたい｡できるなら立ち上げメンバーとして何かを成し遂げたい｡<br><br>
+<br>ハッカソン最優秀賞受賞
+<br>学生エンジニア交流イベントに多数参加
+<br>チームリーダーとして皆を率いて成果を残す
+<br>サークルで勉強会を開いてコミュニティの活性化をさせる
+<br>才能ある学生とつながる
+<br>何らかの団体の代表になりたい
+<br>インターン
+<br>conferenceにも参加したい
+<br>授業では得られない体験を積極的にする
+]]></description><link>https://obsidian.nasubi.dev/資料用てきすと.html</link><guid isPermaLink="false">資料用てきすと.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Mon, 24 Jun 2024 02:58:28 GMT</pubDate></item><item><title><![CDATA[東京観光]]></title><description><![CDATA[ 
+ <br>
+<br>DJイベント
+
+<br>GOLDDISC_ZEROTOKYO
+<br>mogra
+
+
+<br>文喫 六本木
+<br>秋葉原
+<br>磯脇の家
+<br>
+]]></description><link>https://obsidian.nasubi.dev/東京観光.html</link><guid isPermaLink="false">東京観光.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Sun, 09 Jun 2024 13:23:29 GMT</pubDate></item><item><title><![CDATA[本のポップ]]></title><description><![CDATA[ 
+ <br>Fight Club<br>
+<br>ファイトクラブ ルールその１ ファイトクラブについて話すな<br>
+ファイトクラブ ルールその２ ファイトクラブについて話すな
+<br>労働者階級の救世主
+<br>
+<br>遮光<br>
+虚言癖のある男の<br>金閣寺<br>
+ある男が生まれてから金閣を焼くまで<br>こころ]]></description><link>https://obsidian.nasubi.dev/本のポップ.html</link><guid isPermaLink="false">本のポップ.md</guid><dc:creator><![CDATA[nasubi]]></dc:creator><pubDate>Fri, 31 May 2024 09:54:13 GMT</pubDate></item></channel></rss>
