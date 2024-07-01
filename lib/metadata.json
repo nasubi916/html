@@ -1,6 +1,6 @@
 {
   "vaultName": "obisidian",
-  "lastExport": 1719793287996,
+  "lastExport": 1719845185033,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon outliner-plugin-dnd",
   "useCustomHeadContent": false,
@@ -19,27 +19,6 @@
     "database/russia/ロシア帝国貴族.pdf",
     "database/russia/中世の人口.pdf",
     "database/russia/帝政末期での社会主義の生まれ.pdf",
-    "logs/Cyber Agent ES.md",
-    "logs/IIJmioサポート話すことメモ.md",
-    "logs/nasublogs.md",
-    "logs/password.md",
-    "logs/pluszero面接チートシート.md",
-    "logs/STECHの面談チートシート.md",
-    "logs/STECH会長面談.md",
-    "logs/TechTrain面談メモ.md",
-    "logs/Yamada UI State 勉強会.md",
-    "logs/えさちぶめんと 2024vol.7技育ハッカソン.md",
-    "logs/えさちぶめんと ハッカソン発表用資料.md",
-    "logs/カラオケ歌いたい曲.md",
-    "logs/サマーインターン.md",
-    "logs/シス研 全実績.md",
-    "logs/セキュリティキャンプ.md",
-    "logs/バイトメモ.md",
-    "logs/ハッカソン10秒 えさちぶめんと.md",
-    "logs/りょーまへの返信.md",
-    "logs/研究室質問.md",
-    "logs/推し本.md",
-    "logs/勉強会を開催するときの確認事項.md",
     "Reading List/assets/elly20160701265118_TP_V.jpg.jpeg",
     "Reading List/assets/image.jpg.jpeg",
     "Reading List/assets/nico.png",
@@ -53,34 +32,10 @@
     "ガントチャート test.md",
     "資料用てきすと.md",
     "東京観光.md",
-    "本のポップ.md",
     "lib/media/test20240418104639591.jpg",
     "lib/media/test20240418104606950.jpg",
     "lib/media/test20240418104836911.jpg",
     "lib/media/test20240418105310833.jpg",
-    "lib/media/test20240417210217172.jpg",
-    "lib/media/test20240619211918928.jpg",
-    "lib/media/test20240619212258587.jpg",
-    "lib/media/test20240619212314726.jpg",
-    "lib/media/test20240619212604439.jpg",
-    "lib/media/test20240619213113359.jpg",
-    "lib/media/test20240619215428681.jpg",
-    "lib/media/test20240619220432932.jpg",
-    "lib/media/test20240619220602947.jpg",
-    "lib/media/test20240619220728518.jpg",
-    "lib/media/test20240619221140695.jpg",
-    "lib/media/test20240619222258324.jpg",
-    "lib/media/test20240619223007919.jpg",
-    "lib/media/test20240619223106312.jpg",
-    "lib/media/test20240612233151031.jpg",
-    "lib/media/test20240613000541498.jpg",
-    "lib/media/test20240613011729835.jpg",
-    "lib/media/test20240613234606099.jpg",
-    "lib/media/test20240415125944703.jpg",
-    "lib/media/test20240415000626312.jpg",
-    "lib/media/test20240422094408297.jpg",
-    "lib/media/test20240422094408046.jpg",
-    "lib/media/test20240422094408126.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -192,43 +147,43 @@
   ],
   "fileInfo": {
     "blogs/MaturibaTech vol.4に参加してきた/Qiita.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 2410,
       "exportedPath": "blogs/maturibatech-vol.4に参加してきた/qiita.html",
       "dependencies": []
     },
     "blogs/MaturibaTech vol.4に参加してきた/Obsidian.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 2326,
       "exportedPath": "blogs/maturibatech-vol.4に参加してきた/obsidian.html",
       "dependencies": []
     },
     "blogs/MaturibaTech vol.4に参加してきた/Zenn.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 2318,
       "exportedPath": "blogs/maturibatech-vol.4に参加してきた/zenn.html",
       "dependencies": []
     },
     "blogs/Obsidian v2/memo.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 2235,
+      "modifiedTime": 1719845185033,
+      "sourceSize": 2447,
       "exportedPath": "blogs/obsidian-v2/memo.html",
       "dependencies": []
     },
     "blogs/Obsidian v2/アウトライン.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 547,
+      "modifiedTime": 1719845185033,
+      "sourceSize": 551,
       "exportedPath": "blogs/obsidian-v2/アウトライン.html",
       "dependencies": []
     },
     "blogs/Obsidianが大学生活を変える! 学生必見の活用術/Draft.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 3793,
       "exportedPath": "blogs/obsidianが大学生活を変える!-学生必見の活用術/draft.html",
       "dependencies": []
     },
     "blogs/Obsidianが大学生活を変える! 学生必見の活用術/obsidian.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 14045,
       "exportedPath": "blogs/obsidianが大学生活を変える!-学生必見の活用術/obsidian.html",
       "dependencies": [
@@ -239,245 +194,91 @@
       ]
     },
     "blogs/Obsidianが大学生活を変える! 学生必見の活用術/qiita.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 14489,
       "exportedPath": "blogs/obsidianが大学生活を変える!-学生必見の活用術/qiita.html",
       "dependencies": []
     },
     "blogs/Obsidianが大学生活を変える! 学生必見の活用術/zenn.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 14076,
       "exportedPath": "blogs/obsidianが大学生活を変える!-学生必見の活用術/zenn.html",
       "dependencies": []
     },
     "database/russia/ロシア国家の起源.pdf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1373376,
       "exportedPath": "database/russia/ロシア国家の起源.pdf",
       "dependencies": []
     },
     "database/russia/ロシア帝国貴族.pdf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1609365,
       "exportedPath": "database/russia/ロシア帝国貴族.pdf",
       "dependencies": []
     },
     "database/russia/中世の人口.pdf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1873264,
       "exportedPath": "database/russia/中世の人口.pdf",
       "dependencies": []
     },
     "database/russia/帝政末期での社会主義の生まれ.pdf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1369541,
       "exportedPath": "database/russia/帝政末期での社会主義の生まれ.pdf",
       "dependencies": []
     },
-    "logs/Cyber Agent ES.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 14972,
-      "exportedPath": "logs/cyber-agent-es.html",
-      "dependencies": []
-    },
-    "logs/IIJmioサポート話すことメモ.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 175,
-      "exportedPath": "logs/iijmioサポート話すことメモ.html",
-      "dependencies": []
-    },
-    "logs/nasublogs.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 582,
-      "exportedPath": "logs/nasublogs.html",
-      "dependencies": []
-    },
-    "logs/password.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 273,
-      "exportedPath": "logs/password.html",
-      "dependencies": [
-        "lib/media/test20240417210217172.jpg"
-      ]
-    },
-    "logs/pluszero面接チートシート.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 1166,
-      "exportedPath": "logs/pluszero面接チートシート.html",
-      "dependencies": []
-    },
-    "logs/STECHの面談チートシート.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 1293,
-      "exportedPath": "logs/stechの面談チートシート.html",
-      "dependencies": []
-    },
-    "logs/STECH会長面談.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 1824,
-      "exportedPath": "logs/stech会長面談.html",
-      "dependencies": []
-    },
-    "logs/TechTrain面談メモ.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 608,
-      "exportedPath": "logs/techtrain面談メモ.html",
-      "dependencies": []
-    },
-    "logs/Yamada UI State 勉強会.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 2942,
-      "exportedPath": "logs/yamada-ui-state-勉強会.html",
-      "dependencies": [
-        "lib/media/test20240619211918928.jpg",
-        "lib/media/test20240619212258587.jpg",
-        "lib/media/test20240619212314726.jpg",
-        "lib/media/test20240619212604439.jpg",
-        "lib/media/test20240619213113359.jpg",
-        "lib/media/test20240619215428681.jpg",
-        "lib/media/test20240619220432932.jpg",
-        "lib/media/test20240619220602947.jpg",
-        "lib/media/test20240619220728518.jpg",
-        "lib/media/test20240619221140695.jpg",
-        "lib/media/test20240619222258324.jpg",
-        "lib/media/test20240619223007919.jpg",
-        "lib/media/test20240619223106312.jpg"
-      ]
-    },
-    "logs/えさちぶめんと 2024vol.7技育ハッカソン.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 4594,
-      "exportedPath": "logs/えさちぶめんと-2024vol.7技育ハッカソン.html",
-      "dependencies": [
-        "lib/media/test20240612233151031.jpg",
-        "lib/media/test20240613000541498.jpg",
-        "lib/media/test20240613011729835.jpg",
-        "lib/media/test20240613234606099.jpg"
-      ]
-    },
-    "logs/えさちぶめんと ハッカソン発表用資料.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 1173,
-      "exportedPath": "logs/えさちぶめんと-ハッカソン発表用資料.html",
-      "dependencies": []
-    },
-    "logs/カラオケ歌いたい曲.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 11585,
-      "exportedPath": "logs/カラオケ歌いたい曲.html",
-      "dependencies": []
-    },
-    "logs/サマーインターン.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 23657,
-      "exportedPath": "logs/サマーインターン.html",
-      "dependencies": []
-    },
-    "logs/シス研 全実績.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 2619,
-      "exportedPath": "logs/シス研-全実績.html",
-      "dependencies": []
-    },
-    "logs/セキュリティキャンプ.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 39525,
-      "exportedPath": "logs/セキュリティキャンプ.html",
-      "dependencies": [
-        "lib/media/test20240415125944703.jpg",
-        "lib/media/test20240415000626312.jpg"
-      ]
-    },
-    "logs/バイトメモ.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 6726,
-      "exportedPath": "logs/バイトメモ.html",
-      "dependencies": [
-        "lib/media/test20240422094408297.jpg",
-        "lib/media/test20240422094408046.jpg",
-        "lib/media/test20240422094408126.jpg"
-      ]
-    },
-    "logs/ハッカソン10秒 えさちぶめんと.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 107,
-      "exportedPath": "logs/ハッカソン10秒-えさちぶめんと.html",
-      "dependencies": []
-    },
-    "logs/りょーまへの返信.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 12155,
-      "exportedPath": "logs/りょーまへの返信.html",
-      "dependencies": []
-    },
-    "logs/研究室質問.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 2436,
-      "exportedPath": "logs/研究室質問.html",
-      "dependencies": []
-    },
-    "logs/推し本.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 800,
-      "exportedPath": "logs/推し本.html",
-      "dependencies": []
-    },
-    "logs/勉強会を開催するときの確認事項.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 328,
-      "exportedPath": "logs/勉強会を開催するときの確認事項.html",
-      "dependencies": []
-    },
     "Reading List/assets/elly20160701265118_TP_V.jpg.jpeg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 385754,
       "exportedPath": "reading-list/assets/elly20160701265118_tp_v.jpg.jpeg",
       "dependencies": []
     },
     "Reading List/assets/image.jpg.jpeg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 140424,
       "exportedPath": "reading-list/assets/image.jpg.jpeg",
       "dependencies": []
     },
     "Reading List/assets/nico.png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 735,
       "exportedPath": "reading-list/assets/nico.png",
       "dependencies": []
     },
     "Reading List/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 381955,
       "exportedPath": "reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png",
       "dependencies": []
     },
     "Reading List/assets/スクリーンショット (146).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 451346,
       "exportedPath": "reading-list/assets/スクリーンショット-(146).png",
       "dependencies": []
     },
     "Reading List/assets/スクリーンショット (147).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 386883,
       "exportedPath": "reading-list/assets/スクリーンショット-(147).png",
       "dependencies": []
     },
     "Reading List/assets/スクリーンショット (148).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 19948,
       "exportedPath": "reading-list/assets/スクリーンショット-(148).png",
       "dependencies": []
     },
     "Reading List/「ぬいペニ」問題について｜しの。.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 11509,
       "exportedPath": "reading-list/「ぬいペニ」問題について｜しの。.html",
       "dependencies": []
     },
     "Reading List/PythonとOpenCVで画像をアスキーアート化するプログラムを作った - Qiita.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 8094,
       "exportedPath": "reading-list/pythonとopencvで画像をアスキーアート化するプログラムを作った-qiita.html",
       "dependencies": [
@@ -498,553 +299,409 @@
       ]
     },
     "M3秋購入予定品.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 515,
       "exportedPath": "m3秋購入予定品.html",
       "dependencies": []
     },
     "ガントチャート test.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 746,
       "exportedPath": "ガントチャート-test.html",
       "dependencies": []
     },
     "資料用てきすと.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 889,
       "exportedPath": "資料用てきすと.html",
       "dependencies": []
     },
     "東京観光.md": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 96,
       "exportedPath": "東京観光.html",
       "dependencies": []
     },
-    "本のポップ.md": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 328,
-      "exportedPath": "本のポップ.html",
-      "dependencies": []
-    },
     "lib/media/test20240418104639591.jpg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 30368,
       "exportedPath": "lib/media/test20240418104639591.jpg",
       "dependencies": []
     },
     "lib/media/test20240418104606950.jpg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 88033,
       "exportedPath": "lib/media/test20240418104606950.jpg",
       "dependencies": []
     },
     "lib/media/test20240418104836911.jpg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 35271,
       "exportedPath": "lib/media/test20240418104836911.jpg",
       "dependencies": []
     },
     "lib/media/test20240418105310833.jpg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 23931,
       "exportedPath": "lib/media/test20240418105310833.jpg",
       "dependencies": []
     },
-    "lib/media/test20240417210217172.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 7538,
-      "exportedPath": "lib/media/test20240417210217172.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619211918928.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 35264,
-      "exportedPath": "lib/media/test20240619211918928.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619212258587.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 41385,
-      "exportedPath": "lib/media/test20240619212258587.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619212314726.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 22694,
-      "exportedPath": "lib/media/test20240619212314726.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619212604439.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 24802,
-      "exportedPath": "lib/media/test20240619212604439.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619213113359.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 25933,
-      "exportedPath": "lib/media/test20240619213113359.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619215428681.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 10269,
-      "exportedPath": "lib/media/test20240619215428681.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619220432932.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 23232,
-      "exportedPath": "lib/media/test20240619220432932.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619220602947.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 165916,
-      "exportedPath": "lib/media/test20240619220602947.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619220728518.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 113250,
-      "exportedPath": "lib/media/test20240619220728518.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619221140695.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 116208,
-      "exportedPath": "lib/media/test20240619221140695.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619222258324.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 69427,
-      "exportedPath": "lib/media/test20240619222258324.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619223007919.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 92171,
-      "exportedPath": "lib/media/test20240619223007919.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240619223106312.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 80019,
-      "exportedPath": "lib/media/test20240619223106312.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240612233151031.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 88188,
-      "exportedPath": "lib/media/test20240612233151031.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240613000541498.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 131896,
-      "exportedPath": "lib/media/test20240613000541498.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240613011729835.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 124248,
-      "exportedPath": "lib/media/test20240613011729835.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240613234606099.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 315654,
-      "exportedPath": "lib/media/test20240613234606099.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240415125944703.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 71318,
-      "exportedPath": "lib/media/test20240415125944703.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240415000626312.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 53996,
-      "exportedPath": "lib/media/test20240415000626312.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240422094408297.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 156633,
-      "exportedPath": "lib/media/test20240422094408297.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240422094408046.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 90109,
-      "exportedPath": "lib/media/test20240422094408046.jpg",
-      "dependencies": []
-    },
-    "lib/media/test20240422094408126.jpg": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 99474,
-      "exportedPath": "lib/media/test20240422094408126.jpg",
-      "dependencies": []
-    },
     "reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 381955,
       "exportedPath": "reading-list/assets/picture_pc_3c309a4cbd82ecc52c545a04da630a0b.png",
       "dependencies": []
     },
     "reading-list/assets/nico.png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 735,
       "exportedPath": "reading-list/assets/nico.png",
       "dependencies": []
     },
     "reading-list/assets/スクリーンショット-(148).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 19948,
       "exportedPath": "reading-list/assets/スクリーンショット-(148).png",
       "dependencies": []
     },
     "reading-list/assets/elly20160701265118_tp_v.jpg.jpeg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 385754,
       "exportedPath": "reading-list/assets/elly20160701265118_tp_v.jpg.jpeg",
       "dependencies": []
     },
     "reading-list/assets/スクリーンショット-(146).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 451346,
       "exportedPath": "reading-list/assets/スクリーンショット-(146).png",
       "dependencies": []
     },
     "reading-list/assets/image.jpg.jpeg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 140424,
       "exportedPath": "reading-list/assets/image.jpg.jpeg",
       "dependencies": []
     },
     "reading-list/assets/スクリーンショット-(147).png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 386883,
       "exportedPath": "reading-list/assets/スクリーンショット-(147).png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 22538,
+      "modifiedTime": 1719845185033,
+      "sourceSize": 14875,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 2032,
+      "modifiedTime": 1719845185033,
+      "sourceSize": 1073,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 1803,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 440,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1719793287996,
-      "sourceSize": 8461,
+      "modifiedTime": 1719845185033,
+      "sourceSize": 22091,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1719793287996,
+      "modifiedTime": 1719845185033,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
